@@ -1,9 +1,9 @@
 ---
 lang-ref: archive
 layout: archive
-title: News
+title: Novedades
 description: News and events
-permalink: /news/
+permalink: /novedades/
 ---
 {% comment %}
   No content here. The layout will insert a card for each post in your _posts folder

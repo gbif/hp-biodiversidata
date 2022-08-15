@@ -53,11 +53,11 @@ siteMeasurements:
 
 
 algae:
-  rootLang: en
+  rootLang: es
   # latestPostLimit: 2
   # logo: /assets/images/fungi.svg  # Logo in navbar, will be displayed with 28px height
   # logoAndTitle: false           # include the title next to the logo
-  archive_permalink: /news/       # Permalink of page using archive.html layout, required when using post categories
+  archive_permalink: /novedades/       # Permalink of page using archive.html layout, required when using post categories
   style:
     # square: false               # Should corners be square or rounded
     colors:
@@ -100,13 +100,13 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "page" # So by default any page will use the layout "page"
-      lang: en # And have the default language english
+      lang: es # And have the default language english
   - scope:
       path: "_posts" # an empty string here means all files in the project
     values:
       layout: "post"
       permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
   - scope:
-      path: "es/" # For anything in the "da" folder the default is to set the lang frontMatter property to "da" . this should be deleted or adapted to your site if you support other languages
+      path: "en/" # For anything in the "da" folder the default is to set the lang frontMatter property to "da" . this should be deleted or adapted to your site if you support other languages
     values:
-      lang: es
+      lang: en

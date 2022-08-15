@@ -12,7 +12,7 @@ var siteConfig = {
     occurrenceSearch: {
       // The route you are currently using for occurrence search. The language prefix will be added automatically
       // If you need special routes per language, then you have to add locale specific overwrites. The page language is available as a global variable called `pageLang`
-      // route: '/data'
+      route: '/registros-de-presencia/buscar'
     }
   },
   occurrence: {
@@ -32,6 +32,6 @@ var siteConfig = {
 };
 
 // example of a language specific route overwrite
-if (pageLang === 'es')  {
-  siteConfig.routes.occurrenceSearch.route = '/registros-de-presencia/buscar';
+if (pageLang === 'en')  {
+  siteConfig.routes.occurrenceSearch.route = '/occurrence/search';
 }

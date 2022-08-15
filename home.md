@@ -9,11 +9,11 @@ height: 70vh
 imageLicense: |
   *Chalodeta theodora* observed in Uruguay by Luis Vescia da Rosa licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/3455759220)
 cta:
-  - text: Start exploring
-    href: /occurrence/search
+  - text: Registros De presencia
+    href: /registros-de-presencia/buscar/
     isPrimary: true
-  - text: About
-    href: /about
+  - text: Novedades
+    href: /novedades
 permalink: /
 ---
 

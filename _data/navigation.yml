@@ -2,8 +2,8 @@
 
 - text: Anchor news
   href: /#news
-- text: Occurrences
-  href: /occurrence/search
+- text: Registros de presencia
+  href: /registros-de-presencia/buscar
 - text: Example pages
   menu: # Dropdown menu (one level deep only)
   - text: Simple
@@ -24,5 +24,5 @@
     href: https://guides.github.com/features/mastering-markdown/
   - text: YAML tutorial
     href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
-- text: News
-  href: /news/
+- text: Novedades
+  href: /novedades/

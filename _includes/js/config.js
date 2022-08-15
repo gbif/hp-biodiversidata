@@ -17,21 +17,21 @@ var siteConfig = {
   },
   occurrence: {
     mapSettings: {
-      lat: 60,
-      lng: -100,
-      zoom: 4.9115440763665068
+      lat: -32.96,
+      lng: -56.19,
+      zoom: 6.58
     },
     // You probably need help to configure the scope - so just ask
     // for his demo site we only show Fungi (taxonKey=5). It use the predicate structure known from GBIF download API. 
     // See https://www.gbif.org/developer/occurrence (long page without enough anchors - search for "Occurrence Download Predicates")
     // The format is however slightly different, in that is use camelCase for keys instead of CONSTANT_CASE. 
-    rootPredicate: { type: 'equals', key: 'taxonKey', value: 5 }, 
-    // occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS'] // what tabs should be shown
+    rootPredicate: { type: 'equals', key: 'publishingOrg', value: '862f7ec3-3134-4dce-ab5a-03c81f54bd72' }, 
+    occurrenceSearchTabs: ['MAP', 'TABLE'] // what tabs should be shown
     // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
   }
 };
 
 // example of a language specific route overwrite
-if (pageLang === 'da')  {
-  siteConfig.routes.occurrenceSearch.route = '/observationer/sog';
+if (pageLang === 'es')  {
+  siteConfig.routes.occurrenceSearch.route = '/registros-de-presencia/buscar';
 }

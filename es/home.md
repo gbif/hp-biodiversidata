@@ -1,20 +1,21 @@
 ---
 lang-ref: home
 layout: home
-title: Skabelon overskrift
+title: Spanish landing page
 description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
 background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F58912610%2Foriginal.jpeg%3F1577953995
 imageLicense: |
   *Xylaria hypoxylon* (L.) Grev. Photo by Alexis via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
 cta:
-  - text: Udforsk
-    href: /da/observationer/sog
+  - text: Registros De presencia
+    href: /es/registros-de-presencia/buscar/
     isPrimary: true
-  - text: Om
-    href: /da/om
-permalink: /da
+  - text: Novedades
+    href: /es/#novedades
+permalink: /es
 ---
 
+# Novedades
 Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
 flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
 pontum ut** avus quamquam de trabes vestemque cruorem tremor.

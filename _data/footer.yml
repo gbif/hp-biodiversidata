@@ -6,7 +6,7 @@ columns:
   - name: Acerca de
     links:
     - text: Biodiversidata
-      href: http://example.com #/acercade/biodiversidata
+      href: /acercade/biodiversidata
     - text: Quiénes somos
       href: http://example.com
     - text: Quiénes somos
@@ -14,13 +14,14 @@ columns:
 
   - name: Code
     description: | # Can be Markdown
-      This project is open source. Brand [Renata Polastri](https://www.renatapolastri.com).
+      This project is open source. Brand Renata Polastri.
 
   - name: Contacto
     description: | # Can be Markdown
 #      Social icons links defined in `_config.yml`
       * biodiversidata@gmail.com
       * Country
+
     connectIcons: true
 
   # EXAMPLE

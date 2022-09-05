@@ -3,6 +3,7 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
+
   - name: Acerca de
     links:
     - text: Biodiversidata
@@ -12,9 +13,11 @@ columns:
     - text: Quiénes somos
       href: http://example.com
 
-  - name: Code
+  - name: -
     description: | # Can be Markdown
-      This project is open source. Brand Renata Polastri.
+      This project is open source.
+    - text: Brand: Renata Polastri
+      href: https://www.renatapolastri.com
 
   - name: Contacto
     description: | # Can be Markdown

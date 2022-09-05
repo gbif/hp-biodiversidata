@@ -13,17 +13,16 @@ columns:
     - text: Quiénes somos
       href: http://example.com
 
-  - name: -
+  - name: Code
     description: | # Can be Markdown
       This project is open source.
-    - text: Brand: Renata Polastri
-      href: https://www.renatapolastri.com
+      Brand: [Renata Polastri](https://www.renatapolastri.com).
 
   - name: Contacto
     description: | # Can be Markdown
 #      Social icons links defined in `_config.yml`
       * biodiversidata@gmail.com
-      * Country
+      * Uruguay
 
     connectIcons: true
 

@@ -26,7 +26,7 @@ var siteConfig = {
     // See https://www.gbif.org/developer/occurrence (long page without enough anchors - search for 'Occurrence Download Predicates')
     // The format is however slightly different, in that is use camelCase for keys instead of CONSTANT_CASE.
     rootPredicate: {
-      type: 'and',
+      type: 'or',
       'predicates': [
         {
           key: 'publishingOrg',
@@ -44,7 +44,7 @@ var siteConfig = {
             {
               key: 'publishingOrg',
               type: 'equals',
-              value: '50c9509d-22c7-4a22-a47d-8c48425ef4a7'
+              value: '28eb1a3f-1c15-4a95-931a-4af90ecb574d'
             }
           ]
         }

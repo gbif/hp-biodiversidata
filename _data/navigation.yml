@@ -2,14 +2,14 @@
 
 - text: Acerca de
   href: /#acercade
-- text: Registros de presencia
+- text: Datos
   menu: # Dropdown menu (one level deep only)
   - text: En GBIF
     href: /datos/buscar
   - text: Zenodo
     href: /datos/zenodo
 - text: Novedades
-  href: /novedades/
+  href: /#novedades/
 - text: Links
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
@@ -24,5 +24,7 @@
     href: https://guides.github.com/features/mastering-markdown/
   - text: YAML tutorial
     href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
-- text: Novedades
-  href: /#novedades/
+- text: Publicaciones
+  href: /publicaciones
+- text: Recursos
+  href: /recursos

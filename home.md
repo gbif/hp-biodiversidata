@@ -4,10 +4,10 @@ layout: home
 title: Biodiversidata
 description: |
   El Consorcio de Datos de Biodiversidad del Uruguay es una asociación colaborativa de expertos y expertas con el objetivo de mejorar el conocimiento de la biodiversidad de Uruguay.
-background: https://inaturalist-open-data.s3.amazonaws.com/photos/58055050/original.jpg
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/162124693/original.jpg
 height: 70vh
 imageLicense: |
-  *Dasypus novemcinctus* observed in Uruguay by Leo Lagos licensed under [CC BY](http://creativecommons.org/licenses/by/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/2529342625)
+  *Tillandsia aeranthos* observed in Uruguay by Guillermo Menéndez licensed under [CC BY-NC](http://creativecommons.org/licenses/by-nc/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/3772595479)
 cta:
   - text: Datos
     href: /datos/buscar/

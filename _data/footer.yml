@@ -16,7 +16,9 @@ columns:
   - name: Code
     description: | # Can be Markdown
       This project is open source.
-      Brand: [Renata Polastri](https://www.renatapolastri.com).
+    links:
+      - text: Brand: Renata Polastri
+        href: https://www.renatapolastri.com
 
   - name: Contacto
     description: | # Can be Markdown

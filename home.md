@@ -3,14 +3,14 @@ lang-ref: home
 layout: home
 title: Biodiversidata
 description: |
-  The Uruguayan Consortium of Biodiversity Data is a collaborative association of experts with the aim of improving Uruguay’s biodiversity knowledge.
-background: https://inaturalist-open-data.s3.amazonaws.com/photos/176594423/original.jpeg
+  El **Consorcio de Datos de Biodiversidad del Uruguay** es una asociación colaborativa de expertos y expertas con el objetivo de mejorar el conocimiento de la biodiversidad de Uruguay.
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/58055050/original.jpg
 height: 70vh
 imageLicense: |
-  *Chalodeta theodora* observed in Uruguay by Luis Vescia da Rosa licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/3455759220)
+  *Dasypus novemcinctus* observed in Uruguay by Leo Lagos licensed under [CC BY](http://creativecommons.org/licenses/by/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/2529342625)
 cta:
-  - text: Registros De presencia
-    href: /registros-de-presencia/buscar/
+  - text: Datos
+    href: /datos/buscar/
     isPrimary: true
   - text: Novedades
     href: /novedades
@@ -54,5 +54,3 @@ Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
 profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
 neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
 tollebat altius](http://virgineusque.net/est.html).
-
-

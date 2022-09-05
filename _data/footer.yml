@@ -6,7 +6,7 @@ columns:
   - name: Acerca de
     links:
     - text: Biodiversidata
-      href: /acercade/biodiversidata
+      href: http://example.com #/acercade/biodiversidata
     - text: Quiénes somos
       href: http://example.com
     - text: Quiénes somos
@@ -39,5 +39,5 @@ columns:
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
 # Will be postfixed by "Powered by GBIF"
 # (Disabled by default, remove the '#' lines on the following two lines to enable.)
-license: 
-  Content on this site is licensed under an [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+# license:
+#  Content on this site is licensed under an [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).

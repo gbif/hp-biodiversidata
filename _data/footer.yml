@@ -14,7 +14,6 @@
 
    - name: Code
      description: | # Can be Markdown
-       This project is open source
      links:
      - text: Brand by Renata Polastri
        href: http://example.com

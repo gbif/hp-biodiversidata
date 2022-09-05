@@ -29,23 +29,23 @@ var siteConfig = {
       type: 'or',
       'predicates': [
         {
-          key: 'publishingOrg',
-          type: 'equals',
-          value: '862f7ec3-3134-4dce-ab5a-03c81f54bd72'
+          'key': 'publishingOrg',
+          'type': 'equals',
+          'value': '862f7ec3-3134-4dce-ab5a-03c81f54bd72'
         },
         {
-          type: 'and',
+          'type': 'and',
           'predicates': [
             {
-              key: 'country',
-              type: 'equals',
-              value: 'UY'
+              'key': 'publishingOrg',
+              'type': 'equals',
+              'value': '28eb1a3f-1c15-4a95-931a-4af90ecb574d'
             },
             {
-              key: 'publishingOrg',
-              type: 'equals',
-              value: '28eb1a3f-1c15-4a95-931a-4af90ecb574d'
-            }
+              'key': 'country',
+              'type': 'equals',
+              'value': 'UY'
+            },
           ]
         }
       ]

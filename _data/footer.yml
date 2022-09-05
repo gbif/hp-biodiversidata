@@ -15,10 +15,12 @@
    - name: Code
      description: | # Can be Markdown
        This project is open source.
+     links:
+     - text: Brand by Renata Polastri
+       href: http://example.com
 
    - name: Contact
      description: | # Can be Markdown
-       Social icons links defined in `_config.yml`
        * biodiversidata@gmail.com
        * Uruguay
      connectIcons: true

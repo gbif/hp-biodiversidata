@@ -3,22 +3,23 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Partners
+  - name: Acerca de
     links:
-    - text: Name of project partner 1
+    - text: Biodiversidata
+      href: /acercade/biodiversidata
+    - text: Quiénes somos
       href: http://example.com
-    - text: Name of project partner 2
+    - text: Quiénes somos
       href: http://example.com
 
   - name: Code
     description: | # Can be Markdown
-      This project is open source. See `_data/footer.yml` to customize the footer.
-  
-  - name: Contact
+      This project is open source. Brand [Renata Polastri](https://www.renatapolastri.com).
+
+  - name: Contacto
     description: | # Can be Markdown
-      Social icons links defined in `_config.yml`
-      * Street name
-      * 1234 postal code
+#      Social icons links defined in `_config.yml`
+      * biodiversidata@gmail.com
       * Country
     connectIcons: true
 
@@ -38,5 +39,5 @@ columns:
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
 # Will be postfixed by "Powered by GBIF"
 # (Disabled by default, remove the '#' lines on the following two lines to enable.)
-#license: >
-#  Content on this site is licensed under an [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+license: >
+  Content on this site is licensed under an [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).

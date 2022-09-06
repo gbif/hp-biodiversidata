@@ -1,6 +1,6 @@
 ---
 layout: heroImage # try to remoce this line (add # in the beginning of the line to make it a comment) - then the layout will change, but the content remain the same
-title: Simple page
+title: Datos en Zenodo
 preTitle: 20 de enero 2019
 description: This page is using a simple predefined layout with an image, a title and some body text
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/62167586/original.jpg
@@ -8,24 +8,63 @@ height: 40vh
 imageLicense: |
   *Dasypus septemcinctus hybridus* observed in Uruguay by Leo Lagos licensed under [CC BY](http://creativecommons.org/licenses/by/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/2576425108)
 cta: # OPTIONAL list of buttons
-- text: Descargar
-  href: /https://doi.org/10.5281/zenodo.3685897
+- text: [![](/assets/images/academic-icons/open-access.svg){:width="16px"}]() Datos de vertebrados tetrápodos
+  href: https://doi.org/10.5281/zenodo.3685897
   isPrimary: true # OPTIONAL
+  - text: [![](/assets/images/academic-icons/open-access.svg){:width="16px"}]() Datos de plantas vasculares
+    href: https://doi.org/10.5281/zenodo.3954406
+    isPrimary: true # OPTIONAL
 ---
 
-## Datos en Zenodo
+# Base de datos de regristros de presencia
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
+Nuestras bases de datos completas de registros de presencia de tetrápodos y plantas vasculares de Uruguay están disponibles en **Zenodo**.
 
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
+## Vertebrados tetrápodos
 
-[{icon_pack = "ai",
-icon="open-access",
-name="Datos",
-url = "https://doi.org/10.5281/zenodo.3685897"}]
+Esta es la primera base de datos abiertos que proporciona datos primarios de biodiversidad sobre las especies existentes de anfibios, reptiles, aves y mamíferos registradas en el Uruguay. El número total de registros recopilados es de 69,380, abarcando 673 especies. Esta es la base de datos más grande y geográficamente y taxonómicamente más completa de tetrápodos uruguayos disponible hasta la fecha y representa el primer repositorio abierto para el país.  
+<br>
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3685897.svg)](https://doi.org/10.5281/zenodo.3685897)
+
+**Si utilizas estos datos, por favor cita a:**
+Grattarola F, Botto G, da Rosa I, Gobel N, González E, González J, Hernández D, Laufer G, Maneyro R, Martínez-Lanfranco J, Naya D, Rodales A, Ziegler L, Pincheira-Donoso D (2019) Biodiversidata: An Open-Access Biodiversity Database for Uruguay. Biodiversity Data Journal 7: e36226. https://doi.org/10.3897/BDJ.7.e36226
+
+### Listado de especies
+Descargá la lista de especies incluyendo nombre científico y común, y estado de conservación Global y Regional según UICN:
+
+| :frog: 	| :snake: 	| :owl: 	| :bat: 	|
+|--------------------------------------------	|--------------------------------------------	|------------------------------------	|---------------------------------------------	|
+| [Anfibios](/files/checklists/amphibia.csv) 	| [Reptiles](/files/checklists/reptilia.csv) 	| [Aves](/files/checklists/aves.csv) 	| [Mamíferos](/files/checklists/mammalia.csv) 	|
+
+
+## Plantas vasculares
+
+Esta es la primera base de datos de acceso abierto a nivel de especies de la diversidad de plantas vasculares registrada en el Uruguay. Incluye todas las especies para las que se dispone actualmente de datos y se ha confirmado su presencia en el país. Contiene 12.470 registros de presencia de 1.648 especies y 160 familias, lo que representa aproximadamente el 60% del total de la flora registrada en el Uruguay. Los datos primarios de biodiversidad incluyen las especies nativas e introducidas existentes de los grupos de licofitas, helechos, gimnospermas y angiospermas. Los registros se recopilaron a partir de múltiples fuentes, incluidos los datos disponibles en la literatura científica revisada por pares, de colecciones científicas y también conjuntos de datos aportados por integrantes de la iniciativa Biodiversidata.
+
+El conjunto de datos está disponible en nuestro repositorio de Zenodo
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3954406.svg)](https://doi.org/10.5281/zenodo.3954406)
+
+**Si utilizas estos datos, por favor cita a:**
+Grattarola F, González A, Mai P, Cappuccio L, Fagúndez-Pachón C, Rossi
+F, Teixeira de Mello F, Urtado L, Pincheira-Donoso D (2020)
+Biodiversidata: A novel dataset for the vascular plant species diversity
+in Uruguay. *Biodiversity Data Journal* 8: e56850. https://doi.org/10.3897/BDJ.8.e56850
+
+### Listado de especies
+
+Descargá la lista de especies incluyendo nombre científico y común, y el modo de establecimiento (nativa o introducida):
+
+<table>
+<thead>
+<tr class="header">
+<th>:herb:</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="/files/checklists/vascularPlants.csv">Plantas Vasculares</a></td>
+</tr>
+</tbody>
+</table>

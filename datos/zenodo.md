@@ -35,9 +35,10 @@ Grattarola F, Botto G, da Rosa I, Gobel N, González E, González J, Hernández 
 
 Descargá la lista de especies incluyendo nombre científico y común, y estado de conservación Global y Regional según UICN:
 
-| <p>&#xF438;</p>  | :snake: 	| :owl: 	| :bat: 	|
+| :frog: 	| :snake: 	| :owl: 	| :bat: 	|
 |--------------------------------------------	|--------------------------------------------	|------------------------------------	|---------------------------------------------	|
 | [Anfibios](/files/checklists/amphibia.csv) 	| [Reptiles](/files/checklists/reptilia.csv) 	| [Aves](/files/checklists/aves.csv) 	| [Mamíferos](/files/checklists/mammalia.csv) 	|
+
 
 ### Plantas vasculares
 

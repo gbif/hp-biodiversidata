@@ -16,7 +16,7 @@ cta: # OPTIONAL list of buttons
   #isPrimary: true # OPTIONAL
 ---
 
-## Bases de datos de regristros de presencia ![](/assets/images/academic-icons/open-access.svg){:width="20px"}
+## Bases de datos de regristros de presencia ![](/assets/images/academic-icons/open-access.svg){:width="15px"}
 
 Nuestras bases de datos completas de registros de presencia de tetrápodos y plantas vasculares de Uruguay están disponibles en **Zenodo**.
 

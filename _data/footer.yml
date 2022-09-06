@@ -14,15 +14,15 @@
      - text: Quiénes somos
        href: http://example.com
 
-   - name: Site credits
+   - name: Créditos del sitio
      description: | # Can be Markdown
      links:
-     - text: Built by Florencia Grattarola
+     - text: Desarrollado por Florencia Grattarola
        href: https://flograttarola.com
-     - text: Brand by Renata Polastri
+     - text: Marca por Renata Polastri
        href: https://renatapolastri.com
 
-   - name: Contact
+   - name: Contacto
      description: | # Can be Markdown
        * biodiversidata@gmail.com
        * Uruguay

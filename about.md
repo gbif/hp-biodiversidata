@@ -1,7 +1,7 @@
 ---
 lang-ref: about
-title: About
-description: Lorem markdownum spatium limes indefessus neque at orat aestuat
+title: Acerca de
+description: Consorcio de Datos de Biodiversidad del Uruguay
 background: /assets/images/moss.jpg
 imageLicense: |
   Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)

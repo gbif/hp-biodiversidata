@@ -1,10 +1,10 @@
 ---
 layout: heroImage # try to remoce this line (add # in the beginning of the line to make it a comment) - then the layout will change, but the content remain the same
 title: Datos en Zenodo
-preTitle: 20 de enero 2019
+preTitle: 20 de junio 2019
 description: This page is using a simple predefined layout with an image, a title and some body text
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/62167586/original.jpg
-height: 40vh
+height: 60vh
 imageLicense: |
   *Dasypus septemcinctus hybridus* observed in Uruguay by Leo Lagos licensed under [CC BY](http://creativecommons.org/licenses/by/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/2576425108)
 cta: # OPTIONAL list of buttons
@@ -17,7 +17,6 @@ cta: # OPTIONAL list of buttons
 ---
 
 ## Bases de datos de regristros de presencia ![](/assets/images/academic-icons/open-access.svg)
-
 
 Nuestras bases de datos completas de registros de presencia de tetrápodos y plantas vasculares de Uruguay están disponibles en **Zenodo**.
 

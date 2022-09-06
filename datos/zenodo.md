@@ -10,13 +10,14 @@ imageLicense: |
 cta: # OPTIONAL list of buttons
 - text: Vertebrados tetrápodos
   href: https://doi.org/10.5281/zenodo.3685897
-  #isPrimary: true # OPTIONAL
+  isPrimary: true # OPTIONAL
 - text: Plantas vasculares
   href: https://doi.org/10.5281/zenodo.3954406
   #isPrimary: true # OPTIONAL
 ---
 
-## Bases de datos de regristros de presencia ![](/assets/images/academic-icons/open-access.svg){:width="16px"}
+## Bases de datos de regristros de presencia ![](/assets/images/academic-icons/open-access.svg)
+
 
 Nuestras bases de datos completas de registros de presencia de tetrápodos y plantas vasculares de Uruguay están disponibles en **Zenodo**.
 
@@ -28,8 +29,8 @@ Esta es la primera base de datos abiertos que proporciona datos primarios de bio
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3685897.svg)](https://doi.org/10.5281/zenodo.3685897)
 
-**Si utilizas estos datos, por favor cita a:**
-Grattarola F, Botto G, da Rosa I, Gobel N, González E, González J, Hernández D, Laufer G, Maneyro R, Martínez-Lanfranco J, Naya D, Rodales A, Ziegler L, Pincheira-Donoso D (2019) Biodiversidata: An Open-Access Biodiversity Database for Uruguay. Biodiversity Data Journal 7: e36226. https://doi.org/10.3897/BDJ.7.e36226
+##### **Si utilizas estos datos, por favor cita a:**
+Grattarola F, Botto G, da Rosa I, Gobel N, González E, González J, Hernández D, Laufer G, Maneyro R, Martínez-Lanfranco J, Naya D, Rodales A, Ziegler L, Pincheira-Donoso D (2019) Biodiversidata: An Open-Access Biodiversity Database for Uruguay. Biodiversity Data Journal 7: e36226. [https://doi.org/10.3897/BDJ.7.e36226](https://doi.org/10.3897/BDJ.7.e36226)
 
 #### Listado de especies
 
@@ -48,11 +49,8 @@ El conjunto de datos está disponible en nuestro repositorio de Zenodo
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3954406.svg)](https://doi.org/10.5281/zenodo.3954406)
 
-> **Si utilizas estos datos, por favor cita a:**
-Grattarola F, González A, Mai P, Cappuccio L, Fagúndez-Pachón C, Rossi
-F, Teixeira de Mello F, Urtado L, Pincheira-Donoso D (2020)
-Biodiversidata: A novel dataset for the vascular plant species diversity
-in Uruguay. *Biodiversity Data Journal* 8: e56850. https://doi.org/10.3897/BDJ.8.e56850
+##### **Si utilizas estos datos, por favor cita a:**
+Grattarola F, González A, Mai P, Cappuccio L, Fagúndez-Pachón C, Rossi F, Teixeira de Mello F, Urtado L, Pincheira-Donoso D (2020) Biodiversidata: A novel dataset for the vascular plant species diversity in Uruguay. *Biodiversity Data Journal* 8: e56850. [https://doi.org/10.3897/BDJ.8.e56850](https://doi.org/10.3897/BDJ.8.e56850)
 
 #### Listado de especies
 

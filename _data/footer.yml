@@ -14,12 +14,6 @@
      - text: Quiénes somos
        href: http://example.com
 
-   - name: Contact
-     description: | # Can be Markdown
-       * biodiversidata@gmail.com
-       * Uruguay
-     connectIcons: true
-     
    - name: Site credits
      description: | # Can be Markdown
      links:
@@ -27,6 +21,12 @@
        href: https://flograttarola.com
      - text: Brand by Renata Polastri
        href: https://renatapolastri.com
+
+   - name: Contact
+     description: | # Can be Markdown
+       * biodiversidata@gmail.com
+       * Uruguay
+     connectIcons: true
 
 
    # EXAMPLE

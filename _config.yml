@@ -43,8 +43,8 @@ remote_theme: gbif/jekyll-hp-base-theme
 privacy:
   name: Biodiversidata
   domain: biodiversidata.org
-  contactEmail: biodiversidata@gmail.org
-  helpdeskEmail: biodiversidata@gmail.org
+  contactEmail: biodiversidata@gmail.com
+  helpdeskEmail: biodiversidata@gmail.com
 
 # The text for the terms can be changed by adding translations for 'terms', 'acceptTerms' and 'rejectTerms' in `/_data/translations.yml`.
 siteMeasurements:
@@ -63,7 +63,7 @@ algae:
     # square: false               # Should corners be square or rounded
     colors:
       primary: "#5c4f7a"          # Primary color of your brand. Use HEX code. Used for buttons and links
-      # links: "#fa5e97"          # What color should links have. Use a HEX code. DEfault is primary color.
+      links: "#1b8172"          # What color should links have. Use a HEX code. DEfault is primary color.
     coloredHeadlineLinks: false   # If a headline is a link, then use the link color. Default is true.
   navbar:                         # RELATED TO NAVIGATION BAR
     # brandBackground: yellow     # Define a custom background for the logo/title in the top navigation bar

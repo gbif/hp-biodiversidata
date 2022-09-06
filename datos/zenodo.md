@@ -11,9 +11,9 @@ cta: # OPTIONAL list of buttons
 - text: ![](/assets/images/academic-icons/open-access.svg){:width="16px"} Datos de vertebrados tetrápodos
   href: https://doi.org/10.5281/zenodo.3685897
   isPrimary: true # OPTIONAL
-  - text: ![](/assets/images/academic-icons/open-access.svg){:width="16px"}() Datos de plantas vasculares
-    href: https://doi.org/10.5281/zenodo.3954406
-    isPrimary: true # OPTIONAL
+- text: Datos de plantas vasculares
+  href: https://doi.org/10.5281/zenodo.3954406
+  isPrimary: true # OPTIONAL
 ---
 
 # Base de datos de regristros de presencia

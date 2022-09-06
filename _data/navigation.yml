@@ -4,7 +4,7 @@
   href: /#acercade
 - text: Datos
   menu: # Dropdown menu (one level deep only)
-  - text: En GBIF
+  - text: GBIF
     href: /datos/buscar
   - text: Zenodo
     href: /datos/zenodo

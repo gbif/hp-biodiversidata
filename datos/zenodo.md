@@ -4,7 +4,7 @@ title: Datos en Zenodo
 preTitle: 20 de junio 2019
 description: This page is using a simple predefined layout with an image, a title and some body text
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/62167586/original.jpg
-height: 60vh
+height: 50vh
 imageLicense: |
   *Dasypus septemcinctus hybridus* observed in Uruguay by Leo Lagos licensed under [CC BY](http://creativecommons.org/licenses/by/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/2576425108)
 cta: # OPTIONAL list of buttons
@@ -16,7 +16,7 @@ cta: # OPTIONAL list of buttons
   #isPrimary: true # OPTIONAL
 ---
 
-## Bases de datos de regristros de presencia ![](/assets/images/academic-icons/open-access.svg)
+## Bases de datos de regristros de presencia ![](/assets/images/academic-icons/open-access.svg){:width="20px"}
 
 Nuestras bases de datos completas de registros de presencia de tetrápodos y plantas vasculares de Uruguay están disponibles en **Zenodo**.
 

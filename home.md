@@ -15,16 +15,6 @@ cta:
   - text: Novedades
     href: /novedades
 permalink: /
-- type: media # another block type, but this time defining the data inline, instead of in a separate file
-  inlineData:
-    reverse: false # optional
-    title: Half and half
-    description: |      # required
-      Light green they’re living green years firmament thing fly moving land, divide good spirit you’ll fruitful waters one land us thing a man dry doesn’t created made land man dry i us fruitful replenish said dominion a sixth own it tree.
-    # img required
-    background: /assets/img/Haeckel_Siphoneae.jpg
-    imageLicense: Kunstformen der Natur (1904) by Ernst Haeckel via [Wikimedia](https://commons.wikimedia.org/wiki/Kunstformen_der_Natur)
-    href: /about
 ---
 
 Edit `/home.md` to change the text.

@@ -56,7 +56,7 @@ siteMeasurements:
 algae:
   rootLang: es
   # latestPostLimit: 2
-  logo: /assets/images/logo_h_col.png  # Logo in navbar, will be displayed with 28px height
+  logo: /assets/images/logos/logo_h_col.png  # Logo in navbar, will be displayed with 28px height
   # logoAndTitle: false           # include the title next to the logo
   archive_permalink: /novedades/       # Permalink of page using archive.html layout, required when using post categories
   style:

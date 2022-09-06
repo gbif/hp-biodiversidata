@@ -36,7 +36,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-  - jemoji
+  - jekyll-jemoji
 
 remote_theme: gbif/jekyll-hp-base-theme
 

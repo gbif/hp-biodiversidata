@@ -8,12 +8,12 @@ height: 40vh
 imageLicense: |
   *Dasypus septemcinctus hybridus* observed in Uruguay by Leo Lagos licensed under [CC BY](http://creativecommons.org/licenses/by/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/2576425108)
 cta: # OPTIONAL list of buttons
-- text: ![](/assets/images/academic-icons/open-access.svg){:width="16px"} Datos de vertebrados tetrápodos
+- text: Datos de vertebrados tetrápodos
   href: https://doi.org/10.5281/zenodo.3685897
-  isPrimary: true # OPTIONAL
+  #isPrimary: true # OPTIONAL
 - text: Datos de plantas vasculares
   href: https://doi.org/10.5281/zenodo.3954406
-  isPrimary: true # OPTIONAL
+  #isPrimary: true # OPTIONAL
 ---
 
 # Base de datos de regristros de presencia

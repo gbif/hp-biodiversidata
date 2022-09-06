@@ -8,10 +8,10 @@ height: 40vh
 imageLicense: |
   *Dasypus septemcinctus hybridus* observed in Uruguay by Leo Lagos licensed under [CC BY](http://creativecommons.org/licenses/by/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/2576425108)
 cta: # OPTIONAL list of buttons
-- text: [![](/assets/images/academic-icons/open-access.svg){:width="16px"}]() Datos de vertebrados tetrápodos
+- text: ![](/assets/images/academic-icons/open-access.svg){:width="16px"} Datos de vertebrados tetrápodos
   href: https://doi.org/10.5281/zenodo.3685897
   isPrimary: true # OPTIONAL
-  - text: [![](/assets/images/academic-icons/open-access.svg){:width="16px"}]() Datos de plantas vasculares
+  - text: ![](/assets/images/academic-icons/open-access.svg){:width="16px"}() Datos de plantas vasculares
     href: https://doi.org/10.5281/zenodo.3954406
     isPrimary: true # OPTIONAL
 ---
@@ -20,10 +20,11 @@ cta: # OPTIONAL list of buttons
 
 Nuestras bases de datos completas de registros de presencia de tetrápodos y plantas vasculares de Uruguay están disponibles en **Zenodo**.
 
+![](https://about.zenodo.org/static/img/logos/zenodo-gradient-2500.png)
+
 ## Vertebrados tetrápodos
 
 Esta es la primera base de datos abiertos que proporciona datos primarios de biodiversidad sobre las especies existentes de anfibios, reptiles, aves y mamíferos registradas en el Uruguay. El número total de registros recopilados es de 69,380, abarcando 673 especies. Esta es la base de datos más grande y geográficamente y taxonómicamente más completa de tetrápodos uruguayos disponible hasta la fecha y representa el primer repositorio abierto para el país.  
-<br>
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3685897.svg)](https://doi.org/10.5281/zenodo.3685897)
 

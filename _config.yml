@@ -28,7 +28,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://biodiversidata.org/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: biodiversidata # if you have an account you want to link to. Else comment this line out
 github_username:  bienflorencia # if you have an account you want to link to. Else comment this line out
-#flickr_username: biodiversidata
+flickr_username: biodiversidata
 
 # Build settings
 theme: minima

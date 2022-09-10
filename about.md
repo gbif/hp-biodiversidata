@@ -9,6 +9,10 @@ imageLicense: |
 height: 50vh
 parallax: true
 klass: home
+navbar:
+    color: transparent
+    hasWhiteText: true
+    floating: true
 composition:
   - data: home.datos
   - type: split # the block type

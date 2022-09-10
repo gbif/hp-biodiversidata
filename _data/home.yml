@@ -21,7 +21,7 @@ naturalistauy:
   description: |      # required
     El sitio de iNaturalist para Uruguay es parte de Biodiversidata
   # img required
-  background: https://github.com/bienflorencia/cdbu/blob/master/content/es/post/lanzamiento-naturalistauy/featured.png
+  background: https://inaturalist-open-data.s3.amazonaws.com/photos/172604649/large.jpeg
   imageLicense:
   #overlayColor: "#000033"
   href: https://naturalista.uy

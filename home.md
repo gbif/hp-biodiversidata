@@ -13,10 +13,8 @@ cta:
     href: /datos/buscar/
     isPrimary: true
   - text: Novedades
-    href: /novedades
+    href: /novedades/
 permalink: /
-parallax: true
-klass: home
 navbar:
     color: transparent
     hasWhiteText: true

@@ -2,13 +2,16 @@
 lang-ref: about
 title: Acerca de
 description: Consorcio de Datos de Biodiversidad del Uruguay
-background: /assets/images/moss.jpg
+background: https://static.inaturalist.org/photos/173516962/original.jpg
 imageLicense: |
-  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
-height: 70vh
+  Oreopholus ruficollis observed in Uruguay by Mauricio Silvera licensed under [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/3759147791)
+height: 50vh
 ---
 
-## Procris quippe mentior urbes ubi
+Biodiversidata es un proyecto colaborativo que busca mejorar el conocimiento sobre la biodiversidad en el Uruguay a través de la disponibilización de datos abiertos para su uso en la investigación científica, la educación ambiental y la toma de decisiones basadas en evidencia. Biodiversidata facilita la recopilación, estandarización y publicación de datos de biodiversidad derivados de la investigación científica. También promueve iniciativas de ciencia comunitaria y la generación de datos de calidad por parte de personas no científicas. A partir de los datos generados, Biodiversidata además busca responder preguntas de investigación en el país y la región de cara a abordar los desafíos globales de la pérdida de la biodiversidad y la degradación del ambiente.
+
+
+<!-- ## Procris quippe mentior urbes ubi
 
 Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
 flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
@@ -89,4 +92,4 @@ dependent artisque audacem habuissem, et est rebus, sed?
 [Call to action](/data){: .button .is-primary} [Other action](/data){: .button}
 
 Qua refert, orbataque a denique silentia. Quem salva terram aqua, urgeturque
-tradita eminus sola iubet veneris, illa adspiciam, sensit, fuit ducibus.
+tradita eminus sola iubet veneris, illa adspiciam, sensit, fuit ducibus. -->

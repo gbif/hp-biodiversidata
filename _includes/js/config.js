@@ -50,7 +50,7 @@ var siteConfig = {
         }
       ]
     },
-    highlightedFilters: ['taxonKey', 'stateProvince', 'year', 'basisOfRecord', 'publishingOrg','occurrenceIssue'],
+    highlightedFilters: ['taxonKey', 'stateProvince', 'year', 'basisOfRecord', 'publisherKey'],
     occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS'] // what tabs should be shown
     // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
   }

@@ -2,11 +2,7 @@
 - text: Acerca de
   href: /#acercade
 - text: Datos
-  menu: # Dropdown menu (one level deep only)
-  - text: GBIF
-    href: /datos/buscar
-  - text: Zenodo
-    href: /datos/zenodo
+  href: /datos/buscar
 - text: Novedades
   href: /#novedades
 # - text: Links
@@ -24,6 +20,13 @@
 #   - text: YAML tutorial
 #     href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
 - text: Publicaciones
-  href: /menu/publicaciones
+  href: /recursos/publicaciones
 - text: Recursos
-  href: /menu/recursos
+  menu: # Dropdown menu (one level deep only)
+  # - text: Publicaciones
+  #   href: /recursos/publicaciones
+  # - text: "---"
+  - text: Cursos
+    href: /recursos/recursos
+  - text: Datos en Zenodo
+    href: /recursos/zenodo

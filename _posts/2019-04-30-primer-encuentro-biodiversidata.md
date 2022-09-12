@@ -1,6 +1,6 @@
 ---
 title:  "Primer Encuentro de Integrantes de Biodiversidad"
-date:   2021-01-14 15:20:00 +0100
+date: 2019-01-14
 categories: ["encuentro | meeting"]
 lang-ref: first meeting
 background: https://biodiversidata.org/es/post/primer-encuentro/featured.jpg

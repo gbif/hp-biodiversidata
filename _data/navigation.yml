@@ -4,7 +4,7 @@
 - text: Datos
   href: /datos/buscar
 - text: Novedades
-  href: /#novedades
+  href: /novedades/
 # - text: Links
 #   menu: # Dropdown menu (one level deep only)
 #   - text: Base theme demo
@@ -26,7 +26,9 @@
   # - text: Publicaciones
   #   href: /recursos/publicaciones
   # - text: "---"
-  - text: Cursos
-    href: /recursos/recursos
+  - text: Cursos y código
+    href: /recursos/cursos-y-codigo
   - text: Datos en Zenodo
     href: /recursos/zenodo
+  - text: Reportes
+    href: /recursos/reportes

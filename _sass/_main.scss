@@ -14,18 +14,3 @@ $navbar-breakpoint: 1100px;
 section.splitBanner {
 	max-width: $navbar-breakpoint;
 }
-
-//Le da el estilo redondeado a los botones
-.button {
-	border-radius: 10px;
-	padding-bottom: 1em;
-	padding-top: 1em;
-	padding-left: 2em;
-	padding-right: 2em;
-	margin-bottom: 10px;
-	box-shadow: 2px 2px 7px #00000015;
-}
-
-.button.is-primary {
-	border: none;
-}

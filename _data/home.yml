@@ -34,7 +34,7 @@ splitPregunta3:
 
 # Estadisticas
 stats:
-  background: "#ffffff55"
+  background: "#edf3f3"
   features:
       # API query
     - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishingOrg=862f7ec3-3134-4dce-ab5a-03c81f54bd72"</span>
@@ -99,10 +99,10 @@ novedades:
     description: |      # required
       El 13 de diciembre se realizó el lanzamiento de NaturalistaUY el portal de iNaturalist para Uruguay
     # img required
-    background: https://inaturalist-open-data.s3.amazonaws.com/photos/172604649/large.jpeg
+    background: https://live.staticflickr.com/65535/52143468731_03d849bb07_k.jpg
     #overlayColor: "#000033"
     href: https://naturalista.uy
     cta:
-    - text: Reviví el lanzamiento
-      href: https://youtu.be/4YIEEYCUf8Q
+    - text: Ver más
+      href: post/2021/lanzamiento-naturalistauy/
       isPrimary: true

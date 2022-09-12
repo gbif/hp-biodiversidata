@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="448"
+   height="512"
+   viewBox="0 0 448 512"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="database-square.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title862">iNaturalist</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0606602"
+     inkscape:cx="260.21529"
+     inkscape:cy="279.54287"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer6"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="847"
+     inkscape:window-x="2227"
+     inkscape:window-y="63"
+     inkscape:window-maximized="0"
+     inkscape:pagecheckerboard="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid10"
+       empspacing="4" />
+    <sodipodi:guide
+       position="448,416"
+       orientation="0,1"
+       id="guide832"
+       inkscape:label=""
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="448,96"
+       orientation="0,1"
+       id="guide834"
+       inkscape:label=""
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="448,64"
+       orientation="0,1"
+       id="guide836"
+       inkscape:label="baseline"
+       inkscape:locked="true"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       id="guide835"
+       orientation="1,0"
+       position="64,512" />
+    <sodipodi:guide
+       id="guide837"
+       orientation="1,0"
+       position="384,512" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>iNaturalist</dc:title>
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>iNaturalist</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="icon">
+    <path
+       d="M 48,32 C 21.5,32 0,53.5 0,80 v 352 c 0,26.5 21.5,48 48,48 h 352 c 26.5,0 48,-21.5 48,-48 V 80 C 448,53.5 426.5,32 400,32 Z"
+       id="path2"
+       sodipodi:nodetypes="sssssssss"
+       style="fill:#1b8172;fill-opacity:1" />
+    <path
+       style="fill:#ffffff;stroke-width:1"
+       d="m 198.83273,415.33396 c -16.97693,-0.87809 -38.07668,-3.38444 -52.33072,-6.21614 -17.98905,-3.57369 -31.09111,-7.66073 -42.42647,-13.23447 -9.021208,-4.43584 -15.287248,-9.79314 -15.982078,-13.66426 -0.21283,-1.18577 -0.30641,-16.28587 -0.20796,-33.55578 l 0.17901,-31.39985 2.8125,1.9034 c 17.347168,11.73994 52.895978,20.65351 97.499998,24.44731 12.70346,1.0805 59.68782,1.08707 71.25,0.01 46.29564,-4.3128 78.74411,-12.37798 96.875,-24.07863 l 3.4375,-2.21837 0.17901,31.36801 c 0.0985,17.25241 0.005,32.33818 -0.20796,33.52395 -0.27746,1.54577 -1.49868,3.24596 -4.31504,6.00742 -10.00088,9.80592 -37.67375,19.0788 -70.65601,23.67608 -25.98823,3.6224 -57.85861,4.89244 -86.10678,3.43137 z m 2.35678,-82.82522 c -1.71875,-0.12448 -7.48438,-0.53288 -12.8125,-0.90755 -42.43615,-2.98404 -81.80334,-13.49457 -94.885428,-25.33318 -6.09997,-5.52016 -5.73957,-3.01606 -5.73957,-39.87944 v -32.23566 l 3.90625,2.52803 c 18.921798,12.24576 56.728078,21.21418 102.477388,24.30975 14.36742,0.97215 48.58611,0.81296 63.30386,-0.2945 45.18694,-3.40016 82.45258,-12.6226 100.11869,-24.7772 l 2.69381,-1.85339 v 32.2376 c 0,25.78513 -0.17033,32.64525 -0.85099,34.27429 -1.42219,3.4038 -7.95631,8.72718 -14.96363,12.19095 -18.12507,8.95937 -45.73636,15.33836 -80.43538,18.58287 -9.63255,0.90068 -54.85267,1.73395 -62.8125,1.15743 z m -2.8125,-83.13367 c -1.54688,-0.12735 -6.89063,-0.5321 -11.875,-0.89943 -40.47419,-2.9829 -77.94853,-12.92853 -92.573468,-24.56886 -6.45537,-5.13798 -6.17653,-3.31905 -6.17653,-40.29096 0,-17.5946 0.16026,-31.99017 0.35614,-31.99017 0.19588,0 1.61999,0.86955 3.16469,1.93233 14.333668,9.86183 46.471158,18.68165 82.729168,22.70423 33.60986,3.72877 73.6626,3.39395 107.1875,-0.89606 32.29618,-4.13278 60.39301,-12.18205 74.88741,-21.45401 1.9659,-1.25757 3.70953,-2.28649 3.87473,-2.28649 0.1652,0 0.30036,14.39557 0.30036,31.99017 0,31.37512 -0.0256,32.0431 -1.33278,34.74334 -1.80541,3.72947 -6.83486,7.59715 -15.22972,11.71174 -18.31004,8.97434 -44.88847,15.03754 -80.9375,18.46383 -6.85606,0.65164 -58.48136,1.32555 -64.375,0.84034 z m 9.375,-82.50339 c -56.4416,-2.01869 -102.51112,-12.68638 -115.775438,-26.80853 -4.67904,-4.98164 -5.31109,-9.76212 -1.95197,-14.76372 5.97529,-8.897 26.770668,-17.43103 55.227408,-22.6643 67.15296,-12.349609 159.54207,-6.696299 198.4375,12.14243 10.51112,5.09099 15.76104,10.1703 16.40353,15.87047 0.46238,4.1022 -2.51589,8.97641 -7.84254,12.83501 -15.15041,10.97491 -50.58792,19.39997 -94.49849,22.46647 -9.93257,0.69365 -40.58368,1.25896 -50,0.92217 z"
+       id="path1552" />
+  </g>
+</svg>

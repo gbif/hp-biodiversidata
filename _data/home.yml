@@ -32,13 +32,6 @@ splitPregunta3:
   imageLicense: |
 #    Designed by [Renata Polastri](https://renatapolastri.com)
 
-
-# Descripcion estadísticas
-blank:
-  title:
-  description: |
-    
-
 # Estadisticas
 stats:
   background: "#ffffff55"

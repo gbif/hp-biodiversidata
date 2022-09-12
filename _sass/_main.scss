@@ -1,5 +1,31 @@
+
+//Define la altura de la barra de navegación en 110px
 $navbar-item-img-max-height: 5rem;
+
+//Define el ancho mínimo para mantener la barra de navegación antes de cambiar al menú hamburguesa responsive
+$navbar-breakpoint: 1100px;
 
 @import "theme/_main";
 
 // You can add additional styling here
+
+//Corrige el ancho de la sección split
+
+section.splitBanner {
+	max-width: $navbar-breakpoint;
+}
+
+//Le da el estilo redondeado a los botones
+.button {
+	border-radius: 10px;
+	padding-bottom: 1em;
+	padding-top: 1em;
+	padding-left: 2em;
+	padding-right: 2em;
+	margin-bottom: 10px;
+	box-shadow: 2px 2px 7px #00000015;
+}
+
+.button.is-primary {
+	border: none;
+}

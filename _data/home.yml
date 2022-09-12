@@ -1,7 +1,65 @@
-# Descripcion inicial
-descripcion:
-  markdownContent: |
-    **Biodiversidata** es un proyecto colaborativo que busca mejorar el conocimiento sobre la biodiversidad en el Uruguay a través de la disponibilización de datos abiertos para su uso en la investigación científica, la educación ambiental y la toma de decisiones basadas en evidencia. Biodiversidata facilita la recopilación, estandarización y publicación de datos de biodiversidad derivados de la investigación científica. También promueve iniciativas de ciencia comunitaria y la generación de datos de calidad por parte de personas no científicas. A partir de los datos generados, Biodiversidata además busca responder preguntas de investigación en el país y la región de cara a abordar los desafíos globales de la pérdida de la biodiversidad y la degradación del ambiente.
+# Preguntas en home
+splitPregunta1:
+  reverse: true
+  title: ¿Qué es Biodiversidata?
+  height: 40vh
+  description: |      # required
+    Biodiversidata es una **asociación colaborativa** de expertos y expertas con el objetivo de mejorar el conocimiento de la biodiversidad de Uruguay.
+  # img required
+  background: assets/images/logos/uy-violeta.png
+  imageLicense: |
+#    Designed by [Renata Polastri](https://renatapolastri.com)
+
+splitPregunta2:
+  reverse: false
+  title: ¿Por qué construir un Consorcio de Datos en Uruguay?
+  height: 40vh
+  description: |      # required
+    Los patrones de biodiversidad en el país siguen siendo poco conocidos debido a serios **vacíos geográficos de información**. Esto representa un gran desafío para nuestra comprensión de la estructura de la biodiversidad y la capacidad para conservar la naturaleza.
+  # img required
+  background: assets/images/logos/flor-verde.png
+  imageLicense: |
+#    Designed by [Renata Polastri](https://renatapolastri.com)
+
+splitPregunta3:
+  reverse: true
+  title: ¿Cuál es el plan?
+  height: 40vh
+  description: |      # required
+    Recopilar la mayor cantidad posible de datos de especies de **vertebrados, invertebrados y plantas**, utilizarlos para generar investigaciones científicas de impacto global en colaboración y hacer que los datos estén disponibles de forma gratuita y abierta.
+  # img required
+  background: assets/images/logos/rana-violeta.png
+  imageLicense: |
+#    Designed by [Renata Polastri](https://renatapolastri.com)
+
+
+# Descripcion estadísticas
+blank:
+  title:
+  description: |
+    
+
+# Estadisticas
+stats:
+  background: "#ffffff55"
+  features:
+      # API query
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishingOrg=862f7ec3-3134-4dce-ab5a-03c81f54bd72"</span>
+      description: Registros de Biodiversidata
+      background: assets/images/flo-icons/circle-square.svg
+      href: datos/buscar/?publishingOrg=862f7ec3-3134-4dce-ab5a-03c81f54bd72&view=MAP
+    - title: <span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishingOrg=862f7ec3-3134-4dce-ab5a-03c81f54bd72"</span>
+      description: Conjuntos de datos
+      background: assets/images/flo-icons/database-square.svg
+      href: http://127.0.0.1:4000/datos/buscar/?publishingOrg=862f7ec3-3134-4dce-ab5a-03c81f54bd72&view=DATASETS
+    - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?publishingOrg=862f7ec3-3134-4dce-ab5a-03c81f54bd72&amp;peerReview=true&amp;literatureType=journal&amp;literatureType=journal&amp;relevance=GBIF_USED"</span>
+      description: Publicaciones derivadas
+      background: assets/images/flo-icons/obp-square.svg
+      href:
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishingOrg=28eb1a3f-1c15-4a95-931a-4af90ecb574d&amp;country=UY"</span>
+      description: Registros de NaturalistaUY
+      background: assets/images/flo-icons/naturalistauy-square.svg
+      href: datos/buscar/?publishingOrg=28eb1a3f-1c15-4a95-931a-4af90ecb574d&view=MAP
 
 
 # Splits
@@ -10,7 +68,7 @@ splitDatos:
   title: Datos en GBIF
   height: 70vh
   description: |      # required
-    Usá el mapa para explorar los datos publicados en GBIF por integrantes de Biodiversidata.
+    Usá el mapa para explorar los datos publicados en GBIF por integrantes de Biodiversidata
   # img required
   background: https://inaturalist-open-data.s3.amazonaws.com/photos/163262933/original.jpg
   imageLicense: |
@@ -44,27 +102,13 @@ splitNaturalistaUY:
 # Features
 novedades:
   features:
-  # - title: Datos en GBIF
-  #   description: |      # required
-  #     Usá el mapa para explorar los datos publicados en GBIF por integrantes de Biodiversidata.
-  #   # img required
-  #   background: https://inaturalist-open-data.s3.amazonaws.com/photos/163262933/original.jpg
-  #   imageLicense: |
-  #     *Paromoeocerus barbicornis* observed in Uruguay by Guillermo Menéndez licensed under [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/)
-  #   #overlayColor: "#000033"
-  #   href: datos/buscar/?publishingOrg=862f7ec3-3134-4dce-ab5a-03c81f54bd72&view=MAP
-  #   cta:
-  #   - text: Explorá los datos
-  #     href: datos/buscar/?publishingOrg=862f7ec3-3134-4dce-ab5a-03c81f54bd72&view=MAP
-  #     isPrimary: true
-
   - title: Lanzamiento de NaturalistaUY
     description: |      # required
       El 13 de diciembre se realizó el lanzamiento de NaturalistaUY el portal de iNaturalist para Uruguay
     # img required
     background: https://inaturalist-open-data.s3.amazonaws.com/photos/172604649/large.jpeg
     #overlayColor: "#000033"
-    href: /novedades/2019-04-30-primer-encuentro-biodiversidata
+    href: https://naturalista.uy
     cta:
     - text: Reviví el lanzamiento
       href: https://youtu.be/4YIEEYCUf8Q

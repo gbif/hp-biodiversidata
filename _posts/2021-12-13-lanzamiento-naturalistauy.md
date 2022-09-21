@@ -1,7 +1,7 @@
 ---
 title:  "Lanzamiento de NaturalistaUY"
 date: 2021-12-13
-categories: ["encuentro | meeting"]
+categories: ["naturalistauy", "encuentro / meeting"]
 lang-ref: first meeting
 background: https://live.staticflickr.com/65535/52143468731_03d849bb07_k.jpg
 imageLicense: |

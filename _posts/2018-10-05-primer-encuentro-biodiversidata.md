@@ -1,7 +1,7 @@
 ---
 title:  "Primer Encuentro de Integrantes de Biodiversidad"
-date: 2019-01-14
-categories: ["encuentro | meeting"]
+date: 2018-10-05
+categories: ["encuentro / meeting"]
 lang-ref: first meeting
 background: https://biodiversidata.org/es/post/primer-encuentro/featured.jpg
 imageLicense: |
@@ -12,7 +12,7 @@ La reunión tuvo lugar en la Facultad de Ciencias de la Universidad de la Repúb
 
 Fue una instancia fundamental para comprender la importancia de crear un consorcio de datos de biodiversidad, discutir sobre la urgencia de la apertura de datos de ciencia en Uruguay, conocer los objetivos de la nueva iniciativa y priorizar la agenda futura.
 
-[Descargá la presentació](https://biodiversidata.org/files/PresentationBiodiversidata.pdf){: .button .is-primary}
+[Descargá la presentación](https://biodiversidata.org/files/PresentationBiodiversidata.pdf){: .button .is-primary}
 
 ## Plan de la Jornada  
 

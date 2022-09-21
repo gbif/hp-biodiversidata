@@ -1,7 +1,7 @@
 ---
-title:  "Salió el primer Data Paper de Biodiversidata"
+title:  "Data paper: vertebrados tetrápodos"
 date: 2019-06-20
-categories: ["publicación / publication", "datos compartidos / data-sharing"]
+categories: ["publicación / publication", "datos compartidos / data-sharing", "vertebrados / vertebrates"]
 lang-ref: primer data paper
 background: https://biodiversidata.org/es/post/first-datapaper/featured.png
 imageLicense: |

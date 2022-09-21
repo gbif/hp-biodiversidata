@@ -1,7 +1,7 @@
 ---
-title:  "Segundo Data Paper de Biodiversidata"
-date: 2019-06-20
-categories: ["publicación / publication", "datos compartidos / data-sharing"]
+title:  "Data paper: plantas vasculares"
+date: 2020-10-26
+categories: ["publicación / publication", "datos compartidos / data-sharing", "plantas / plants"]
 lang-ref: segundo data paper
 background: https://biodiversidata.org/es/post/second-datapaper/featured.png
 imageLicense: |

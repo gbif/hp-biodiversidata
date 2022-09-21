@@ -2,11 +2,13 @@
 title:  "Lanzamiento de NaturalistaUY"
 date: 2021-12-13
 categories: ["naturalistauy", "encuentro / meeting"]
-lang-ref: first meeting
+lang-ref: lanzamiento naturalistauy
 background: https://live.staticflickr.com/65535/52143468731_03d849bb07_k.jpg
 imageLicense: |
   Foto por [**Juan Grattarola**](https://www.instagram.com/crush.uruguay/)
 ---
+
+## Nuevo sitio de iNaturalist para Uruguay
 
 El lunes 13 de diciembre a las 18hs fue el lanzamiento de NaturalistaUY, el sitio nacional de iNaturalist en Uruguay, una colaboración entre Biodiversidata y JULANA, con el apoyo de la National Geographic Society.
 

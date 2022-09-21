@@ -1,7 +1,7 @@
 ---
 title:  "NaturalistaUY: ¿dónde hay más oportunidades de llenar vacíos de información?"
-date: 2019-06-20
-categories: ["prensa / press"]
+date: 2021-12-01
+categories: ["uso de datos / data use"]
 lang-ref: nota en la diaria
 background: https://biodiversidata.org/es/post/latinr-2021/featured.png
 imageLicense: |

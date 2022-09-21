@@ -8,6 +8,8 @@ imageLicense: |
   Foto por [**Juan Grattarola**](https://www.instagram.com/crush.uruguay/)
 ---
 
+## Lanzamiento oficial de la iniciativa científica Biodiversidata
+
 La reunión tuvo lugar en la Facultad de Ciencias de la Universidad de la República en Montevideo, Uruguay. Fue la primer reunión de todos los integrantes de **Biodiversidata** y marcó oficialmente el comienzo de la iniciativa.
 
 Fue una instancia fundamental para comprender la importancia de crear un consorcio de datos de biodiversidad, discutir sobre la urgencia de la apertura de datos de ciencia en Uruguay, conocer los objetivos de la nueva iniciativa y priorizar la agenda futura.

@@ -1,14 +1,14 @@
 ---
 title:  "Digitalizando el Patrimonio Natural del Uruguay"
-date: 2019-06-20
-categories: ["publicación / publication", "datos compartidos / data-sharing"]
+date: 2020-10-04
+categories: ["digitalización / digitisation", "plantas / plants"]
 lang-ref: first meeting
 background: https://biodiversidata.org/es/post/digitalizacion/featured.jpg
 imageLicense: |
   Foto por [**Florencia Grattarola**](https://flograttarola.com)
 ---
 
-## Datos del Herbario del Museo Nacional de Historia Natural
+## Digitalización de especímenes del Herbario del Museo Nacional de Historia Natural
 
 En los primeros días del presente año estuvimos digitalizando especímenes del herbario del **Museo Nacional de Historia Natural del Uruguay**. Se trata de la colección de plantas más grande del país, con más de **80,000** ejemplares herborizados, de colectas que datan desde comienzo del 1800 hasta la actualidad. Reúne el legado de grandes botánicos de la historia natural de nuestro país como José Arechavaleta, Diego Legrand y Bernardo Rosengurtt, entre otros.  
 

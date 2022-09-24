@@ -6,13 +6,11 @@
    - name: Acerca de
      links:
      - text: Biodiversidata
-       href: /about
-     - text: Manifiesto
-       href: http://example.com
+       href: /acercade
      - text: Nuestra historia
-       href: http://example.com
+       href: /historia
      - text: Quiénes somos
-       href: http://example.com
+       href: /quienessomos
 
    - name: Créditos del sitio
      description: | # Can be Markdown

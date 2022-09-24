@@ -8,7 +8,7 @@ imageLicense: |
   Photo by Florencia Grattarola licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/2.0/) via [Flickr](https://www.flickr.com/photos/biodiversidata/49515876427/in/album-72157713050634927/)
 ---
 
-## Curso CESP de Calidad de Datos de Biodiversidad
+## CESP - Calidad de Datos de Biodiversidad
 
 Hemos realizado la primera ronda de la siguiente serie de seminarios web (sólo en español):   
 
@@ -24,6 +24,3 @@ El equipo también realizó la primera ronda de la siguiente serie de talleres (
 Tras los eventos, se han realizado encuestas de opinión de los participantes y, en el caso de los talleres, se han entregado certificados de asistencia a quienes cumplían las condiciones de asistencia. Para las actividades celebradas hasta el informe intermedio, el equipo preparó una evaluación detallada, que incluye las lecciones aprendidas y las posibles mejoras para la segunda ronda de cada serie que se celebrará en la segunda mitad del proyecto.
 
 [Más info en GBIF](https://www.gbif.org/es/project/CESP2021-007/extending-knowledge-on-biodiversity-data-quality-and-publication-in-the-spanish-speaking-community){: .button .is-primary}
-
-
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/biodiversidata/49515876427/in/album-72157713050634927/" title="Etiqueta de especímen de Pata de Vaca - Bauhinia candicans (&#x3D;Bauhinia forficata)"><img src="https://live.staticflickr.com/65535/49515876427_9791844108_k.jpg" width="2048" height="1365" alt="Etiqueta de especímen de Pata de Vaca - Bauhinia candicans (&#x3D;Bauhinia forficata)"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

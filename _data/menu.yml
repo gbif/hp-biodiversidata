@@ -1,0 +1,73 @@
+reportes:
+  title: Reportes
+  # description: |
+  #  You could add addditional descriptive text here
+  features:
+    - title: Reporte Anual 2019 # required text
+      preTitle: PDF # optional text
+      description: |    # optional but recommended
+        Informe del año 2019 para Biodiversidata
+      # img required
+      background: https://biodiversidata.org/en/post/reporte-anual-2019/featured.jpg # required
+      href: www.example.com # required
+
+publicaciones:
+  title: Destacada
+  # description: |
+  #  You could add addditional descriptive text here
+  features:
+    - title: Multiple Forms of Hotspots of Tetrapod Biodiversity and the Challenges of Open-Access Data Scarcity # required text
+      preTitle: PDF # optional text
+      description: |    # optional but recommended
+        We employ the most comprehensive database for tetrapod vertebrates in Uruguay (spanning 664 species) assembled to date, to identify hotspots of species-richness, endemism and threatened species for the first time. Our results reveal negligible spatial congruence among biodiversity hotspots, and that tetrapod sampling has historically concentrated in only a few areas.
+      # img required
+      background: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-020-79074-8/MediaObjects/41598_2020_79074_Fig4_HTML.png?as=webp # required
+      href: https://www.nature.com/articles/s41598-020-79074-8.pdf # required
+
+cursos:
+  title: Código
+  # description: |
+  #  You could add addditional descriptive text here
+  features:
+    - title: rBiodiversidata  # required text
+      preTitle: GitHub # optional text
+      description: |    # optional but recommended
+        Este repositorio contiene todo el código usado en nuestros trabajos.
+      # img required
+      background: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png # required
+      href: https://github.com/bienflorencia/rBiodiversidata # required
+
+zenodo:
+  title: Listas de Especies
+  # description: |
+  #  You could add addditional descriptive text here
+  features:
+    - title: Tetrápodos  # required text
+      preTitle:  # optional text
+      description: |    # optional but recommended
+        Descargá la lista de especies incluyendo nombre científico y común, y estado de conservación Global y Regional según UICN.
+      # img required
+      background: https://biodiversidata.org/en/project/tetrapods/featured_hu7fc81e6b2b226d7f0d0b11f79ff5f23b_7046927_680x500_fill_q90_lanczos_smart1.JPG # required
+      cta:
+      - text: Anfibios
+        href: https://biodiversidata.org/files/checklists/amphibia.csv
+        isPrimary: false
+      - text: Aves
+        href: https://biodiversidata.org/files/checklists/aves.csv
+        isPrimary: false
+      - text: Reptiles
+        href: https://biodiversidata.org/files/checklists/reptilia.csv
+        isPrimary: false
+      - text: Mamíferos
+        href: https://biodiversidata.org/files/checklists/mammalia.csv
+        isPrimary: false
+    - title: Plantas vasculates  # required text
+      preTitle:  # optional text
+      description: |    # optional but recommended
+        Descargá la lista de especies incluyendo nombre científico y común, y el modo de establecimiento (nativa o introducida).
+      # img required
+      background: https://biodiversidata.org/en/project/plants/featured_hua878793f21e7e3498bbbfd74714be85c_6003334_680x500_fill_q90_lanczos_smart1.jpg # required
+      cta:
+      - text: Plantas vasculares
+        href: https://biodiversidata.org/files/checklists/vascularPlants.csv
+        isPrimary: false

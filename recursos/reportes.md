@@ -6,7 +6,12 @@ background: https://inaturalist-open-data.s3.amazonaws.com/photos/62167586/origi
 height: 70vh
 imageLicense: |
   *Dasypus septemcinctus hybridus* observed in Uruguay by Leo Lagos licensed under [CC BY](http://creativecommons.org/licenses/by/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/2576425108)
+composition:
+  - type: heroImage
+  - type: pageMarkdown
+  - type: features
+    data: menu.reportes
 ---
 
 ### Reportes
-Informe anual de Biodiversidata 2019. [Descargar](/#){: .button} 
+Informe anual de Biodiversidata 2019. [Descargar](/#){: .button}

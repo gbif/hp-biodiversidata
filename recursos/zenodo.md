@@ -7,13 +7,18 @@ background: https://inaturalist-open-data.s3.amazonaws.com/photos/62167586/origi
 height: 70vh
 imageLicense: |
   *Dasypus septemcinctus hybridus* observed in Uruguay by Leo Lagos licensed under [CC BY](http://creativecommons.org/licenses/by/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/2576425108)
-cta: # OPTIONAL list of buttons
+<!-- cta: # OPTIONAL list of buttons
 - text: Vertebrados tetrápodos
   href: https://doi.org/10.5281/zenodo.3685897
   isPrimary: true # OPTIONAL
 - text: Plantas vasculares
-  href: https://doi.org/10.5281/zenodo.3954406
+  href: https://doi.org/10.5281/zenodo.3954406 -->
   #isPrimary: true # OPTIONAL
+composition:
+  - type: heroImage
+  - type: pageMarkdown
+  - type: features
+    data: menu.zenodo
 ---
 
 ## Bases de datos de regristros de presencia ![](/assets/images/academic-icons/open-access.svg){:width="15px"}
@@ -22,7 +27,7 @@ Nuestras bases de datos completas de registros de presencia de tetrápodos y pla
 
 ![](https://about.zenodo.org/static/img/logos/zenodo-gradient-2500.png)
 
-### Vertebrados tetrápodos
+### Tetrápodos
 
 Esta es la primera base de datos abiertos que proporciona datos primarios de biodiversidad sobre las especies existentes de anfibios, reptiles, aves y mamíferos registradas en el Uruguay. El número total de registros recopilados es de 69,380, abarcando 673 especies. Esta es la base de datos más grande y geográficamente y taxonómicamente más completa de tetrápodos uruguayos disponible hasta la fecha y representa el primer repositorio abierto para el país.  
 
@@ -31,14 +36,7 @@ Esta es la primera base de datos abiertos que proporciona datos primarios de bio
 ##### **Si utilizas estos datos, por favor cita a:**
 Grattarola F, Botto G, da Rosa I, Gobel N, González E, González J, Hernández D, Laufer G, Maneyro R, Martínez-Lanfranco J, Naya D, Rodales A, Ziegler L, Pincheira-Donoso D (2019) Biodiversidata: An Open-Access Biodiversity Database for Uruguay. Biodiversity Data Journal 7: e36226. [https://doi.org/10.3897/BDJ.7.e36226](https://doi.org/10.3897/BDJ.7.e36226)
 
-#### Listado de especies
-
-Descargá la lista de especies incluyendo nombre científico y común, y estado de conservación Global y Regional según UICN:
-
-| :frog: 	| :snake: 	| :owl: 	| :bat: 	|
-|--------------------------------------------	|--------------------------------------------	|------------------------------------	|---------------------------------------------	|
-| [Anfibios](/files/checklists/amphibia.csv) 	| [Reptiles](/files/checklists/reptilia.csv) 	| [Aves](/files/checklists/aves.csv) 	| [Mamíferos](/files/checklists/mammalia.csv) 	|
-
+---
 
 ### Plantas vasculares
 
@@ -50,20 +48,3 @@ El conjunto de datos está disponible en nuestro repositorio de Zenodo
 
 ##### **Si utilizas estos datos, por favor cita a:**
 Grattarola F, González A, Mai P, Cappuccio L, Fagúndez-Pachón C, Rossi F, Teixeira de Mello F, Urtado L, Pincheira-Donoso D (2020) Biodiversidata: A novel dataset for the vascular plant species diversity in Uruguay. *Biodiversity Data Journal* 8: e56850. [https://doi.org/10.3897/BDJ.8.e56850](https://doi.org/10.3897/BDJ.8.e56850)
-
-#### Listado de especies
-
-Descargá la lista de especies incluyendo nombre científico y común, y el modo de establecimiento (nativa o introducida):
-
-<table>
-<thead>
-<tr class="header">
-<th>:herb:</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="/files/checklists/vascularPlants.csv">Plantas Vasculares</a></td>
-</tr>
-</tbody>
-</table>

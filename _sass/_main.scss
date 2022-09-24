@@ -14,3 +14,38 @@ $navbar-breakpoint: 1100px;
 section.splitBanner {
 	max-width: $navbar-breakpoint;
 }
+
+
+.myDoi {
+	display: inline-block;
+  font-size: 0.85em;
+  &:hover {
+    text-decoration: none;
+    >span:first-of-type,
+		>div:first-of-type {
+      background-color: #39314c;
+    }
+  }
+  > * {
+    padding: 0 5px;
+    display: inline-block;
+    border: 1px solid #dbe3e7;
+  }
+  >span:first-of-type,
+	>div:first-of-type {
+    transition: all .3s ease;
+    background-color: #6c6087;
+    border-color: #5c4f7a;
+    padding: 0 4px;
+    border-radius: var(--borderRadiusPx) 0 0 var(--borderRadiusPx);
+    color: #fff;
+    border-right-width: 0;
+  }
+  > *:last-child {
+    padding: 0 7px;
+    border-radius: 0 var(--borderRadiusPx) var(--borderRadiusPx) 0;
+    border-left-width: 0;
+    color: var(--color);
+    text-decoration: none;
+  }
+}

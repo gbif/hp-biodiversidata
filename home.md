@@ -18,6 +18,7 @@ cta:
 permalink: /
 composition:
   - type: heroImage # the block type
+  - type: pageMarkdown
   - type: stats
     data: home.stats
   - type: split # the block type
@@ -30,8 +31,8 @@ composition:
     data: home.novedades
 #  - type: floatingText
 #    data: home.overlay.novedadesText
-#  - type: latestPosts
-#    inlineData: ""
+  - type: latestPosts
+    inlineData: ""
 ---
 
-**Biodiversidata** es un proyecto colaborativo que busca mejorar el conocimiento sobre la biodiversidad en el Uruguay a través de la disponibilización de datos abiertos para su uso en la investigación científica, la educación ambiental y la toma de decisiones basadas en evidencia. Biodiversidata facilita la recopilación, estandarización y publicación de datos de biodiversidad derivados de la investigación científica. También promueve iniciativas de ciencia comunitaria y la generación de datos de calidad por parte de personas no científicas. A partir de los datos generados, Biodiversidata además busca responder preguntas de investigación en el país y la región de cara a abordar los desafíos globales de la pérdida de la biodiversidad y la degradación del ambiente.
+**Biodiversidata** busca mejorar el conocimiento sobre la biodiversidad en el Uruguay a través de la disponibilización de datos abiertos para su uso en la investigación científica, la educación ambiental y la toma de decisiones basadas en evidencia.  

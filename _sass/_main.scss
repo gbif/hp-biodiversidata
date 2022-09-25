@@ -9,12 +9,20 @@ $navbar-breakpoint: 1100px;
 
 // You can add additional styling here
 
-//Corrige el ancho de la sección split
+// Corrige el ancho de la sección split
 
 section.splitBanner {
 	max-width: $navbar-breakpoint;
 }
 
+// Marge y espacio entre botones
+.button {
+	padding-bottom: 1em;
+	padding-top: 1em;
+	padding-left: 1em;
+	padding-right: 1em;
+	margin-bottom: 10px;
+}
 
 .myDoi {
 	display: inline-block;

@@ -13,7 +13,18 @@ var siteConfig = {
       // The route you are currently using for occurrence search. The language prefix will be added automatically
       // If you need special routes per language, then you have to add locale specific overwrites. The page language is available as a global variable called `pageLang`
       route: '/datos/buscar'
+    },
+    literatureSearch: {
+      route: '/literature/buscar'
     }
+  },
+  maps: {
+    locale: 'es',
+    defaultProjection: 'MERCATOR',
+    defaultMapStyle: 'BRIGHT',
+    mapStyles: {
+      MERCATOR: ['BRIGHT', 'NATURAL', 'DARK'],
+    },
   },
   occurrence: {
     mapSettings: {
@@ -27,7 +38,7 @@ var siteConfig = {
     // The format is however slightly different, in that is use camelCase for keys instead of CONSTANT_CASE.
     rootPredicate: {
       type: 'or',
-      'predicates': [
+      predicates: [
         {
           'key': 'publishingOrg',
           'type': 'equals',
@@ -53,10 +64,36 @@ var siteConfig = {
     highlightedFilters: ['taxonKey', 'stateProvince', 'year', 'basisOfRecord', 'publisherKey'],
     occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS'] // what tabs should be shown
     // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
+  },
+  literature: {
+    rootFilter: {
+      predicate: {
+        type: 'or',
+        predicates: [
+          // {
+          //   'type': 'in',
+          //   'key': 'doi',
+          //   'values': ['10.15468\\/dl.klwehw']
+          // },
+          {
+            'type': 'in',
+            'key': 'publishingOrganizationKey',
+            'values': ['862f7ec3-3134-4dce-ab5a-03c81f54bd72']
+          },
+          // {
+          //   'type': 'in',
+          //   'key': 'countriesOfCoverage',
+          //   'values': ['UY']
+          // }
+        ]
+      }
+    },
+    highlightedFilters: ['q', 'countriesOfResearcher', 'countriesOfCoverage', 'year']
   }
 };
 
 // example of a language specific route overwrite
 if (pageLang === 'en')  {
   siteConfig.routes.occurrenceSearch.route = '/occurrence/search';
+  siteConfig.routes.literatureSearch.route = '/literature/search';
 }

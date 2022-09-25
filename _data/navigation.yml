@@ -1,10 +1,12 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 - text: Acerca de
-  href: /#acercade
+  href: /about
 - text: Datos
   href: /datos/buscar
 - text: Novedades
   href: /novedades/
+- text: Literatura
+  href: /literature/buscar
 # - text: Links
 #   menu: # Dropdown menu (one level deep only)
 #   - text: Base theme demo

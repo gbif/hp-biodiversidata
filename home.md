@@ -18,7 +18,8 @@ cta:
 permalink: /
 composition:
   - type: heroImage # the block type
-  - type: pageMarkdown
+#  - type: floatingText
+#    data: home.text
   - type: stats
     data: home.stats
   - type: split # the block type
@@ -28,11 +29,11 @@ composition:
   - type: split # the block type
     data: home.splitPregunta3
   - type: features
-    data: home.novedades
+    data: home.naturalistauy
 #  - type: floatingText
 #    data: home.overlay.novedadesText
-  - type: latestPosts
-    inlineData: ""
+#  - type: latestPosts
+#    inlineData: ""
 ---
 
 **Biodiversidata** busca mejorar el conocimiento sobre la biodiversidad en el Uruguay a través de la disponibilización de datos abiertos para su uso en la investigación científica, la educación ambiental y la toma de decisiones basadas en evidencia.  

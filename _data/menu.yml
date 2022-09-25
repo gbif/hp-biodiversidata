@@ -36,6 +36,10 @@ cursos:
       # img required
       background: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png # required
       href: https://github.com/bienflorencia/rBiodiversidata # required
+      cta:
+      - text: Accedé a nuestro repositorio
+        href: https://github.com/bienflorencia/rBiodiversidata
+        isPrimary: true
 
 zenodo:
   title: Listas de Especies

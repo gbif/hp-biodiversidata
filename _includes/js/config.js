@@ -73,7 +73,7 @@ var siteConfig = {
           // {
           //   'type': 'in',
           //   'key': 'doi',
-          //   'values': ['10.15468\\/dl.klwehw']
+          //   'values': ['10.1038/s41598-020-79074-8']
           // },
           {
             'type': 'in',

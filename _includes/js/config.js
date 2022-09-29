@@ -70,11 +70,11 @@ var siteConfig = {
       predicate: {
         type: 'or',
         predicates: [
-          // {
-          //   'type': 'in',
-          //   'key': 'doi',
-          //   'values': ['10.1038/s41598-020-79074-8']
-          // },
+          {
+            'type': 'in',
+            'key': 'doi',
+            'values': ['10.1038/s41598-020-79074-8']
+          },
           {
             'type': 'in',
             'key': 'publishingOrganizationKey',

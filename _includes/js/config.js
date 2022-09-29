@@ -70,14 +70,10 @@ var siteConfig = {
       predicate: {
         type: 'or',
         predicates: [
-          { // this is not a well documented feature. I (gbifs) will look into allowing it to be used without the nesting. But for now, this is the only option - relates to https://github.com/gbif/hosted-portals/issues/241
-            "type": "nested",
-            "key": "identifiers",
-            "predicate": {
-              "type": "equals",
-     	        "key": "doi",
-    	        "value": "10.1038/s41598-020-79074-8" 
-            }
+          {
+            "type": "equals",
+     	      "key": "doi",
+    	      "value": "10.1038/s41598-020-79074-8" 
           },
           {
             'type': 'in',

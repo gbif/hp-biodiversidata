@@ -10,7 +10,9 @@
      - text: Nuestra historia
        href: /historia
      - text: Quiénes somos
-       href: /quienessomos
+       href: /quienes-somos
+     - text: Código de Conducta
+       href: /codigo-de-conducta
 
    - name: Créditos del sitio
      description: | # Can be Markdown

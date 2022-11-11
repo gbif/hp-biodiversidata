@@ -7,7 +7,7 @@ background: https://static.inaturalist.org/photos/173516962/original.jpg
 imageLicense: |
   Oreopholus ruficollis observed in Uruguay by Mauricio Silvera licensed under [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/3759147791)
 height: 50vh
-permalink: /quienessomos
+permalink: /quienes-somos
 ---
 
 El Consorcio de Datos de Biodiversidad del Uruguay fue creado en 2018 por Florencia Grattarola en el marco de su proyecto de doctorado en la University of Lincoln (Reino Unido), financiado por la Agencia Nacional de Investigación e Innovación de Uruguay a través de su programa de Posgrado en el Exterior (POS_EXT_2016_1\_).   
@@ -16,7 +16,7 @@ Colaboran con Biodiversidata expertos y expertas que trabajan en instituciones n
 
 
 ### Coordina:
-- [Florencia Grattarola](https://flograttarola.com) <a dir="ltr" href="http://orcid.org/0000-0001-8282-5732" target="_blank" class="css-1qel8bw"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="16"> http://orcid.org/0000-0001-8282-5732</a>  
+- **Florencia Grattarola** <a dir="ltr" href="http://orcid.org/0000-0001-8282-5732" target="_blank" class="css-1qel8bw"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="16"> http://orcid.org/0000-0001-8282-5732</a>  
 
 ### Colaboradores:
 
@@ -35,6 +35,7 @@ Colaboran con Biodiversidata expertos y expertas que trabajan en instituciones n
 - Juan Andrés Martínez-Lanfranco  
 - Javier González  
 - Laura Cappuccio  
+- Lucía Rodríguez-Tricot <a dir="ltr" href="https://orcid.org/0000-0003-0949-9074" target="_blank" class="css-1qel8bw"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="16"> https://orcid.org/0000-0003-0949-9074</a>  
 - Lucía Uriarte  
 - Lucía Ziegler  
 - Noelia Gobel  

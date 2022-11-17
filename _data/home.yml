@@ -35,6 +35,7 @@ splitPregunta3:
     Recopilar la mayor cantidad posible de datos de especies de **vertebrados, invertebrados y plantas**, utilizarlos para generar investigaciones científicas de impacto global en colaboración y hacer que los datos estén disponibles de forma gratuita y abierta.
   # img required
   background: assets/images/logos/rana-violeta.png
+  overlayColor: "#fefefe"
   imageLicense: |
 #    Designed by [Renata Polastri](https://renatapolastri.com)
 

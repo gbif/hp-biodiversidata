@@ -140,3 +140,23 @@ zenodo:
       - text: Plantas vasculares
         href: https://github.com/biodiversidata/rBiodiversidata/blob/3a3a514d3fd731c7495762a301ec6e82a2167e38/Useful%20files/lista_especies_plantas_vasculares.csv
         isPrimary: false
+
+
+gbif:
+  title:
+  # description: |
+  #  You could add addditional descriptive text here
+  features:
+    - title: Datos en GBIF # required text
+      #preTitle: PDF # optional text
+      description: |    # optional but recommended
+        Usá el mapa para explorar los datos publicados en GBIF por integrantes de Biodiversidata
+      # img required
+      background: https://inaturalist-open-data.s3.amazonaws.com/photos/163262933/original.jpg # required
+      imageLicense: |
+        *Paromoeocerus barbicornis* observed in Uruguay by Guillermo Menéndez licensed under [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/3456209551)
+      href: datos/buscar/?publishingOrg=862f7ec3-3134-4dce-ab5a-03c81f54bd72&view=MAP # required
+      cta:
+      - text: Explorá los datos
+        href: datos/buscar/?publishingOrg=862f7ec3-3134-4dce-ab5a-03c81f54bd72&view=MAP
+        isPrimary: true

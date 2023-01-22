@@ -9,6 +9,11 @@ imageLicense: |
 height: 50vh
 parallax: true
 #permalink: /quienes-somos
+composition:
+  - type: heroImage
+  - type: pageMarkdown
+  - type: features
+    data: menu.gbif
 ---
 
 ### Coordinadora:

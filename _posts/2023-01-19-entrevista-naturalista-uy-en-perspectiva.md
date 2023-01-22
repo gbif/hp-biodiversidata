@@ -3,7 +3,9 @@ title: "iNaturalist la app con la que cualquiera puede aportar información sobr
 date: 2023-01-19
 categories: ["encuentro / meeting"]
 #lang-ref: eventos ciencia comunitaria
-background: https://flograttarola.com/talk/inaturalist-la-app-con-la-que-cualquiera-puede-aportar-informacion-sobre-flora-y-fauna-en-uruguay/featured_huf65072c3a2bc7cca95cf401e5800d2af_19397056_720x2500_fit_q75_h2_lanczos_3.webp
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/184378240/original.jpg
+imageLicense: |
+  *Nasua nasua* observed in Uruguay by Guillermo Menéndez licensed under [CC BY-NC](http://creativecommons.org/licenses/by-nc/4.0/) via [iNaturalist](https://www.naturalista.uy/observations/109400594)
 ---
 
 ## Entrevista en el programa En Perspectiva de Radiomundo 1170 AM

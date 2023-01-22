@@ -6,14 +6,14 @@
     href: /acerca-de/historia
   - text: Quiénes somos
     href: /acerca-de/quienes-somos
-  - text: Código de conducta
+  - text: Código de Investigación Responsable
     href: /acerca-de/codigo-de-conducta
 - text: Datos
   href: /datos/buscar
 - text: Novedades
   href: /novedades/
-- text: Literatura
-  href: /literature/buscar
+#- text: Literatura
+#  href: /literature/buscar
 # - text: Links
 #   menu: # Dropdown menu (one level deep only)
 #   - text: Base theme demo
@@ -35,9 +35,11 @@
   # - text: Publicaciones
   #   href: /recursos/publicaciones
   # - text: "---"
-  - text: Cursos y código
-    href: /recursos/cursos-y-codigo
+  - text: Cursos
+    href: /recursos/cursos
+  - text: Código
+    href: /recursos/codigo
   - text: Datos en Zenodo
     href: /recursos/zenodo
-  - text: Reportes
-    href: /recursos/reportes
+  # - text: Reportes
+  #   href: /recursos/reportes

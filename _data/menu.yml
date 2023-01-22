@@ -41,21 +41,68 @@ publicaciones:
       background: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-020-79074-8/MediaObjects/41598_2020_79074_Fig4_HTML.png?as=webp # required
       href: https://www.nature.com/articles/s41598-020-79074-8.pdf # required
 
-cursos:
-  title: Código
+codigo:
+  title:
   # description: |
   #  You could add addditional descriptive text here
   features:
     - title: rBiodiversidata  # required text
       preTitle: GitHub # optional text
       description: |    # optional but recommended
-        Este repositorio contiene todo el código usado en nuestros trabajos.
+        Este repositorio reúne todo el código usado para el proyecto. También, el modelo de metadatos que usamos para nuestros conjuntos de datos, referencias a términos de DarwinCore y más.
       # img required
       background: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png # required
       href: https://github.com/bienflorencia/rBiodiversidata # required
       cta:
-      - text: Accedé a nuestro repositorio
+      - text: Accedé al repositorio
         href: https://github.com/bienflorencia/rBiodiversidata
+        isPrimary: true
+
+cursos:
+  title: Otros cursos
+  # description: |
+  #  You could add addditional descriptive text here
+  features:
+    - title: Introducción a GBIF # required text
+      preTitle: GBIF # optional text
+      description: |    # optional but recommended
+        Este curso proporciona una introducción a GBIF, los datos disponibles en el portal de GBIF, el acceso a esos datos e información sobre cómo participar en GBIF y su comunidad de práctica.
+      # img required
+      background: https://docs.gbif.org/course-introduction-to-gbif/img/web/Microporus_xanthopus.jpg # required
+      href: https://docs.gbif.org/course-introduction-to-gbif/es/ # required
+      imageLicense: |
+        *Microporus xanthopus* observed in Malaysia by siburanlai licensed under [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/2550098325)
+      cta:
+      - text: Curso de GBIF
+        href: https://docs.gbif.org/course-introduction-to-gbif/es/
+        isPrimary: true
+
+    - title: Ciclo de formación virtual # required text
+      preTitle: SiB Colombia # optional text
+      description: |    # optional but recommended
+        A través de estos laboratorios obtendrá herramientas robustas para el manejo de sus datos sobre biodiversidad, asegurar su calidad y posterior publicación a través GBIF y OBIS
+      # img required
+      background: https://inaturalist-open-data.s3.amazonaws.com/photos/175970530/original.jpg # required
+      href: https://biodiversidad.co/formacion/laboratorios # required
+      imageLicense: |
+        *Tangara xanthocephala* observed in Colombia by desertnaturalist licensed under [CC BY](http://creativecommons.org/licenses/by/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/3455872065)
+      cta:
+      - text: Curso de SiB Colombia
+        href: https://biodiversidad.co/formacion/laboratorios
+        isPrimary: true
+
+    - title: Cursos de formación # required text
+      preTitle: GBIF # optional text
+      description: |    # optional but recommended
+        La Secretaría de GBIF, en colaboración con su comunidad de formadores y mentores, desarrolla cursos de formación sobre movilización y uso de datos de biodiversidad, entre otros tópicos.
+      # img required
+      background: https://live.staticflickr.com/65535/48688053766_065a7fd209_k.jpg # required
+      href: https://www.gbif.org/es/training # required
+      imageLicense: |
+         Roberteau Tchoffo (BIOPAMA, left) and Elias Bizuru (National University of Rwanda, right) at the BID African regional meeting and nodes training, 3 Sept 2019, Yaounde, Cameroon. Photo by Mélianie Raymond. GBIF, licensed under [CC BY](https://creativecommons.org/licenses/by/2.0/).
+      cta:
+      - text: Accedé a más cursos
+        href: https://www.gbif.org/es/training
         isPrimary: true
 
 zenodo:
@@ -71,16 +118,17 @@ zenodo:
       background: https://biodiversidata.org/en/project/tetrapods/featured_hu7fc81e6b2b226d7f0d0b11f79ff5f23b_7046927_680x500_fill_q90_lanczos_smart1.JPG # required
       cta:
       - text: Anfibios
-        href: https://biodiversidata.org/files/checklists/amphibia.csv
+        href: https://github.com/biodiversidata/rBiodiversidata/blob/3a3a514d3fd731c7495762a301ec6e82a2167e38/Useful%20files/lista_especies_anfibios.csv
+        #href: https://biodiversidata.org/files/checklists/amphibia.csv
         isPrimary: false
       - text: Aves
-        href: https://biodiversidata.org/files/checklists/aves.csv
+        href: https://github.com/biodiversidata/rBiodiversidata/blob/3a3a514d3fd731c7495762a301ec6e82a2167e38/Useful%20files/lista_especies_aves.csv
         isPrimary: false
       - text: Reptiles
-        href: https://biodiversidata.org/files/checklists/reptilia.csv
+        href: https://github.com/biodiversidata/rBiodiversidata/blob/3a3a514d3fd731c7495762a301ec6e82a2167e38/Useful%20files/lista_especies_reptiles.csv
         isPrimary: false
       - text: Mamíferos
-        href: https://biodiversidata.org/files/checklists/mammalia.csv
+        href: https://github.com/biodiversidata/rBiodiversidata/blob/3a3a514d3fd731c7495762a301ec6e82a2167e38/Useful%20files/lista_especies_mamiferos.csv
         isPrimary: false
     - title: Plantas vasculates  # required text
       preTitle:  # optional text
@@ -90,5 +138,5 @@ zenodo:
       background: https://biodiversidata.org/en/project/plants/featured_hua878793f21e7e3498bbbfd74714be85c_6003334_680x500_fill_q90_lanczos_smart1.jpg # required
       cta:
       - text: Plantas vasculares
-        href: https://biodiversidata.org/files/checklists/vascularPlants.csv
+        href: https://github.com/biodiversidata/rBiodiversidata/blob/3a3a514d3fd731c7495762a301ec6e82a2167e38/Useful%20files/lista_especies_plantas_vasculares.csv
         isPrimary: false

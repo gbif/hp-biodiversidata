@@ -2,7 +2,7 @@
 layout: heroImage
 title: Publicaciones
 description: Biodiversidata genera una amplia gama de recursos que incluyen publicaciones, posters, presentaciones y charlas, derivados del trabajo de las y los integrantes del equipo
-background: https://inaturalist-open-data.s3.amazonaws.com/photos/60508300/original.jpeg
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/165241242/original.jpg
 #https://inaturalist-open-data.s3.amazonaws.com/photos/60508300/original.jpeg
 height: 50vh
 parallax: true

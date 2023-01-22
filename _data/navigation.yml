@@ -2,12 +2,12 @@
 - text: Acerca de
 #  href: /about
   menu:
-  - text: Historia
+  - text: Nuestra historia
     href: /acerca-de/historia
   - text: Quiénes somos
     href: /acerca-de/quienes-somos
-  - text: Código de Investigación Responsable
-    href: /acerca-de/codigo-de-conducta
+  # - text: Código de Investigación Responsable
+  #   href: /acerca-de/codigo-de-conducta
 - text: Datos
   href: /datos/buscar
 - text: Novedades

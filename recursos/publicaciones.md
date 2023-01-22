@@ -20,15 +20,15 @@ cta: # OPTIONAL list of buttons
 
 ## Publicaciones
 
-Grattarola, Florencia et al. (2020). Multiple Forms of Hotspots of Tetrapod Biodiversity and the Challenges of Open-Access Data Scarcity. *Scientific Reports* 10(1): 22045. <a class="myDoi" href="https://doi.org/10.1038/s41598-020-79074-8"><span>DOI</span><span>10.1038/s41598-020-79074-8</span></a>
+Grattarola, Florencia et al. (2020). Multiple Forms of Hotspots of Tetrapod Biodiversity and the Challenges of Open-Access Data Scarcity. *Scientific Reports* 10: 22045. <a class="myDoi" href="https://doi.org/10.1038/s41598-020-79074-8" target="_blank"><span>DOI</span><span>10.1038/s41598-020-79074-8</span></a>
 
-Grattarola, Florencia et al. (2020). Biodiversidata: A Novel Dataset for the Vascular Plant Species Diversity in Uruguay. *Biodiversity Data Journal* 8. <a class="myDoi" href="https://doi.org/10.3897/BDJ.8.e56850"><span>DOI</span><span>10.3897/BDJ.8.e56850</span></a>
+Grattarola, Florencia et al. (2020). Biodiversidata: A Novel Dataset for the Vascular Plant Species Diversity in Uruguay. *Biodiversity Data Journal* 8:e56850. <a class="myDoi" href="https://doi.org/10.3897/BDJ.8.e56850" target="_blank"><span>DOI</span><span>10.3897/BDJ.8.e56850</span></a>
 
-Grattarola, Florencia et al. (2019). Biodiversidata: An Open-Access Biodiversity Database for Uruguay. *Biodiversity Data Journal* 7(e36226). <a class="myDoi" href="https://doi.org/10.3897/BDJ.7.e36226"><span>DOI</span><span>10.3897/BDJ.7.e36226</span></a>
+Grattarola, Florencia et al. (2019). Biodiversidata: An Open-Access Biodiversity Database for Uruguay. *Biodiversity Data Journal* 7:e36226. <a class="myDoi" href="https://doi.org/10.3897/BDJ.7.e36226" target="_blank"><span>DOI</span><span>10.3897/BDJ.7.e36226</span></a>
 
-Grattarola, Florencia, and Daniel Pincheira-Donoso. (2019). Biodiversidata: A Collaborative Initiative Towards Open Data Availability in Uruguay. *Biodiversity Information Science and Standards* 3: e37715. <a class="myDoi" href="https://doi.org/10.3897/biss.3.37715"><span>DOI</span><span>10.3897/biss.3.37715</span></a>
+Grattarola, Florencia, and Daniel Pincheira-Donoso. (2019). Biodiversidata: A Collaborative Initiative Towards Open Data Availability in Uruguay. *Biodiversity Information Science and Standards* 3:e37715. <a class="myDoi" href="https://doi.org/10.3897/biss.3.37715" target="_blank"><span>DOI</span><span>10.3897/biss.3.37715</span></a>
 
-Grattarola, Florencia, and Daniel Pincheira-Donoso. (2019). Data-Sharing En Uruguay, La Visión de Los Colectores y Usuarios de Datos. *Boletín de la Sociedad Zoológica del Uruguay* 28(1): 1–14. <a class="myDoi" href="https://doi.org/10.26462/28.1.1"><span>DOI</span><span>10.26462/28.1.1</span></a>
+Grattarola, Florencia, and Daniel Pincheira-Donoso. (2019). Data-Sharing En Uruguay, La Visión de Los Colectores y Usuarios de Datos. *Boletín de la Sociedad Zoológica del Uruguay* 28(1): 1–14. <a class="myDoi" href="https://doi.org/10.26462/28.1.1" target="_blank"><span>DOI</span><span>10.26462/28.1.1</span></a>
 
 ## Posters
 

@@ -13,6 +13,7 @@ splitPregunta1:
     Biodiversidata es una **asociación colaborativa** de expertos y expertas con el objetivo de mejorar el conocimiento de la biodiversidad de Uruguay.
   # img required
   background: assets/images/logos/uy-violeta.png
+  overlayColor: "#fefefe"
   imageLicense: |
 #    Designed by [Renata Polastri](https://renatapolastri.com)
 
@@ -24,6 +25,7 @@ splitPregunta2:
     Los patrones de biodiversidad en el país siguen siendo poco conocidos debido a serios **vacíos geográficos de información**. Esto representa un gran desafío para nuestra comprensión de la estructura de la biodiversidad y la capacidad para conservar la naturaleza.
   # img required
   background: assets/images/logos/flor-verde.png
+  overlayColor: "#fefefe"
   imageLicense: |
 #    Designed by [Renata Polastri](https://renatapolastri.com)
 

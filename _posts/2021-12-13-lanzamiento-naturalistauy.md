@@ -2,7 +2,7 @@
 title:  "Lanzamiento de NaturalistaUY"
 date: 2021-12-13
 categories: ["naturalistauy", "encuentro / meeting"]
-lang-ref: lanzamiento naturalistauy
+#lang-ref: lanzamiento naturalistauy
 background: https://live.staticflickr.com/65535/52143468731_03d849bb07_k.jpg
 imageLicense: |
   Foto por [**Juan Grattarola**](https://www.instagram.com/crush.uruguay/)

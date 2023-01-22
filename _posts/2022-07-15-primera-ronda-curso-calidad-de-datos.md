@@ -2,7 +2,7 @@
 title:  "Curso: Calidad de Datos de Biodiversidad"
 date: 2022-05-19
 categories: ["curso / training"]
-lang-ref: eventos ciencia comunitaria
+#lang-ref: eventos ciencia comunitaria
 background: https://live.staticflickr.com/65535/49515876427_9791844108_k.jpg
 imageLicense: |
   Photo by Florencia Grattarola licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/2.0/) via [Flickr](https://www.flickr.com/photos/biodiversidata/49515876427/in/album-72157713050634927/)

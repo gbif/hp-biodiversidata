@@ -2,7 +2,7 @@
 title:  "Biodiversidata: Una propuesta de ciencia abierta en Uruguay"
 date: 2018-09-03
 categories: ["prensa / press"]
-lang-ref: nota en ccuy
+#lang-ref: nota en ccuy
 background: https://biodiversidata.org/es/post/creacion/featured.jpg
 imageLicense: |
   Foto por [**Julana**](https://julana.org)

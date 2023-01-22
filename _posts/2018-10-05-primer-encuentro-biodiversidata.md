@@ -2,7 +2,7 @@
 title:  "Primer Encuentro de Integrantes de Biodiversidad"
 date: 2018-10-05
 categories: ["encuentro / meeting"]
-lang-ref: first meeting
+#lang-ref: first meeting
 background: https://biodiversidata.org/es/post/primer-encuentro/featured.jpg
 imageLicense: |
   Foto por [**Juan Grattarola**](https://www.instagram.com/crush.uruguay/)

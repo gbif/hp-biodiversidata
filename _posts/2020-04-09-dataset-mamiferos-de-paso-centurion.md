@@ -2,7 +2,7 @@
 title:  "Dataset: Mamíferos de Paso Centurión"
 date: 2020-04-09
 categories: ["datos compartidos / data-sharing", "vertebrados / vertebrates"]
-lang-ref: mamiferos paso centurion
+#lang-ref: mamiferos paso centurion
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/202349404/large.jpg
 imageLicense: |
   *Leopardus wiedii* observed in Uruguay by Adrian Antunez licensed under [CC BY-NC](http://creativecommons.org/licenses/by-nc/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/3859423895)

@@ -2,7 +2,7 @@
 title:  "Registros uruguayos en iNaturalist"
 date: 2020-02-07
 categories: ["ciencia comunitaria / communtiy-science"]
-lang-ref: registros uruguayos inat
+#lang-ref: registros uruguayos inat
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/60049180/original.jpeg
 imageLicense: |
   *Zephyranthes mesochloa* observed in Uruguay by Florencia Grattarola licensed under [CC BY](http://creativecommons.org/licenses/by/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/2563548631)

@@ -2,7 +2,7 @@
 title:  "Data paper: vertebrados tetrápodos"
 date: 2019-06-20
 categories: ["publicación / publication", "datos compartidos / data-sharing", "vertebrados / vertebrates"]
-lang-ref: primer data paper
+#lang-ref: primer data paper
 background: https://biodiversidata.org/es/post/first-datapaper/featured.png
 imageLicense: |
   Imagen por [**Florencia Grattarola**](https://flograttarola.com)

@@ -2,7 +2,7 @@
 title:  "Dataset: Anfibios y Reptiles del Centro Universitario Regional Noreste"
 date: 2021-08-09
 categories: ["datos compartidos / data-sharing", "vertebrados / vertebrates"]
-lang-ref: anfibios reptiles curn
+#lang-ref: anfibios reptiles curn
 background: https://static.inaturalist.org/photos/182701974/large.jpg
 imageLicense: |
   *Caiman latirostris* observed in Uruguay by Mauricio Silvera licensed under [CC BY-NC](http://creativecommons.org/licenses/by-nc/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/3759156860)

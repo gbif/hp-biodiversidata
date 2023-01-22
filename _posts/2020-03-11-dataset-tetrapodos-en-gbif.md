@@ -2,7 +2,7 @@
 title:  "Dataset: Tetrápodos del Uruguay"
 date: 2020-04-09
 categories: ["datos compartidos / data-sharing", "vertebrados / vertebrates"]
-lang-ref: dataset tetrapodos en gbif
+#lang-ref: dataset tetrapodos en gbif
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/225886915/large.jpg
 imageLicense: |
   *Scinax uruguayus* observed in Uruguay by Guillermo Menéndez licensed under [CC BY-NC](http://creativecommons.org/licenses/by-nc/4.0/) via [iNaturalist](https://www.naturalista.uy/observations/132664848)

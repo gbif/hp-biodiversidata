@@ -2,7 +2,7 @@
 title:  "Digitalizando el Patrimonio Natural del Uruguay"
 date: 2020-10-04
 categories: ["digitalización / digitisation", "plantas / plants"]
-lang-ref: first meeting
+#lang-ref: first meeting
 background: https://biodiversidata.org/es/post/digitalizacion/featured.jpg
 imageLicense: |
   Foto por [**Florencia Grattarola**](https://flograttarola.com)

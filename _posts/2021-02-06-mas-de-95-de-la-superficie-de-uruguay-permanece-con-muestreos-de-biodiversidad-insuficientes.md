@@ -2,7 +2,7 @@
 title:  "Más de 95% de la superficie de Uruguay permanece con muestreos de biodiversidad insuficientes"
 date: 2021-02-06
 categories: ["prensa / press"]
-lang-ref: nota en la diaria
+#lang-ref: nota en la diaria
 background: https://biodiversidata.org/es/post/la-diaria-95-porciento/featured.png
 imageLicense: |
   Imagen por [**Florencia Grattarola**](https://flograttarola.com)

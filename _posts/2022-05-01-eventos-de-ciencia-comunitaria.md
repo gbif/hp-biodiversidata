@@ -2,7 +2,7 @@
 title:  "Eventos de ciencia comunitaria con NaturalistaUY"
 date: 2022-05-01
 categories: ["naturalistauy", "ciencia comunitaria / communtiy-science"]
-lang-ref: eventos ciencia comunitaria
+#lang-ref: eventos ciencia comunitaria
 background: https://live.staticflickr.com/65535/52103564276_8e124fb853_k.jpg
 imageLicense: |
   Foto por [**Florencia Grattarola**](https://www.instagram.com/crush.uruguay/) en Bella Unión (Artigas)

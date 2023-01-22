@@ -2,7 +2,7 @@
 title:  "Data paper: plantas vasculares"
 date: 2020-10-26
 categories: ["publicación / publication", "datos compartidos / data-sharing", "plantas / plants"]
-lang-ref: segundo data paper
+#lang-ref: segundo data paper
 background: https://biodiversidata.org/es/post/second-datapaper/featured.png
 imageLicense: |
   Imagen por [**Florencia Grattarola**](https://flograttarola.com)

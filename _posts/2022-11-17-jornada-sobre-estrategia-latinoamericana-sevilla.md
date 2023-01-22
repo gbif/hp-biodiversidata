@@ -2,7 +2,7 @@
 title:  "Jornada sobre Estrategia Latino Americana, Caribeña e Iberoamericana para la Información de Biodiversidad"
 date: 2022-05-19
 categories: ["encuentro / meeting"]
-lang-ref: eventos ciencia comunitaria
+#lang-ref: eventos ciencia comunitaria
 background: https://pbs.twimg.com/media/FhgupqCWIAANNj1?format=jpg&name=large
 imageLicense: |
   Photo by Biodiversidata via [Twitter](https://twitter.com/biodiversidata/status/1592073767140065280/photo/1)

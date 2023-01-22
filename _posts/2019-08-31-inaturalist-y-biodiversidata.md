@@ -2,7 +2,7 @@
 title:  "iNaturalist y Biodiversidata"
 date: 2019-08-31
 categories: ["ciencia comunitaria / communtiy-science"]
-lang-ref: inat y biodiversidata
+#lang-ref: inat y biodiversidata
 background: https://biodiversidata.org/es/post/inaturalist/featured.png
 imageLicense: |
   Imagen por [**Florencia Grattarola**](https://flograttarola.com)

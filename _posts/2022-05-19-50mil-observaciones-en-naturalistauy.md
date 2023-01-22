@@ -2,7 +2,7 @@
 title:  "Llegamos a 50mil observaciones en NaturalistaUY"
 date: 2022-05-19
 categories: ["naturalistauy"]
-lang-ref: eventos ciencia comunitaria
+#lang-ref: eventos ciencia comunitaria
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/177035493/large.jpeg
 imageLicense: |
   *Erythrina crista-galli * observed in Uruguay by Florencia Grattarola licensed under [CC BY](http://creativecommons.org/licenses/by/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/3466154227)

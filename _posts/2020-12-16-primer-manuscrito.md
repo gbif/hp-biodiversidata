@@ -2,7 +2,7 @@
 title:  "Artículo: Hotspots de tetrápodos en Uruguay"
 date: 2020-12-16
 categories: ["publicación / publication"]
-lang-ref: primer manuscrito
+#lang-ref: primer manuscrito
 background: https://biodiversidata.org/es/post/paper-1/featured.png
 imageLicense: |
   Imagen por [**Florencia Grattarola**](https://flograttarola.com)

@@ -2,7 +2,7 @@
 title:  "Dataset: Plantas Vasculares de Uruguay"
 date: 2020-07-13
 categories: ["datos compartidos / data-sharing", "plantas / plants"]
-lang-ref: dataset plantas gbif
+#lang-ref: dataset plantas gbif
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/56389437/large.jpeg
 imageLicense: |
   *Erythrina crista-galli * observed in Uruguay by Noelia Gobel licensed under [CC BY](http://creativecommons.org/licenses/by/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/2992767413)

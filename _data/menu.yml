@@ -1,3 +1,20 @@
+historia:
+  title:
+  # description: |
+  #  You could add addditional descriptive text here
+  features:
+    - title: Nuestra Historia # required text
+      #preTitle: PDF # optional text
+      description: |    # optional but recommended
+        Conocé más sobre la historia de Biodiversidata a través de nuestra presentación en la **Jornada sobre Estrategia Latino Americana, Caribeña e Iberoamericana para la Información de Biodiversidad** realizada en Sevilla (Noviembre 2022).
+      # img required
+      background: assets/images/logos/uy-violeta.png # required
+      href: /assets/pdf/Biodiversidata_SevillaNov2022.pdf # required
+      cta:
+      - text: PDF
+        href: /assets/pdf/Biodiversidata_SevillaNov2022.pdf
+        isPrimary: true
+
 reportes:
   title: Reportes
   # description: |

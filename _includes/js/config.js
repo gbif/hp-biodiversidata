@@ -70,36 +70,38 @@ var siteConfig = {
       predicate: {
         type: 'or',
         predicates: [
-          {
-            "type": "equals",
-     	      "key": "doi",
-    	      "value": "10.1038/s41598-020-79074-8"
-          },
-          {
-            "type": "equals",
-     	      "key": "doi",
-    	      "value": "10.3897/BDJ.8.e56850"
-          },
-          {
-            "type": "equals",
-     	      "key": "doi",
-    	      "value": "10.3897/BDJ.7.e36226"
-          },
-          {
-            "type": "equals",
-     	      "key": "doi",
-    	      "value": "10.3897/biss.4.58973"
-          },
-          {
-            "type": "equals",
-     	      "key": "doi",
-    	      "value": "10.26462/28.1.1"
-          },
+
+          // http://127.0.0.1:4000/literature/buscar/?publishingOrg=862f7ec3-3134-4dce-ab5a-03c81f54bd72
           // {
-          //  'type': 'in',
-          //  'key': 'publishingOrganizationKey',
-          //  'values': ['862f7ec3-3134-4dce-ab5a-03c81f54bd72']
+          //   "type": "equals",
+     	    //   "key": "doi",
+    	    //   "value": "10.1038/s41598-020-79074-8"
           // },
+          // {
+          //   "type": "equals",
+     	    //   "key": "doi",
+    	    //   "value": "10.3897/bdj.8.e56850"
+          // },
+          // {
+          //   "type": "equals",
+     	    //   "key": "doi",
+    	    //   "value": "10.3897/bdj.7.e36226"
+          // },
+          // {
+          //   "type": "equals",
+     	    //   "key": "doi",
+    	    //   "value": "10.3897/biss.4.58973"
+          // },
+          // {
+          //   "type": "equals",
+     	    //   "key": "doi",
+    	    //   "value": "10.26462/28.1.1"
+          // },
+          {
+           'type': 'in',
+           'key': 'publishingOrganizationKey',
+           'values': ['862f7ec3-3134-4dce-ab5a-03c81f54bd72']
+          },
           // {
           //   'type': 'in',
           //   'key': 'countriesOfCoverage',

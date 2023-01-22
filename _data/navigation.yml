@@ -1,6 +1,13 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 - text: Acerca de
-  href: /about
+#  href: /about
+  menu:
+  - text: Historia
+    href: /acerca-de/historia
+  - text: Quiénes somos
+    href: /acerca-de/quienes-somos
+  - text: Código de conducta
+    href: /acerca-de/codigo-de-conducta
 - text: Datos
   href: /datos/buscar
 - text: Novedades

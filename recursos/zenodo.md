@@ -1,6 +1,6 @@
 ---
 layout: heroImage # try to remoce this line (add # in the beginning of the line to make it a comment) - then the layout will change, but the content remain the same
-title: Datos en Zenodo
+title: Bases de datos
 #preTitle: 20 de junio 2019
 description: Nuestras bases de datos completas de registros de presencia de tetrápodos y plantas vasculares de Uruguay están disponibles en Zenodo
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/60508300/original.jpeg
@@ -8,12 +8,12 @@ height: 50vh
 parallax: true
 imageLicense: |
   *Sporobolus montevidensis* observed in Uruguay by Florencia Grattarola licensed under [CC BY](http://creativecommons.org/licenses/by/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/2574126620)
-cta: # OPTIONAL list of buttons
-- text: Vertebrados tetrápodos
-  href: https://doi.org/10.5281/zenodo.3685897
+#cta: # OPTIONAL list of buttons
+#- text: Vertebrados tetrápodos
+#  href: https://doi.org/10.5281/zenodo.3685897
   #isPrimary: true # OPTIONAL
-- text: Plantas vasculares
-  href: https://doi.org/10.5281/zenodo.3954406
+#- text: Plantas vasculares
+#  href: https://doi.org/10.5281/zenodo.3954406
   #isPrimary: true # OPTIONAL
 composition:
   - type: heroImage
@@ -23,6 +23,10 @@ composition:
 ---
 
 <!-- ![](https://about.zenodo.org/static/img/logos/zenodo-gradient-2500.png) -->
+
+## Los [**datos**](/datos/buscar) que se encuentran en **GBIF** son *una parte* de nuestros datos, aquellos compartidos por nuestros colaboradores
+
+Biodiversidata también cuenta con datos extraídos de la literatura y de bases de datos online, que fueron limpiados, estandarizados y puestos a disposición en formato de base de datos. Para descargar todos los registros de vertebrados tetrápodos y plantas vasculares, accedé a continuación a nuestras bases de datos depositadas en **Zenodo**.
 
 ### Vertebrados Tetrápodos ![](/assets/images/academic-icons/open-access.svg){:width="15px"}
 

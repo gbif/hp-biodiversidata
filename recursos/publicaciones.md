@@ -2,12 +2,11 @@
 layout: heroImage
 title: Publicaciones
 description: Biodiversidata genera una amplia gama de recursos que incluyen publicaciones, posters, presentaciones y charlas, derivados del trabajo de las y los integrantes del equipo
-background: https://inaturalist-open-data.s3.amazonaws.com/photos/165241242/original.jpg
-#https://inaturalist-open-data.s3.amazonaws.com/photos/60508300/original.jpeg
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/249235170/original.jpg
 height: 50vh
 parallax: true
 imageLicense: |
-  *Sporobolus montevidensis* observed in Uruguay by Florencia Grattarola licensed under [CC BY](http://creativecommons.org/licenses/by/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/2574126620)
+  *Xanthopsar flavus* observed in Uruguay by Guillermo Menéndez licensed under [CC BY-NC](http://creativecommons.org/licenses/by-nc/4.0/) via [iNaturalist](https://www.naturalista.uy/observations/145124276)
 composition:
   - type: heroImage
   - type: pageMarkdown

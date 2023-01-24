@@ -45,6 +45,7 @@ splitPregunta3:
 
 # Estadisticas
 stats:
+  title: Nustros datos en GBIF
   background: "#edf3f3"
   features:
       # API query

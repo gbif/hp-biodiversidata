@@ -9,15 +9,19 @@ imageLicense: |
   *Xanthopsar flavus* observed in Uruguay by Guillermo Menéndez licensed under [CC BY-NC](http://creativecommons.org/licenses/by-nc/4.0/) via [iNaturalist](https://www.naturalista.uy/observations/145124276)
 composition:
   - type: heroImage
+  - type: media
+    data: menu.publicaciones
   - type: pageMarkdown
   - type: features
-    data: menu.publicaciones
-cta: # OPTIONAL list of buttons
-- text: Publicaciones derivadas de GBIF
-  href: /literature/buscar
+    data: menu.publicacionesEnGBIF
+
+
+#cta: # OPTIONAL list of buttons
+#- text: Publicaciones derivadas de GBIF
+#  href: /literature/buscar
 ---
 
-## Publicaciones
+<!-- ## Publicaciones
 
 Grattarola, Florencia et al. (2020). Multiple Forms of Hotspots of Tetrapod Biodiversity and the Challenges of Open-Access Data Scarcity. *Scientific Reports* 10: 22045. <a class="myDoi" href="https://doi.org/10.1038/s41598-020-79074-8" target="_blank"><span>DOI</span><span>10.1038/s41598-020-79074-8</span></a>
 
@@ -27,7 +31,7 @@ Grattarola, Florencia et al. (2019). Biodiversidata: An Open-Access Biodiversity
 
 Grattarola, Florencia, and Daniel Pincheira-Donoso. (2019). Biodiversidata: A Collaborative Initiative Towards Open Data Availability in Uruguay. *Biodiversity Information Science and Standards* 3:e37715. <a class="myDoi" href="https://doi.org/10.3897/biss.3.37715" target="_blank"><span>DOI</span><span>10.3897/biss.3.37715</span></a>
 
-Grattarola, Florencia, and Daniel Pincheira-Donoso. (2019). Data-Sharing En Uruguay, La Visión de Los Colectores y Usuarios de Datos. *Boletín de la Sociedad Zoológica del Uruguay* 28(1): 1–14. <a class="myDoi" href="https://doi.org/10.26462/28.1.1" target="_blank"><span>DOI</span><span>10.26462/28.1.1</span></a>
+Grattarola, Florencia, and Daniel Pincheira-Donoso. (2019). Data-Sharing En Uruguay, La Visión de Los Colectores y Usuarios de Datos. *Boletín de la Sociedad Zoológica del Uruguay* 28(1): 1–14. <a class="myDoi" href="https://doi.org/10.26462/28.1.1" target="_blank"><span>DOI</span><span>10.26462/28.1.1</span></a> -->
 
 ## Posters
 

@@ -28,18 +28,83 @@ reportes:
       background: https://biodiversidata.org/en/post/reporte-anual-2019/featured.jpg # required
       href: www.example.com # required
 
-publicaciones:
-  title: Destacada
+publicacionesEnGBIF:
+  title:
   # description: |
   #  You could add addditional descriptive text here
   features:
-    - title: Multiple Forms of Hotspots of Tetrapod Biodiversity and the Challenges of Open-Access Data Scarcity # required text
-      preTitle: PDF # optional text
+    - title: Publicaciones derivadas de nuestros datos en GBIF  # required text
+      preTitle: Uso de datos # optional text
       description: |    # optional but recommended
+        Los datos de Biodiversidata depositados en GBIF han sido reusado por otras personas para sus investigaciones y citados en diversas publicaciones derivadas
+      # img required
+      background: https://live.staticflickr.com/65535/48687329243_e84bb5b508_6k.jpg # required
+      imageLicense: |
+        BID African regional meeting and nodes training. Photo by Andrew Rodrigues - GBIF Secretariat, licensed under [CC BY](https://creativecommons.org/licenses/by/2.0/) via [Flickr](https://www.flickr.com/photos/44353813@N02/48687329243/in/dateposted/)
+      href: /literature/buscar # required
+      cta:
+      - text: Publicaciones
+        href: /literature/buscar
+        isPrimary: true
+
+publicaciones:
+  #title: Publicaciones
+  # title: Destacada
+  # # description: |
+  # #  You could add addditional descriptive text here
+  # features:
+  #   - title: Publicaciones derivadas de los datos en GBIF # required text
+  #     preTitle: PDF # optional text
+  #     description: |    # optional but recommended
+  #       We employ the most comprehensive database for tetrapod vertebrates in Uruguay (spanning 664 species) assembled to date, to identify hotspots of species-richness, endemism and threatened species for the first time. Our results reveal negligible spatial congruence among biodiversity hotspots, and that tetrapod sampling has historically concentrated in only a few areas.
+  #     # img required
+  #     background: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-020-79074-8/MediaObjects/41598_2020_79074_Fig4_HTML.png?as=webp # required
+  #     href: https://www.nature.com/articles/s41598-020-79074-8.pdf # required
+  features:
+    - preTitle: Grattarola et al. (2020)  # optional
+      title: Multiple Forms of Hotspots of Tetrapod Biodiversity and the Challenges of Open-Access Data Scarcity # required
+      description: |      # required
+        <a class="myDoi" href="https://doi.org/10.1038/s41598-020-79074-8" target="_blank"><span>DOI</span><span>10.1038/s41598-020-79074-8</span></a> <br><br>
         We employ the most comprehensive database for tetrapod vertebrates in Uruguay (spanning 664 species) assembled to date, to identify hotspots of species-richness, endemism and threatened species for the first time. Our results reveal negligible spatial congruence among biodiversity hotspots, and that tetrapod sampling has historically concentrated in only a few areas.
       # img required
-      background: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-020-79074-8/MediaObjects/41598_2020_79074_Fig4_HTML.png?as=webp # required
-      href: https://www.nature.com/articles/s41598-020-79074-8.pdf # required
+      background: /assets/images/logos/2023-biodiversidata-ilustraciones--26.png
+      href: https://www.nature.com/articles/s41598-020-79074-8.pdf
+
+    - preTitle: Grattarola et al. (2020)  # optional
+      title: Biodiversidata A Novel Dataset for the Vascular Plant Species Diversity in Uruguay # required
+      description: |      # required
+        <a class="myDoi" href="https://doi.org/10.3897/BDJ.8.e56850" target="_blank"><span>DOI</span><span>10.3897/BDJ.8.e56850</span></a> <br><br>
+        As part of the second phase of the Biodiversidata initiative, we present the first comprehensive open-access species-level database of the vascular plant diversity recorded in Uruguay to date (i.e. all species for which data are currently available and species presence has been confirmed). It contains 12,470 occurrence records from across 1,648 species and 160 families, which roughly represents 60% of the total recorded flora of Uruguay.
+      # img required
+      background: /assets/images/logos/2023-biodiversidata-ilustraciones--19.png
+      href: https://bdj.pensoft.net/article/56850/download/pdf/
+
+    - preTitle: Grattarola et al. (2019)  # optional
+      title: Biodiversidata An Open-Access Biodiversity Database for Uruguay # required
+      description: |      # required
+        <a class="myDoi" href="https://doi.org/10.3897/BDJ.7.e36226" target="_blank"><span>DOI</span><span>10.3897/BDJ.7.e36226</span></a> <br><br>
+        Currently, national biodiversity datasets are not openly available and, thus, a dominant proportion of the primary biodiversity data produced by researchers and institutions across Uruguay remains highly dispersed and difficult to access for the wider scientific and environmental community. In this paper, we aim to fill this gap by developing the first comprehensive, open-access database of biodiversity records for Uruguay (Biodiversidata), which is the result of a large-scale collaboration involving experts working across the entire range of taxonomic diversity found in the country.
+      # img required
+      background: /assets/images/logos/2023-biodiversidata-ilustraciones--08.png
+      href: https://bdj.pensoft.net/article/56850/download/pdf/
+
+    - preTitle: Grattarola and Pincheira-Donoso (2019)  # optional
+      title: Biodiversidata A Collaborative Initiative Towards Open Data Availability in Uruguay # required
+      description: |      # required
+        <a class="myDoi" href="https://doi.org/10.3897/BISS.3.37715" target="_blank"><span>DOI</span><span>10.3897/biss.3.37715</span></a> <br><br>
+        Data-sharing has become a key component in the modern scientific era of large-scale research, with numerous advantages for both data collectors and users. However, data-sharing in Uruguay remains neglected given that major public sources of biodiversity information (government and academia) are not open-access. As a consequence, the patterns and drivers of biodiversity in this country remain poorly understood and so does our ability to manage and conserve its biodiversity. Here, we introduce the Biodiversidata initiative (www.biodiversidata.org) – a novel Uruguayan Consortium of Biodiversity Data.
+      # img required
+      background: /assets/images/logos/2023-biodiversidata-ilustraciones--01.png
+      href: https://biss.pensoft.net/article/37715/download/pdf/
+
+    - preTitle: Grattarola and Pincheira-Donoso (2019)  # optional
+      title: Data-Sharing En Uruguay, La Visión de Los Colectores y Usuarios de Datos # required
+      description: |      # required
+        <a class="myDoi" href="https://doi.org/10.26462/28.1.1" target="_blank"><span>DOI</span><span>10.26462/28.1.1</span></a> <br><br>
+        Data-sharing has become a key issue in modern science, with numerous advantages for both data collectors and user. However, the practice of sharing data in Uruguay is still uncommon given there are no primary biodiversity datasets open or publicly available. The reasons behind such low frequency of data availability are still unknown. This study explores the vision of data collectors and users analysing the reasons for both the reluctance to share data and the motivations for doing so.
+      # img required
+      background: /assets/images/logos/2023-biodiversidata-ilustraciones--02.png
+      href: https://biss.pensoft.net/article/37715/download/pdf/
 
 codigo:
   title:

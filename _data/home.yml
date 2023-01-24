@@ -13,7 +13,8 @@ splitPregunta1:
     Biodiversidata es un **proyecto colaborativo** que busca mejorar el conocimiento sobre la biodiversidad en el Uruguay a través de la disponibilización de datos abiertos para su uso en la investigación científica, la educación ambiental y la toma de decisiones basadas en evidencia.
 #    Biodiversidata es una **asociación colaborativa** de expertos y expertas con el objetivo de mejorar el conocimiento de la biodiversidad de Uruguay.
   # img required
-  background: assets/images/logos/uy-violeta.png
+  background: assets/images/logos/2023-biodiversidata-ilustraciones--05.png
+  #background: assets/images/logos/uy-violeta.png
   imageLicense: |
 #    Designed by [Renata Polastri](https://renatapolastri.com)
 
@@ -24,7 +25,8 @@ splitPregunta2:
   description: |      # required
     Los patrones de biodiversidad en el país siguen siendo poco conocidos debido a serios **vacíos geográficos de información**. Para afrontar este desafío, Biodiversidata facilita la recopilación, estandarización y publicación de datos de biodiversidad derivados de la investigación científica.
   # img required
-  background: assets/images/logos/flor-verde.png
+  background: assets/images/logos/2023-biodiversidata-ilustraciones--24.png
+  #background: assets/images/logos/flor-verde.png
   imageLicense: |
 #    Designed by [Renata Polastri](https://renatapolastri.com)
 
@@ -36,7 +38,8 @@ splitPregunta3:
     Biodiversidata busca responder **preguntas de investigación** en el país y la región, de cara a abordar los desafíos globales de la pérdida de la biodiversidad y la degradación del ambiente. Además, también busca promover iniciativas de **ciencia comunitaria** y la generación de datos de calidad por parte de personas no científicas.
 #    Recopilar la mayor cantidad posible de datos de especies de **vertebrados, invertebrados y plantas**, utilizarlos para generar investigaciones científicas de impacto global en colaboración y hacer que los datos estén disponibles de forma gratuita y abierta.
   # img required
-  background: assets/images/logos/rana-violeta.png
+  background: assets/images/logos/2023-biodiversidata-ilustraciones--17.png
+  #background: assets/images/logos/rana-violeta.png
   imageLicense: |
 #    Designed by [Renata Polastri](https://renatapolastri.com)
 

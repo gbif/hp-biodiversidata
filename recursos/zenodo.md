@@ -24,11 +24,11 @@ composition:
 
 <!-- ![](https://about.zenodo.org/static/img/logos/zenodo-gradient-2500.png) -->
 
-## Los [**datos**](/datos/buscar) que se encuentran en **GBIF** son *una parte* de nuestros datos, aquellos compartidos por nuestros colaboradores
+## Los [**registros**](/datos/buscar) que se encuentran en **GBIF** son una parte de nuestros datos, aquellos compartidos por nuestros colaboradores.
 
-Biodiversidata también cuenta con datos extraídos de la literatura y de bases de datos online, que fueron limpiados, estandarizados y puestos a disposición en formato de base de datos. Para descargar todos los registros de vertebrados tetrápodos y plantas vasculares, accedé a continuación a nuestras bases de datos depositadas en **Zenodo**.
+Biodiversidata también cuenta con datos extraídos de la literatura y de bases de datos online, que fueron limpiados, estandarizados y puestos a disposición como bases de datos en formato *csv*. Para descargarlos accedé a nuestras bases de datos depositadas en **Zenodo**.
 
-### Vertebrados Tetrápodos ![](/assets/images/academic-icons/open-access.svg){:width="15px"}
+### [Vertebrados Tetrápodos](https://doi.org/10.5281/zenodo.3685897) ![](/assets/images/academic-icons/open-access.svg){:width="15px"}
 
 Esta es la primera base de datos abiertos que proporciona datos primarios de biodiversidad sobre las especies existentes de anfibios, reptiles, aves y mamíferos registradas en el Uruguay. El número total de registros recopilados es de 69,380, abarcando 673 especies. Esta es la base de datos más grande y geográficamente y taxonómicamente más completa de tetrápodos uruguayos disponible hasta la fecha y representa el primer repositorio abierto para el país.  
 
@@ -39,7 +39,7 @@ Esta es la primera base de datos abiertos que proporciona datos primarios de bio
 
 ---
 
-### Plantas vasculares ![](/assets/images/academic-icons/open-access.svg){:width="15px"}
+### [Plantas vasculares](https://doi.org/10.5281/zenodo.3954406) ![](/assets/images/academic-icons/open-access.svg){:width="15px"}
 
 Esta es la primera base de datos de acceso abierto a nivel de especies de la diversidad de plantas vasculares registrada en el Uruguay. Incluye todas las especies para las que se dispone actualmente de datos y se ha confirmado su presencia en el país. Contiene 12.470 registros de presencia de 1.648 especies y 160 familias, lo que representa aproximadamente el 60% del total de la flora registrada en el Uruguay. Los datos primarios de biodiversidad incluyen las especies nativas e introducidas existentes de los grupos de licofitas, helechos, gimnospermas y angiospermas. Los registros se recopilaron a partir de múltiples fuentes, incluidos los datos disponibles en la literatura científica revisada por pares, de colecciones científicas y también conjuntos de datos aportados por integrantes de la iniciativa Biodiversidata.
 

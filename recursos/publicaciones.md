@@ -15,7 +15,6 @@ composition:
   - type: features
     data: menu.publicacionesEnGBIF
 
-
 #cta: # OPTIONAL list of buttons
 #- text: Publicaciones derivadas de GBIF
 #  href: /literature/buscar

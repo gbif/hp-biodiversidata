@@ -1,8 +1,11 @@
 # Descripción en home
 text:
+  title: 
   description: |      # required
-    **Biodiversidata** busca mejorar el conocimiento sobre la biodiversidad en el Uruguay a través de la disponibilización de datos abiertos para su uso en la investigación científica, la educación ambiental y la toma de decisiones basadas en evidencia.
+    **Biodiversidata** es una asociación colaborativa de expertos y expertas con el objetivo de mejorar el conocimiento de la biodiversidad de Uruguay
   hasWhiteText: false
+  overlayColor: "#ffffff55"
+
 
 # Preguntas en home
 splitPregunta1:

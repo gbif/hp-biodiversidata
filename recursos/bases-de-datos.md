@@ -19,7 +19,7 @@ composition:
   - type: heroImage
   - type: pageMarkdown
   - type: features
-    data: menu.zenodo
+    data: menu.listas
 ---
 
 <!-- ![](https://about.zenodo.org/static/img/logos/zenodo-gradient-2500.png) -->

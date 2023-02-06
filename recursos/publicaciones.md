@@ -34,22 +34,22 @@ Grattarola, Florencia, and Daniel Pincheira-Donoso. (2019). Data-Sharing En Urug
 
 ## Posters
 
-Grattarola, Florencia. (2018). Biodiversidata: New initiative for Uruguay. *11th Research Data Alliance (RDA) Plenary Meeting*, Berlin, Germany. [[poster](https://www.researchgate.net/publication/324363011_Biodiversidata_New_initiative_for_Uruguay){:target="_blank"}]
+Grattarola, Florencia. (2018). **Biodiversidata: New initiative for Uruguay**. *11th Research Data Alliance (RDA) Plenary Meeting*, Berlin, Germany. [[poster](https://www.researchgate.net/publication/324363011_Biodiversidata_New_initiative_for_Uruguay){:target="_blank"}]
 
 
 ## Presentaciones
 
 Grattarola, Florencia, Hanna Shmagun, Laurence Mabile, Anne Cambon-Thomsen, and Christopher Erdmann. (2022)
-How Open Science activities are perceived and recognised in Research and the Research career. *International Data Week 2022, 19th Research Data Alliance (RDA) Plenary Meeting*. Online - Seoul, Korea. [[presentación](https://www.rd-alliance.org/system/files/documents/RDA%20P19%20SHARC%20ig%20session%20slides%20-%2020jun22.pdf){:target="_blank"}]  
+**How Open Science activities are perceived and recognised in Research and the Research career**. *International Data Week 2022, 19th Research Data Alliance (RDA) Plenary Meeting*. Online - Seoul, Korea. [[presentación](https://www.rd-alliance.org/system/files/documents/RDA%20P19%20SHARC%20ig%20session%20slides%20-%2020jun22.pdf){:target="_blank"}]  
 
-Grattarola, Florencia, and Daniel Pincheira-Donoso. (2019). Biodiversity hotspots in Uruguay: real or fabricated? *British Ecological Society (BES) Annual Meeting*. Belfast, Northern Ireland. [[presentación](https://flograttarola.com/talk/biodiversity-hotspots-in-uruguay-real-or-fabricated/FGrattarola_BES2019_WEB.pdf){:target="_blank"}]  
+Grattarola, Florencia, and Daniel Pincheira-Donoso. (2019). **Biodiversity hotspots in Uruguay: real or fabricated?**. *British Ecological Society (BES) Annual Meeting*. Belfast, Northern Ireland. [[presentación](https://flograttarola.com/talk/biodiversity-hotspots-in-uruguay-real-or-fabricated/FGrattarola_BES2019_WEB.pdf){:target="_blank"}]  
 
-Grattarola, Florencia. (2019). Biodiversidata: A Collaborative Initiative Towards Open Data Availability in Uruguay. *Biodiversity_Next Conference*. Leiden, The Nederland. [[presentación](https://flograttarola.com/talk/biodiversidata-a-collaborative-initiative-towards-open-data-availability-in-uruguay/Grattarola_and_Pincheira-Donoso_BiodNext_SS73.pdf){:target="_blank"}]  
+Grattarola, Florencia. (2019). **Biodiversidata: A Collaborative Initiative Towards Open Data Availability in Uruguay**. *Biodiversity_Next Conference*. Leiden, The Nederland. [[presentación](https://flograttarola.com/talk/biodiversidata-a-collaborative-initiative-towards-open-data-availability-in-uruguay/Grattarola_and_Pincheira-Donoso_BiodNext_SS73.pdf){:target="_blank"}]  
 
 ## Charlas
 
-Grattarola, Florencia. (2022). Biodiversidata: el Consorcio de Datos de Biodiversidad del Uruguay. *Jornada sobre Estrategia Latino Americana, Caribeña e Iberoamericana para la Información de Biodiversidad*. Sevilla, España. [[presentación](https://flograttarola.com/talk/biodiversidata-el-consorcio-de-datos-de-biodiversidad-del-uruguay/Biodiversidata_Sevilla.pdf){:target="_blank"}]  
+Grattarola, Florencia. (2022). **Biodiversidata: el Consorcio de Datos de Biodiversidad del Uruguay**. *Jornada sobre Estrategia Latino Americana, Caribeña e Iberoamericana para la Información de Biodiversidad*. Sevilla, España. [[presentación](https://flograttarola.com/talk/biodiversidata-el-consorcio-de-datos-de-biodiversidad-del-uruguay/Biodiversidata_Sevilla.pdf){:target="_blank"}]  
 
-Grattarola, Florencia. (2022). Mesa: Activismo a través de medios digitales. *IV Jornada de Ciudadanía Digital, Agesic y Plan Ceibal*. Online. [[video](https://youtu.be/NNA46QEZVQI){:target="_blank"}]  
+Grattarola, Florencia. (2022). **Activismo a través de medios digitales**. *IV Jornada de Ciudadanía Digital, Agesic y Plan Ceibal*. Online. [[video](https://youtu.be/NNA46QEZVQI){:target="_blank"}]  
 
-Grattarola, Florencia. (2021). Ciencia abierta y cultura libre en Uruguay. *Foro Abierto de Ciencias (Latinoamérica y Caribe)*. Online. [[video](https://youtu.be/W6i6y87p2IM){:target="_blank"}] [[presentación](https://flograttarola.com/talk/ciencia-abierta-y-cultura-libre-en-uruguay/Charla_Foro_CILAC_2021.pdf){:target="_blank"}]  
+Grattarola, Florencia. (2021). **Ciencia abierta y cultura libre en Uruguay**. *Foro Abierto de Ciencias (Latinoamérica y Caribe)*. Online. [[video](https://youtu.be/W6i6y87p2IM){:target="_blank"}] [[presentación](https://flograttarola.com/talk/ciencia-abierta-y-cultura-libre-en-uruguay/Charla_Foro_CILAC_2021.pdf){:target="_blank"}]  

@@ -1,6 +1,6 @@
 ---
 layout: heroImage
-lang-ref: home
+#lang-ref: home
 title: Biodiversidata
 description: |
   El Consorcio de Datos de Biodiversidad del Uruguay es una asociación colaborativa de expertos y expertas con el objetivo de mejorar el conocimiento de la biodiversidad de Uruguay.

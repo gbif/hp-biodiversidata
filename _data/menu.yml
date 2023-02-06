@@ -8,7 +8,7 @@ historia:
       description: |    # optional but recommended
         Conocé más sobre la historia de Biodiversidata a través de nuestra presentación en la **Jornada sobre Estrategia Latino Americana, Caribeña e Iberoamericana para la Información de Biodiversidad** realizada en Sevilla (Noviembre 2022).
       # img required
-      background: assets/images/logos/uy-violeta.png # required
+      background: assets/images/logos/2023-biodiversidata-ilustraciones--05.png # required
       href: /assets/pdf/Biodiversidata_SevillaNov2022.pdf # required
       cta:
       - text: PDF
@@ -38,9 +38,8 @@ publicacionesEnGBIF:
       description: |    # optional but recommended
         Los datos de Biodiversidata depositados en GBIF han sido reusado por otras personas para sus investigaciones y citados en diversas publicaciones derivadas
       # img required
-      background: https://live.staticflickr.com/65535/48687329243_e84bb5b508_6k.jpg # required
+      background: /assets/images/logos/2023-biodiversidata-ilustraciones--01.png # required
       imageLicense: |
-        BID African regional meeting and nodes training. Photo by Andrew Rodrigues - GBIF Secretariat, licensed under [CC BY](https://creativecommons.org/licenses/by/2.0/) via [Flickr](https://www.flickr.com/photos/44353813@N02/48687329243/in/dateposted/)
       href: /literature/buscar # required
       cta:
       - text: Publicaciones
@@ -226,9 +225,8 @@ gbif:
       description: |    # optional but recommended
         Usá el mapa para explorar los datos publicados en GBIF por integrantes de Biodiversidata
       # img required
-      background: https://inaturalist-open-data.s3.amazonaws.com/photos/163262933/original.jpg # required
+      background: /assets/images/logos/2023-biodiversidata-ilustraciones--02.png # required
       imageLicense: |
-        *Paromoeocerus barbicornis* observed in Uruguay by Guillermo Menéndez licensed under [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/3456209551)
       href: datos/buscar/?publishingOrg=862f7ec3-3134-4dce-ab5a-03c81f54bd72&view=MAP # required
       cta:
       - text: Explorá los datos

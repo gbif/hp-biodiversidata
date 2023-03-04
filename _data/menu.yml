@@ -164,19 +164,19 @@ cursos:
         href: https://biodiversidad.co/formacion/laboratorios
         isPrimary: true
 
-    - title: Cursos de formación # required text
-      preTitle: GBIF # optional text
-      description: |    # optional but recommended
-        La Secretaría de GBIF, en colaboración con su comunidad de formadores y mentores, desarrolla cursos de formación sobre movilización y uso de datos de biodiversidad, entre otros tópicos.
-      # img required
-      background: https://live.staticflickr.com/65535/48688053766_065a7fd209_k.jpg # required
-      href: https://www.gbif.org/es/training # required
-      imageLicense: |
-         Roberteau Tchoffo (BIOPAMA, left) and Elias Bizuru (National University of Rwanda, right) at the BID African regional meeting and nodes training, 3 Sept 2019, Yaounde, Cameroon. Photo by Mélianie Raymond. GBIF, licensed under [CC BY](https://creativecommons.org/licenses/by/2.0/).
-      cta:
-      - text: Accedé a más cursos
-        href: https://www.gbif.org/es/training
-        isPrimary: true
+    # - title: Cursos de formación # required text
+    #   preTitle: GBIF # optional text
+    #   description: |    # optional but recommended
+    #     La Secretaría de GBIF, en colaboración con su comunidad de formadores y mentores, desarrolla cursos de formación sobre movilización y uso de datos de biodiversidad, entre otros tópicos.
+    #   # img required
+    #   background: https://live.staticflickr.com/65535/48688053766_065a7fd209_k.jpg # required
+    #   href: https://www.gbif.org/es/training # required
+    #   imageLicense: |
+    #      Roberteau Tchoffo (BIOPAMA, left) and Elias Bizuru (National University of Rwanda, right) at the BID African regional meeting and nodes training, 3 Sept 2019, Yaounde, Cameroon. Photo by Mélianie Raymond. GBIF, licensed under [CC BY](https://creativecommons.org/licenses/by/2.0/).
+    #   cta:
+    #   - text: Accedé a más cursos
+    #     href: https://www.gbif.org/es/training
+    #     isPrimary: true
 
 listas:
   title: Listas de Especies

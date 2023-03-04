@@ -1,6 +1,6 @@
 # Descripción en home
 text:
-  title: 
+  title:
   description: |      # required
     **Biodiversidata** es una asociación colaborativa de expertos y expertas con el objetivo de mejorar el conocimiento de la biodiversidad de Uruguay
   hasWhiteText: false
@@ -112,7 +112,7 @@ naturalistauy:
   features:
   - title: NaturalistaUY
     description: |      # required
-      El sitio de **iNaturalist** para Uruguay es una iniciativa conjunta entre Biodiversidata y la organización de educación ambiental JULANA
+      El sitio de **iNaturalist** para Uruguay es una iniciativa conjunta entre Biodiversidata y la organización [JULANA](https://naturalista.uy)
     # img required
     background: /assets/images/logos/NaturalistaUY-SocialMediaIcon.png
     href: https://naturalista.uy

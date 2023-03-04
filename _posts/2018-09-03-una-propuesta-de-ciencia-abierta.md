@@ -1,5 +1,5 @@
 ---
-title:  "Biodiversidata: Una propuesta de ciencia abierta en Uruguay"
+title:  "Nota: Una propuesta de ciencia abierta en Uruguay"
 date: 2018-09-03
 categories: ["prensa / press"]
 #lang-ref: nota en ccuy
@@ -8,7 +8,7 @@ imageLicense: |
   Foto por [**Julana**](https://julana.org)
 ---
 
-## Nota en Creative Commons Uruguay
+## Biodiversidata en Creative Commons Uruguay
 
 La biodiversidad se encuentra en un fuerte proceso de declinación a nivel global, comparable tanto en velocidad como en magnitud a las cinco extinciones masivas previas de la historia de la Tierra. En los últimos 500 años, más de 300 especies de vertebrados terrestres se han extinguido y las poblaciones de las especies restantes muestran un 25% de disminución promedio en la abundancia. Mientras se sucede este proceso conocido como “defaunación del antropoceno” (Dirzo et al. 2014), sabemos que la mayor cantidad de especies aún quedan por descubrir. A pesar de 250 años de clasificación taxonómica y más de 1,2 millones de especies ya catalogadas en bases de datos, el 86% de las especies existentes a nivel terrestre y el 91% de las especies en el océano todavía esperan su descripción (Mora et al. 2011). Bajo este escenario, resulta clave generar mecanismos para medir cuantitativamente la riqueza ambiental y monitorear sus cambios, para un amplio conjunto de utilidades científicas, educativas y políticas. Un uso, por ejemplo, puede ser para dirigir la asignación de recursos a las regiones de mayor preocupación.  
 
@@ -31,6 +31,6 @@ El futuro de la biodiversidad en Uruguay (y el mundo) depende en gran medida de 
 + Dirzo, R., H. S. Young, M. Galetti, G. Ceballos, N. J. Isaac, and B. Collen. 2014. Defaunation in the Anthropocene. Science 345:401-406.
 + Mora, C., D. P. Tittensor, S. Adl, A. G. Simpson, and B. Worm. 2011. How many species are there on Earth and in the ocean? PLoS biology 9:e1001127.
 
-<br>
+***
 
-Esta nota fue publicada el 3 de setiembre de 2018 en el sitio de [Creative Commons Uruguay](http://www.creativecommons.uy/biodiversidata-una-propuesta-de-ciencia-abierta-en-uruguay/).
+[Nota en el sitio de Creative Commons Uruguay](http://www.creativecommons.uy/biodiversidata-una-propuesta-de-ciencia-abierta-en-uruguay/){: .button .is-primary}{:target="_blank"}

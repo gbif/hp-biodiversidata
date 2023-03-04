@@ -1,5 +1,5 @@
 ---
-title:  "iNaturalist y Biodiversidata"
+title:  "Nota: iNaturalist y Biodiversidata"
 date: 2019-08-31
 categories: ["ciencia comunitaria / communtiy-science"]
 #lang-ref: inat y biodiversidata

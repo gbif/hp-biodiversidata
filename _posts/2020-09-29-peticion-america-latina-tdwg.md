@@ -1,5 +1,5 @@
 ---
-title:  "Petición de América Latina a TDWG"
+title:  "Resumen: Petición de América Latina a TDWG"
 date: 2020-09-29
 categories: ["publicación / publication", "encuentro / meeting"]
 #lang-ref: peticion latam tdwg

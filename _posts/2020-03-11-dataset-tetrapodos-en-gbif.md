@@ -1,5 +1,5 @@
 ---
-title:  "Dataset: Tetrápodos del Uruguay"
+title:  "Dataset en GBIF: Tetrápodos del Uruguay"
 date: 2020-04-09
 categories: ["datos compartidos / data-sharing", "vertebrados / vertebrates"]
 #lang-ref: dataset tetrapodos en gbif
@@ -11,5 +11,7 @@ imageLicense: |
 ## Publicamos nuestro primer conjunto de datos en GBIF
 
 El conjunto de datos contiene datos primarios de biodiversidad de especies nativas de anfibios, reptiles, aves y mamíferos registrados en Uruguay por miembros de Biodiversidata entre 2000 y 2019. Incluye observaciones realizadas durante relevamientos de grupos faunísticos específicos y eventos de muestreo ocasionales. La presencia de individuos fue registrada por observaciones directas o por especímenes preservados depositados en colecciones.  
+
+***
 
 [Explorá los datos](/datos/buscar/?datasetKey=7d13fdbc-a2d0-4c71-828b-fcc5cb502faa&view=MAP){: .button .is-primary}

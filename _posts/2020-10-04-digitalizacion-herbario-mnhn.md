@@ -1,11 +1,11 @@
 ---
-title:  "Digitalizando el Patrimonio Natural del Uruguay"
+title:  "Nota: Digitalizando el Patrimonio Natural del Uruguay"
 date: 2020-10-04
 categories: ["digitalización / digitisation", "plantas / plants"]
 #lang-ref: first meeting
-background: https://biodiversidata.org/es/post/digitalizacion/featured.jpg
+background: https://live.staticflickr.com/65535/49515876497_e71deb9738_o.jpg
 imageLicense: |
-  Foto por [**Florencia Grattarola**](https://flograttarola.com)
+  Photo by [**Florencia Grattarola**](https://flograttarola.com) licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/2.0/) via [Flickr](https://www.flickr.com/photos/biodiversidata/49515876497/in/album-72157713050634927/)
 ---
 
 ## Digitalización de especímenes del Herbario del Museo Nacional de Historia Natural
@@ -20,5 +20,6 @@ El trabajo consistió en escanear en alta calidad más de **600** ejemplares, ha
 
 Agradecemos al Museo, en especial a Meica Valdivia por su conocimiento y amable colaboración, y a su director Javier González por la gran disposición y apertura.   
 
-<br>
-#### Por más información sobre esta institución con más de 180 años de historia en el país, les invitamos a visitar su [sitio web](https://www.mnhn.gub.uy), pasarse por su [nueva sede](https://goo.gl/maps/FVeKbxjsuHnsq1Q76) y vichar sus redes: [Facebook](https://www.facebook.com/MNHNUruguay), [Twitter](https://twitter.com/mnhn_uy) e [Instagram](https://www.instagram.com/mnhn_uy/).
+***
+
+Por más información sobre esta institución con más de 180 años de historia en el país, les invitamos a visitar su [sitio web](https://www.mnhn.gub.uy){:target="_blank"}, pasarse por su [nueva sede](https://goo.gl/maps/FVeKbxjsuHnsq1Q76) y vichar sus redes: [Facebook](https://www.facebook.com/MNHNUruguay){:target="_blank"}, [Twitter](https://twitter.com/mnhn_uy){:target="_blank"} e [Instagram](https://www.instagram.com/mnhn_uy/){:target="_blank"}.

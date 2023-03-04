@@ -1,5 +1,5 @@
 ---
-title:  "Dataset: Plantas Vasculares de Uruguay"
+title:  "Datasets en GBIF: Plantas Vasculares de Uruguay"
 date: 2020-07-13
 categories: ["datos compartidos / data-sharing", "plantas / plants"]
 #lang-ref: dataset plantas gbif
@@ -28,8 +28,6 @@ Este conjunto de datos contiene registros primarios de especies de plantas vascu
 **Plantas Vasculares del Uruguay (Observaciones González)**  
 Este conjunto de datos contiene registros primarios de especies de plantas vasculares documentadas por Andrés González en Uruguay. Incluye 101 observaciones de 95 especies, realizadas entre 2008 y 2014, en 22 localidades del país. Estos datos forman parte de la base de datos de plantas vasculares de Biodiversidata, el Consorcio de Datos de Biodiversidad del Uruguay.  
 
-
-¡Gracias a quienes contribuyeron sus registros!   
-Esperamos que más datos de plantas de Uruguay se sigan haciendo disponibles.  
+***
 
 [Explorá los datos](/datos/buscar/?datasetKey=17d66199-d8d3-431a-a8c4-9ff9cde9425c&datasetKey=ce8285ae-97a7-4c14-9a88-4b4a490a0555&datasetKey=90a5be66-f51f-4a7e-9ffe-3137c7d3e0c3&datasetKey=79240b21-671e-4ede-9d65-aa6b735230fd&view=MAP){: .button .is-primary}

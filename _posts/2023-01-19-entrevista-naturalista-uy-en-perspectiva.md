@@ -1,7 +1,7 @@
 ---
-title: "iNaturalist la app con la que cualquiera puede aportar información sobre flora y fauna en Uruguay"
+title: "Nota: iNaturalist la app con la que cualquiera puede aportar información sobre flora y fauna en Uruguay"
 date: 2023-01-19
-categories: ["encuentro / meeting"]
+categories: ["prensa / press"]
 #lang-ref: eventos ciencia comunitaria
 background: https://live.staticflickr.com/65535/52102536322_e924e7fcc0_k.jpg
 imageLicense: |

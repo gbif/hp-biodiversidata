@@ -1,7 +1,7 @@
 ---
-title:  "Llegamos a 50mil observaciones en NaturalistaUY"
+title:  "Informe: Llegamos a 50mil observaciones en NaturalistaUY"
 date: 2022-05-19
-categories: ["naturalistauy"]
+categories: ["naturalista uy"]
 #lang-ref: eventos ciencia comunitaria
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/177035493/large.jpeg
 imageLicense: |

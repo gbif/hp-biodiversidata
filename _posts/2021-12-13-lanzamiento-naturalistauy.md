@@ -1,7 +1,7 @@
 ---
-title:  "Lanzamiento de NaturalistaUY"
+title:  "Evento: Lanzamiento de NaturalistaUY"
 date: 2021-12-13
-categories: ["naturalistauy", "encuentro / meeting"]
+categories: ["naturalista uy", "encuentro / meeting"]
 #lang-ref: lanzamiento naturalistauy
 background: https://live.staticflickr.com/65535/52143468731_03d849bb07_k.jpg
 imageLicense: |
@@ -18,4 +18,6 @@ Fue presentado por Leo Lagos y contó con la participación de Carrie Seltzer de
 
 El evento en que se dio estreno oficial al sitio web naturalista.uy fue en el Centro Cultural España (con aforo limitado debido a restricciones por la COVID-19) y se pudo ver por YouTube.
 
-[Video](https://www.youtube.com/embed/4YIEEYCUf8Q){: .button .is-primary} [Álbum de fotos](https://www.flickr.com/photos/biodiversidata/albums/72177720299766414){: .button}
+***
+
+[Video](https://www.youtube.com/embed/4YIEEYCUf8Q){: .button .is-primary}{:target="_blank"} [Álbum de fotos](https://www.flickr.com/photos/biodiversidata/albums/72177720299766414){: .button}{:target="_blank"}

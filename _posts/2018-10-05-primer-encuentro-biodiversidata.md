@@ -1,5 +1,5 @@
 ---
-title:  "Reporte: Primer encuentro de integrantes de Biodiversidad"
+title:  "Evento: Primer encuentro de integrantes de Biodiversidad"
 date: 2018-10-05
 categories: ["encuentro / meeting"]
 #lang-ref: first meeting

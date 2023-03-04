@@ -1,7 +1,7 @@
 ---
 title:  "Artículo: Hotspots de tetrápodos en Uruguay"
 date: 2020-12-16
-categories: ["publicación / publication"]
+categories: ["publicación / publication", "uso de datos / data use"]
 #lang-ref: primer manuscrito
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/202480901/original.jpeg
 imageLicense: |

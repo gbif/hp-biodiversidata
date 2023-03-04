@@ -1,5 +1,5 @@
 ---
-title:  "Dataset: Anfibios y Reptiles del Centro Universitario Regional Noreste"
+title:  "Dataset en GBIF: Anfibios y Reptiles del Centro Universitario Regional Noreste"
 date: 2021-08-09
 categories: ["datos compartidos / data-sharing", "vertebrados / vertebrates"]
 #lang-ref: anfibios reptiles curn
@@ -14,5 +14,7 @@ El conjunto de datos contiene datos primarios de especímenes de anfibios y rept
 
 ¡Gracias a Arley Camargo y Mateo Sensseber!   
 Esperamos que más datos de colecciones de Uruguay se sigan digitalizando y haciendo disponibles.  
+
+***
 
 [Explorá los datos](/datos/buscar/?datasetKey=8f84e304-9f33-4e4d-becc-f178154fd2ff&view=MAP){: .button .is-primary}

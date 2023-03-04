@@ -1,9 +1,9 @@
 ---
-title:  "Más de 95% de la superficie de Uruguay permanece con muestreos de biodiversidad insuficientes"
+title:  "Nota: Más de 95% de la superficie de Uruguay permanece con muestreos de biodiversidad insuficientes"
 date: 2021-02-06
 categories: ["prensa / press"]
 #lang-ref: nota en la diaria
-background: https://biodiversidata.org/es/post/la-diaria-95-porciento/featured.png
+background: /assets/images/posts/ladiaria-hotspots.jpeg
 imageLicense: |
   Imagen por [**Florencia Grattarola**](https://flograttarola.com)
 ---
@@ -16,8 +16,8 @@ imageLicense: |
 
 Por Leo Lagos
 
-![](/img/ladiaria-hotspots.jpeg)
+![](/assets/images/posts/ladiaria-hotspots.jpeg)
 
 ***
 
-[Nota en La Diaria](https://ladiaria.com.uy/ciencia/articulo/2021/2/mas-de-95-de-la-superficie-de-uruguay-permanece-con-muestreos-de-biodiversidad-insuficientes){: .button .is-primary} [Paper](https://doi.org/10.1038/s41598-020-79074-8){: .button}
+[Nota en La Diaria](https://ladiaria.com.uy/ciencia/articulo/2021/2/mas-de-95-de-la-superficie-de-uruguay-permanece-con-muestreos-de-biodiversidad-insuficientes){: .button .is-primary}{:target="_blank"} [Publicación](https://doi.org/10.1038/s41598-020-79074-8){: .button}{:target="_blank"}

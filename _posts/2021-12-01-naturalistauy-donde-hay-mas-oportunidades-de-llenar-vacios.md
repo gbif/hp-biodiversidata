@@ -1,9 +1,9 @@
 ---
-title:  "NaturalistaUY: ¿dónde hay más oportunidades de llenar vacíos de información?"
+title:  "Presentación: ¿Dónde hay más oportunidades de llenar vacíos de información?"
 date: 2021-12-01
-categories: ["uso de datos / data use"]
+categories: ["uso de datos / data use", "ciencia comunitaria / communtiy-science"]
 #lang-ref: nota en la diaria
-background: https://biodiversidata.org/es/post/latinr-2021/featured.png
+background: /assets/images/posts/post_shiny_app.png
 imageLicense: |
   Imagen por [**Florencia Grattarola**](https://flograttarola.com)
 ---
@@ -19,4 +19,4 @@ imageLicense: |
 
 ***
 
-[app de Shiny](https://github.com/bienflorencia/LatinR2021/tree/main/iNatUy_priority_map){: .button .is-primary} [Presentación](https://github.com/bienflorencia/LatinR2021/blob/5081c1cac28a4207a653771da89870146ab7bca3/docs/xaringan_latinR/Presentacion_NaturalistaUY.pdf){: .button}
+[Código de la Shiny app](https://github.com/bienflorencia/LatinR2021/tree/main/iNatUy_priority_map){: .button .is-primary}{:target="_blank"} [Presentación](https://github.com/bienflorencia/LatinR2021/raw/5081c1cac28a4207a653771da89870146ab7bca3/docs/xaringan_latinR/Presentacion_NaturalistaUY.pdf){: .button}{:target="_blank"}

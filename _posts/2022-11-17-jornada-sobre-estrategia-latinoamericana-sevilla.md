@@ -1,5 +1,5 @@
 ---
-title:  "Jornada sobre Estrategia Latino Americana, Caribeña e Iberoamericana para la Información de Biodiversidad"
+title:  "Evento: Estrategia Latino Americana, Caribeña e Iberoamericana para la Información de Biodiversidad"
 date: 2022-05-19
 categories: ["encuentro / meeting"]
 #lang-ref: eventos ciencia comunitaria

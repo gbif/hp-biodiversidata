@@ -16,7 +16,7 @@ composition:
 
 ## Ampliando el conocimiento sobre la calidad y publicación de datos sobre biodiversidad en la comunidad hispano hablante
 
-[Página del curso en GBIF](https://www.gbif.org/es/project/CESP2021-007/ampliando-el-conocimiento-sobre-la-calidad-y-publicacion-de-datos-sobre-biodiversidad-en-la-comunidad-hispano-hablante){: .button .is-primary .target="_blank"}
+[Página del curso](https://www.gbif.org/es/project/CESP2021-007/ampliando-el-conocimiento-sobre-la-calidad-y-publicacion-de-datos-sobre-biodiversidad-en-la-comunidad-hispano-hablante){: .button .is-primary .target="_blank"}
 
 El objetivo de este ciclo de formación fue aumentar la disponibilidad de datos de biodiversidad de alta calidad de la comunidad hispano hablante a través de la red GBIF. El objetivo específico fue mejorar la capacidad en los países participantes y en la región latinoamericana en general, a través de dos componentes:
 

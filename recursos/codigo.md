@@ -1,7 +1,7 @@
 ---
 layout: heroImage # try to remoce this line (add # in the beginning of the line to make it a comment) - then the layout will change, but the content remain the same
 title: Código
-description: El respositorio `rBiodiversidata` en GitHub reúne todo el código usado para el proyecto. También, el modelo de metadatos que usamos para nuestros conjuntos de datos, referencias a términos de DarwinCore y más.
+description: Nuestro respositorio `rBiodiversidata` en GitHub reúne todo el código usado para el proyecto. También, el modelo de metadatos que usamos, referencias a términos de DarwinCore y más.
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/60508300/original.jpeg
 height: 50vh
 parallax: true

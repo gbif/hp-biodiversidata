@@ -3,9 +3,9 @@ layout: heroImage
 lang-ref: codigo-de-conducta
 title: Código de Investigación Responsable
 description: Consorcio de Datos de Biodiversidad del Uruguay
-background: https://inaturalist-open-data.s3.amazonaws.com/photos/166974892/original.jpg
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/180266868/original.jpg
 imageLicense: |
-  Doryopteris triphylla observed in Uruguay by Guillermo Menéndez licensed under [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/3455617807)
+  *Lupinus multiflorus* observed in Uruguay by Andrés Acosta licensed under [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/3698255731)
 height: 50vh
 parallax: true
 #permalink: /codigo-de-conducta

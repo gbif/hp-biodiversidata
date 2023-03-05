@@ -69,4 +69,4 @@ Si todavía no sos parte, no sé que estás esperando ¡Unite ahora a la comunid
 
 Desde Biodiversidata elaboramos una guía básica (*muy básica*) para quienes quieran colaborar identificando observaciones.  
 
-[Guía para colaborar con las IDs](/assets/pdf/Guía_para_colaborar_con_IDs_en_iNaturalist.pdf){: .button .is-primary}{:target="_blank"}
+[Guía para colaborar con las IDs](/assets/pdf/Guia_para_colaborar_con_IDs_en_iNaturalist.pdf){: .button .is-primary}{:target="_blank"}

@@ -1,7 +1,8 @@
 ---
-title:  "Informe: Registros uruguayos en iNaturalist"
+title:  "Registros uruguayos en iNaturalist"
+preTitle: "7 de febrero, 2020"
 date: 2020-02-07
-categories: ["ciencia comunitaria / communtiy-science"]
+categories: ["Ciencia comunitaria", "Reporte"]
 #lang-ref: registros uruguayos inat
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/60049180/original.jpeg
 imageLicense: |

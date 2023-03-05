@@ -1,7 +1,8 @@
 ---
-title:  "Nota: Una propuesta de ciencia abierta en Uruguay"
+title:  "Una propuesta de ciencia abierta en Uruguay"
+preTitle: "3 de setiembre, 2018"
 date: 2018-09-03
-categories: ["prensa / press"]
+categories: ["Blog"]
 #lang-ref: nota en ccuy
 background: https://biodiversidata.org/es/post/creacion/featured.jpg
 imageLicense: |

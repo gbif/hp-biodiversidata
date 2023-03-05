@@ -1,7 +1,8 @@
 ---
-title:  "Evento: Lanzamiento de NaturalistaUY"
+title:  "Lanzamiento de NaturalistaUY"
+preTitle: "13 de diciembre, 2021"
 date: 2021-12-13
-categories: ["naturalista uy", "encuentro / meeting"]
+categories: ["Evento", "NaturalistaUY"]
 #lang-ref: lanzamiento naturalistauy
 background: https://live.staticflickr.com/65535/52143468731_03d849bb07_k.jpg
 imageLicense: |

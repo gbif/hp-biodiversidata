@@ -1,7 +1,8 @@
 ---
-title:  "Evento: Primer encuentro de integrantes de Biodiversidad"
+title:  "Primer encuentro de integrantes de Biodiversidad"
+preTitle: "5 de octubre, 2018"
 date: 2018-10-05
-categories: ["encuentro / meeting"]
+categories: ["Evento"]
 #lang-ref: first meeting
 background: https://biodiversidata.org/es/post/primer-encuentro/featured.jpg
 imageLicense: |

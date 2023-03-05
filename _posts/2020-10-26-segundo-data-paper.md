@@ -1,7 +1,8 @@
 ---
 title:  "Data paper: Plantas vasculares"
+preTitle: "26 de octubre, 2020"
 date: 2020-10-26
-categories: ["publicación / publication", "datos compartidos / data-sharing", "plantas / plants"]
+categories: ["Publicación", "Datos abiertos", "Plantas"]
 #lang-ref: segundo data paper
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/168645846/original.jpg
 imageLicense: |

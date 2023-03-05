@@ -1,7 +1,8 @@
 ---
-title:  "Nota: iNaturalist y Biodiversidata"
+title:  "iNaturalist y Biodiversidata"
+preTitle: "31 de agosto, 2019"
 date: 2019-08-31
-categories: ["ciencia comunitaria / communtiy-science"]
+categories: ["Ciencia comunitaria", "Blog"]
 #lang-ref: inat y biodiversidata
 background: https://biodiversidata.org/es/post/inaturalist/featured.png
 imageLicense: |

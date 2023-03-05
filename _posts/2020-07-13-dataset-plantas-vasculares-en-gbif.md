@@ -1,7 +1,8 @@
 ---
 title:  "Datasets en GBIF: Plantas Vasculares de Uruguay"
+preTitle: "13 de julio, 2020"
 date: 2020-07-13
-categories: ["datos compartidos / data-sharing", "plantas / plants"]
+categories: ["Datos abiertos", "Plantas"]
 #lang-ref: dataset plantas gbif
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/56389437/large.jpeg
 imageLicense: |

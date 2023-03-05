@@ -1,7 +1,8 @@
 ---
 title:  "Data paper: Vertebrados tetrápodos"
+preTitle: "20 de junio, 2019"
 date: 2019-06-20
-categories: ["publicación / publication", "datos compartidos / data-sharing", "vertebrados / vertebrates"]
+categories: ["Publicación", "Datos abiertos", "Vertebrados"]
 #lang-ref: primer data paper
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/237861877/original.jpg
 imageLicense: |

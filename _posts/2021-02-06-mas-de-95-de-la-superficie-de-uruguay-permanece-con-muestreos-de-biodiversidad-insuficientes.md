@@ -1,7 +1,8 @@
 ---
-title:  "Nota: Más de 95% de la superficie de Uruguay permanece con muestreos de biodiversidad insuficientes"
+title:  "Más de 95% de la superficie de Uruguay permanece con muestreos de biodiversidad insuficientes"
+preTitle: "6 de febrero, 2021"
 date: 2021-02-06
-categories: ["prensa / press"]
+categories: ["Nota en prensa"]
 #lang-ref: nota en la diaria
 background: /assets/images/posts/ladiaria-hotspots.jpeg
 imageLicense: |

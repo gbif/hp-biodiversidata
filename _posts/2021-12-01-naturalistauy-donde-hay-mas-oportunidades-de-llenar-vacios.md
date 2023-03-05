@@ -1,7 +1,8 @@
 ---
-title:  "Presentación: ¿Dónde hay más oportunidades de llenar vacíos de información?"
+title:  "¿Dónde hay más oportunidades de llenar vacíos de información?"
+preTitle: "1 de diciembre, 2021"
 date: 2021-12-01
-categories: ["uso de datos / data use", "ciencia comunitaria / communtiy-science"]
+categories: ["Uso de datos", "Ciencia comunitaria"]
 #lang-ref: nota en la diaria
 background: /assets/images/posts/post_shiny_app.png
 imageLicense: |

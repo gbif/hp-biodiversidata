@@ -1,7 +1,8 @@
 ---
-title:  "Resumen: Petición de América Latina a TDWG"
+title:  "Petición de América Latina a TDWG"
+preTitle: "29 de setiembre, 2020"
 date: 2020-09-29
-categories: ["publicación / publication", "encuentro / meeting"]
+categories: ["Publicación", "Evento", "Estándar Dwc"]
 #lang-ref: peticion latam tdwg
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/84509593/original.jpeg
 imageLicense: |
@@ -17,5 +18,7 @@ Si bien se reconoce que el inglés se considera actualmente el “idioma univers
 El lenguaje afecta la comprensión y el uso de los estándares de datos de biodiversidad y documentación relacionada para toda la comunidad, tanto angloparlantes como no angloparlantes. Nuestros hallazgos en la región de América Latina sugieren que la disponibilidad de materiales en otros idiomas, es decir, español y portugués, beneficiaría enormemente a la región y mejoraría nuestra participación en el intercambio de datos sobre biodiversidad. Además, por otro lado, la comunidad angloparlantes se beneficiaría de una mejor comprensión del conocimiento en otros idiomas distintos al inglés, lo que permite un uso más amplio de datos de todas las regiones. Este trabajo también constituye un alegato desde la comunidad latinoamericana y de habla hispana en general a los Estándares de información sobre biodiversidad (TDWG) para explorar e incorporar otros lenguajes, fomentar la comprensión y, por lo tanto, ampliar el uso de los estándares TDWG en nuestra región.
 
 ***
+
+Este trabajo fue presentado en el marco de la [conferencia anual de TDWG 2020](https://www.tdwg.org/conferences/2020/){:target="_blank"} con el objetivo de que se incorporen otros lenguajes a los estándares y documentaciones de la Biodiversity Information Standards (TDWG).
 
 [Resumen en BISS](https://doi.org/10.3897/biss.4.58973){: .button .is-primary}

@@ -1,7 +1,8 @@
 ---
-title:  "Evento: Estrategia Latino Americana, Caribeña e Iberoamericana para la Información de Biodiversidad"
-date: 2022-05-19
-categories: ["encuentro / meeting"]
+title:  "Estrategia Latino Americana, Caribeña e Iberoamericana para la Información de Biodiversidad"
+preTitle: "17 de noviembre, 2022"
+date: 2022-11-17
+categories: ["Evento"]
 #lang-ref: eventos ciencia comunitaria
 background: https://pbs.twimg.com/media/FhgupqCWIAANNj1?format=jpg&name=large
 imageLicense: |

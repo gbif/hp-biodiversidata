@@ -1,7 +1,8 @@
 ---
-title:  "Proyecto: Eventos de ciencia comunitaria con NaturalistaUY"
+title:  "Eventos de ciencia comunitaria con NaturalistaUY"
+preTitle: "1 de mayo, 2022"
 date: 2022-05-01
-categories: ["naturalista uy", "ciencia comunitaria / communtiy-science"]
+categories: ["Naturalista UY", "Proyecto", "Ciencia comunitaria"]
 #lang-ref: eventos ciencia comunitaria
 background: https://live.staticflickr.com/65535/52103564276_8e124fb853_k.jpg
 imageLicense: |

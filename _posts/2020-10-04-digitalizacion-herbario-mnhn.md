@@ -1,7 +1,8 @@
 ---
-title:  "Nota: Digitalizando el Patrimonio Natural del Uruguay"
+title:  "Digitalizando el Patrimonio Natural del Uruguay"
+preTitle: "4 de octubre, 2020"
 date: 2020-10-04
-categories: ["digitalización / digitisation", "plantas / plants"]
+categories: ["Digitalización", "Plantas"]
 #lang-ref: first meeting
 background: https://live.staticflickr.com/65535/49515876497_e71deb9738_o.jpg
 imageLicense: |

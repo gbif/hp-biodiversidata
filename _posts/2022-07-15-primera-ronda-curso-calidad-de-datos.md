@@ -1,7 +1,8 @@
 ---
-title:  "Curso: Calidad de Datos de Biodiversidad"
+title:  "Calidad de Datos de Biodiversidad"
+preTitle: "19 de mayo, 2022"
 date: 2022-05-19
-categories: ["curso / training"]
+categories: ["Curso", "Proyecto"]
 #lang-ref: eventos ciencia comunitaria
 background: https://live.staticflickr.com/65535/49515876427_9791844108_k.jpg
 imageLicense: |

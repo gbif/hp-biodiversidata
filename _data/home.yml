@@ -112,7 +112,7 @@ naturalistauy:
   features:
   - title: NaturalistaUY
     description: |      # required
-      El sitio de **iNaturalist** para Uruguay es una iniciativa conjunta entre Biodiversidata y la organización [JULANA](https://naturalista.uy)
+      El sitio de **iNaturalist** para Uruguay es una iniciativa conjunta entre Biodiversidata y la organización [JULANA](https://julana.org){:target="_blank"}
     # img required
     background: /assets/images/logos/NaturalistaUY-SocialMediaIcon.png
     href: https://naturalista.uy

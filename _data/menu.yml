@@ -132,7 +132,7 @@ codigo:
         isPrimary: true
 
 cursos:
-  title: Otros cursos
+  title: Otros cursos que recomendamos
   # description: |
   #  You could add addditional descriptive text here
   features:

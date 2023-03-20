@@ -1,6 +1,6 @@
 ---
 layout: heroImage # try to remoce this line (add # in the beginning of the line to make it a comment) - then the layout will change, but the content remain the same
-title: Cursos
+title: Formación
 description: Material para la formación sobre calidad y publicación de datos, movilización y uso de datos de biodiversidad
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/60508300/original.jpeg
 height: 50vh

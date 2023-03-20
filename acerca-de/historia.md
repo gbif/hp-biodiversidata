@@ -23,7 +23,7 @@ El Consorcio de Datos de Biodiversidad del Uruguay fue creado en 2018 por Floren
 
 Durante la primera etapa (2018 a 2020), Biodiversidata se enfocó en consolidar un grupo de personas, colectar y rescatar datos primarios de biodiversidad, limpiarlos y estandarizarlos, hacer los datos disponibles, y hacer uso de esos datos respondiendo preguntas de investigación.
 
-### 1. Convocar a las partes interesadas en el país (comunidad científica, instituciones de investigación y organismos públicos) para que compartan sus datos de biodiversidad derivados de sus muestreos y/o investigaciones.
+### 1. Convocar a las partes interesadas en el país (comunidad científica, instituciones de investigación y organismos públicos) para que compartan sus datos de biodiversidad derivados de sus muestreos y/o investigaciones
 
 Se tuvieron reuniones con integrantes de las colecciones de Facultad de Ciencias, Museo Nacional de Historia Natural del Uruguay y el Ministerio de Ambiente a través del nodo GBIF Uruguay. Tras evaluar que la discusión sobre ciencia abierta y apertura de datos derivados de la ciencia en estas instituciones era aún muy incipiente y teniendo en cuenta los plazos del proyecto, se decidió poner foco en la comunidad de investigadores que estuvieran dispuestos a compartir sus datos.
 
@@ -38,7 +38,7 @@ La apertura a la recepción de datos se hizo a través de convocatorias masivas 
 ![Afiche que se circuló para la convocatoria](https://pbs.twimg.com/media/EC_TW5LW4AMZNcN?format=jpg&name=large){:standalone .has-text-centered}
 
 
-### 2. Recopilar datos primarios de biodiversidad de fuentes heterogéneas, limpiarlos y estandarizarlos.
+### 2. Recopilar datos primarios de biodiversidad de fuentes heterogéneas, limpiarlos y estandarizarlos
 
 Se reunieron datos primarios de biodiversidad – es decir, registros a nivel de especie, con información sobre la localización geográfica y fecha de colecta/observación – compartidos por integrantes de Biodiversidata, obtenidos de la literatura primaria y también a partir de bases de datos online.
 
@@ -54,7 +54,7 @@ Finalmente, se generaron las primeras dos bases abiertas de datos primarios de b
 
 <br>
 
-### 3. Publicar la base de datos junto a sus metadatos en formato de Data Paper (artículo de datos).
+### 3. Publicar la base de datos junto a sus metadatos en formato de Data Paper (artículo de datos)
 
  Compartimos datos que nunca antes habían sido disponibilizados y logramos también estandarizar datos de la literatura para su reutilización. Ambas bases de datos fueron subidas al repositorio global Zenodo y contaron, además, con sus respectivos Data Papers publicados en Biodiversity Data Journal. Los registros proporcionados por integrantes de Biodiversidata fueron además disponibilizados en GBIF.  
  <br>
@@ -66,7 +66,7 @@ Finalmente, se generaron las primeras dos bases abiertas de datos primarios de b
 [Datos plantas vasculares](https://doi.org/10.5281/zenodo.3954406){: .button}  
 
 
-### 4. Desarrollar investigación científica sobre la distribución de especies de vertebrados tetrápodos y plantas vasculares en el Uruguay haciendo uso de los datos recopilados.
+### 4. Desarrollar investigación científica sobre la distribución de especies de vertebrados tetrápodos y plantas vasculares en el Uruguay haciendo uso de los datos recopilados
 
 A partir de las bases de datos generadas, publicamos el primer estudio que hace uso de los datos ([Grattarola et al. 2020](https://doi.org/10.1038/s41598-020-79074-8)). El objetivo de este trabajo fue entender cómo se distribuye la biodiversidad en el territorio de Uruguay a través del cálculo de múltiples métricas (riqueza de especies, índices de endemismo y cantidad de especies amenazadas) y evaluar si hay congruencia espacial entre estas medidas. También se evaluó cuán eficaces son los actuales esfuerzos de conservación para proteger las áreas donde se acumula la mayor diversidad (también llamados hotspost de biodiversidad).  
 
@@ -79,13 +79,13 @@ Un hallazgo clave fue revelar que un fuerte sesgo de muestreo ha afectado histó
 En una segunda etapa (años 2021 a 2022), el trabajo de Biodiversidata se concentró en el desarrollo de dos proyectos, uno con foco en la ciencia comunitaria y su aporte a la generación de datos de biodiversidad y otro con foco en la capacitación de personas para la publicación de datos.
 
 
-### 1. NaturalistaUY: la comunidad de iNaturalist para Uruguay.
+### 1. NaturalistaUY: la comunidad de iNaturalist para Uruguay
 
 NaturalistaUY permite a sus usuarios aportar observaciones de cualquier organismo vivo, o rastros del mismo, junto con metadatos espaciotemporales asociados (información sobre la localización y fecha del registro).
 
 La primera serie de eventos de ciencia comunitaria con NaturalistaUY tuvo como objetivo llevar esta herramienta a distintas partes del país para, por un lado, conocer más sobre las especies que habitan en la zona, y por otro, aportar una herramienta novedosa a grupos locales que puedan estar interesados en documentar su biodiversidad. Uruguay es uno de los países con menores niveles de disponibilidad de datos abiertos de biodiversidad (Grattarola et al., 2020) y por esto, los patrones de biodiversidad en el país siguen siendo poco conocidos. La información no solo es limitada para la investigación científica si no para las personas y grupos que habitan los territorios. A través de los eventos, nos planteamos aumentar la cantidad de registros en nuestro país pero, principalmente, difundir el uso de esta herramienta para que grupos locales la puedan usar para su propio beneficio, que puede ser tanto conocer su entorno como defender su territorio.
 
 
-### 2. Ampliación del conocimiento sobre la calidad de los datos de biodiversidad y su publicación en la comunidad hispanohablante.
+### 2. Ampliación del conocimiento sobre la calidad de los datos de biodiversidad y su publicación en la comunidad hispanohablante
 
 Este proyecto tuvo como objetivo aumentar la disponibilidad de datos de biodiversidad de alta calidad de la comunidad hispanohablante a través de la red de GBIF, a través de una serie de entrenamiento (en español) sobre calidad, limpieza y publicación de datos.

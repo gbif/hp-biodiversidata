@@ -2,7 +2,7 @@
 title:  "Dataset en GBIF: Anfibios y Reptiles del Centro Universitario Regional Noreste"
 preTitle: "9 de agosto, 2021"
 date: 2021-08-09
-categories: ["Datos abiertos", "Vertebrados"]
+categories: ["Datos abiertos", "Vertebrados", "GBIF"]
 #lang-ref: anfibios reptiles curn
 background: https://static.inaturalist.org/photos/182701974/large.jpg
 imageLicense: |

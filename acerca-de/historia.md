@@ -81,7 +81,9 @@ En una segunda etapa (años 2021 a 2022), el trabajo de Biodiversidata se concen
 
 ### 1. NaturalistaUY: la comunidad de iNaturalist para Uruguay
 
-NaturalistaUY permite a sus usuarios aportar observaciones de cualquier organismo vivo, o rastros del mismo, junto con metadatos espaciotemporales asociados (información sobre la localización y fecha del registro).
+[iNaturalist](https://www.inaturalist.org/){:target="_blank"} es una de las plataformas digitales globales de ciencia comunitaria más importantes del mundo y [NaturalistaUY](https://naturalista.uy){:target="_blank"} es nuestro portal nacional en Uruguay que fue oficialmente lanzado en diciembre del 2021.   
+
+NaturalistaUY permite a sus usuarios aportar observaciones de cualquier organismo vivo, o rastros del mismo, junto con metadatos espacio-temporales asociados (información sobre la localización y fecha del registro).
 
 La primera serie de eventos de ciencia comunitaria con NaturalistaUY tuvo como objetivo llevar esta herramienta a distintas partes del país para, por un lado, conocer más sobre las especies que habitan en la zona, y por otro, aportar una herramienta novedosa a grupos locales que puedan estar interesados en documentar su biodiversidad. Uruguay es uno de los países con menores niveles de disponibilidad de datos abiertos de biodiversidad (Grattarola et al., 2020) y por esto, los patrones de biodiversidad en el país siguen siendo poco conocidos. La información no solo es limitada para la investigación científica si no para las personas y grupos que habitan los territorios. A través de los eventos, nos planteamos aumentar la cantidad de registros en nuestro país pero, principalmente, difundir el uso de esta herramienta para que grupos locales la puedan usar para su propio beneficio, que puede ser tanto conocer su entorno como defender su territorio.
 

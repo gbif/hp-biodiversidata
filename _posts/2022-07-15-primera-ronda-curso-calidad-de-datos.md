@@ -2,7 +2,7 @@
 title:  "Calidad de Datos de Biodiversidad"
 preTitle: "19 de mayo, 2022"
 date: 2022-05-19
-categories: ["Curso", "Proyecto"]
+categories: ["Curso", "Proyecto", "GBIF"]
 #lang-ref: eventos ciencia comunitaria
 background: https://live.staticflickr.com/65535/49515876427_9791844108_k.jpg
 imageLicense: |

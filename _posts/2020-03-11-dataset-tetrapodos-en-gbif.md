@@ -2,7 +2,7 @@
 title:  "Dataset en GBIF: Tetrápodos del Uruguay"
 preTitle: "9 de abril, 2020"
 date: 2020-04-09
-categories: ["Datos abiertos", "Vertebrados"]
+categories: ["Datos abiertos", "Vertebrados", "GBIF"]
 #lang-ref: dataset tetrapodos en gbif
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/225886915/large.jpg
 imageLicense: |

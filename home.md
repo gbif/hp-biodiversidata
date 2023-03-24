@@ -28,8 +28,8 @@ composition:
     data: home.splitPregunta2
   - type: split # the block type
     data: home.splitPregunta3
-  - type: features
-    data: home.naturalistauy
+#  - type: features
+#    data: home.naturalistauy
 #  - type: floatingText
 #    data: home.overlay.novedadesText
 #  - type: latestPosts

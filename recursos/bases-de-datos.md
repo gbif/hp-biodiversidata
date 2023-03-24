@@ -35,7 +35,7 @@ Esta es la primera base de datos abiertos que proporciona datos primarios de bio
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3685897.svg)](https://doi.org/10.5281/zenodo.3685897){:target="_blank"}
 
 ##### **Si utilizas estos datos, por favor cita a:**
-> Grattarola F, Botto G, da Rosa I, Gobel N, González E, González J, Hernández D, Laufer G, Maneyro R, Martínez-Lanfranco J, Naya D, Rodales A, Ziegler L, Pincheira-Donoso D (2019) Biodiversidata: An Open-Access Biodiversity Database for Uruguay. Biodiversity Data Journal 7: e36226. [https://doi.org/10.3897/BDJ.7.e36226](https://doi.org/10.3897/BDJ.7.e36226){:target="_blank"}
+> Grattarola F, Botto G, da Rosa I, Gobel N, González E, González J, Hernández D, Laufer G, Maneyro R, Martínez-Lanfranco J, Naya D, Rodales A, Ziegler L, Pincheira-Donoso D (2019) Biodiversidata: An Open-Access Biodiversity Database for Uruguay. *Biodiversity Data Journal* 7: e36226. [https://doi.org/10.3897/BDJ.7.e36226](https://doi.org/10.3897/BDJ.7.e36226){:target="_blank"}
 
 ---
 

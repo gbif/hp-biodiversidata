@@ -3,9 +3,9 @@ layout: heroImage
 lang-ref: codigo-de-conducta
 title: Código de Investigación Responsable
 description: Consorcio de Datos de Biodiversidad del Uruguay
-background: https://inaturalist-open-data.s3.amazonaws.com/photos/180266868/original.jpg
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/60621078/original.jpeg
 imageLicense: |
-  *Lupinus multiflorus* observed in Uruguay by Andrés Acosta licensed under [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/3698255731)
+  *Brachidontes rodriguezii* observed in Uruguay by Florencia Grattarola licensed under [CC-BY](http://creativecommons.org/licenses/by/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/2573838631)
 height: 50vh
 parallax: true
 #permalink: /codigo-de-conducta

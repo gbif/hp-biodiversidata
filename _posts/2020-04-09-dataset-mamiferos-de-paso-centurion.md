@@ -2,7 +2,7 @@
 title:  "Dataset en GBIF: Mamíferos de Paso Centurión"
 preTitle: "9 de abril, 2020"
 date: 2020-04-09
-categories: ["Datos abiertos", "Vertebrados"]
+categories: ["Datos abiertos", "Vertebrados", "GBIF"]
 #lang-ref: mamiferos paso centurion
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/202349404/large.jpg
 imageLicense: |

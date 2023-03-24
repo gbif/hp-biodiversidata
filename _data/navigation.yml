@@ -6,6 +6,8 @@
     href: /acerca-de/historia
   - text: Quiénes somos
     href: /acerca-de/quienes-somos
+  - text: NaturalistaUY
+    href: /acerca-de/naturalistauy
   # - text: Código de Investigación Responsable
   #   href: /acerca-de/codigo-de-conducta
 - text: Datos
@@ -41,5 +43,7 @@
     href: /recursos/codigo
   - text: Bases de datos
     href: /recursos/bases-de-datos
+#  - text: Ciencia abierta
+#    href: /recursos/ciencia-abierta
   # - text: Reportes
   #   href: /recursos/reportes

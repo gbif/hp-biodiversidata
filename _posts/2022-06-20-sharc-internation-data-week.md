@@ -2,14 +2,14 @@
 title: "Cómo se perciben y reconocen las actividades de ciencia abierta en la investigación"
 preTitle: "20 de junio, 2022"
 date: 2022-06-20
-categories: ["Evento"]
+categories: ["Evento", "RDA"]
 #lang-ref: eventos ciencia comunitaria
 background: https://www.rd-alliance.org/sites/default/files/IDW%202022%20n2.jpg
 imageLicense: |
   Photo by [RDA](https://www.rd-alliance.org/plenaries/rda-19th-plenary-meeting-part-international-data-week-20%E2%80%9323-june-2022-seoul-south-korea). 19th Plenary meeting, part of International Data Week, 20–23 June 2022, Seoul, South Korea
 ---
 
-## International Data Week 2022 - Plenaria de la RDA
+## International Data Week 2022 - 19ª Plenaria de la RDA
 
 El grupo de interés [RDA-SHARC](https://www.rd-alliance.org/groups/sharing-rewards-and-credit-sharc-ig){:target="_blank"} es un grupo interdisciplinar creado para mejorar los mecanismos de acreditación y reconocimiento en el proceso de apertura de datos/recursos. Los principales objetivos son fomentar la aplicación de vías de reconocimiento y alentar la adopción de criterios relacionados con actividades de apertura de datos en el proceso de evaluación de la investigación a nivel institucional, nacional y europeo/internacional.
 

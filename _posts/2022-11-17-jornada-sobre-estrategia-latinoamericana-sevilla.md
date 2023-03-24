@@ -2,7 +2,7 @@
 title:  "Estrategia Latino Americana, Caribeña e Iberoamericana para la Información de Biodiversidad"
 preTitle: "17 de noviembre, 2022"
 date: 2022-11-17
-categories: ["Evento"]
+categories: ["Evento", "GBIF"]
 #lang-ref: eventos ciencia comunitaria
 background: https://pbs.twimg.com/media/FhgupqCWIAANNj1?format=jpg&name=large
 imageLicense: |

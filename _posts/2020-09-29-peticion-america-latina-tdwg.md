@@ -2,7 +2,7 @@
 title:  "Petición de América Latina a TDWG"
 preTitle: "29 de setiembre, 2020"
 date: 2020-09-29
-categories: ["Publicación", "Evento", "Estándar Dwc"]
+categories: ["Publicación", "Evento", "Estándar Dwc", "TDWG"]
 #lang-ref: peticion latam tdwg
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/84509593/original.jpeg
 imageLicense: |

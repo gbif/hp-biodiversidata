@@ -37,13 +37,13 @@
   # - text: Publicaciones
   #   href: /recursos/publicaciones
   # - text: "---"
+  - text: Ciencia abierta
+    href: /recursos/ciencia-abierta
   - text: Formación
     href: /recursos/formacion
   - text: Código
     href: /recursos/codigo
   - text: Bases de datos
     href: /recursos/bases-de-datos
-#  - text: Ciencia abierta
-#    href: /recursos/ciencia-abierta
   # - text: Reportes
   #   href: /recursos/reportes

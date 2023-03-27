@@ -27,15 +27,15 @@ Durante la primera etapa (2018 a 2020), Biodiversidata se enfocó en consolidar 
 
 Se tuvieron reuniones con integrantes de las colecciones de Facultad de Ciencias, Museo Nacional de Historia Natural del Uruguay y el Ministerio de Ambiente a través del nodo GBIF Uruguay. Tras evaluar que la discusión sobre ciencia abierta y apertura de datos derivados de la ciencia en estas instituciones era aún muy incipiente y teniendo en cuenta los plazos del proyecto, se decidió poner foco en la comunidad de investigadores que estuvieran dispuestos a compartir sus datos.
 
-![Primer Encuentro de Integrantes de Biodiversidata - Foto: Juan Grattarola](https://live.staticflickr.com/4856/45306350515_7b87f2ad9d_k.jpg){:standalone .has-text-centered}
+![Primer Encuentro de Integrantes de Biodiversidata - Foto: Juan Grattarola](https://live.staticflickr.com/4856/45306350515_7b87f2ad9d_k.jpg){:standalone .has-text-centered}{:target="_blank"}
 
-Para planificar estratégicamente la creación de Biodiversidata, se realizó un estudio que permitió conocer la percepción de quienes colectan y usan datos en Uruguay ([Grattarola & Pincheira-Donoso 2019](https://doi.org/10.26462/28.1.1)). A través de este estudio percibimos que en Uruguay no existe una cultura de compartir datos en forma abierta, que hay una preponderante falta de planificación en el manejo de datos y que esto representa una gran barrera para compartirlos, y que existe una cultura arraigada sobre el uso asimétrico de los datos generados sin una visión de reutilización.
+Para planificar estratégicamente la creación de Biodiversidata, se realizó un estudio que permitió conocer la percepción de quienes colectan y usan datos en Uruguay ([Grattarola & Pincheira-Donoso 2019](https://doi.org/10.26462/28.1.1){:target="_blank"}). A través de este estudio percibimos que en Uruguay no existe una cultura de compartir datos en forma abierta, que hay una preponderante falta de planificación en el manejo de datos y que esto representa una gran barrera para compartirlos, y que existe una cultura arraigada sobre el uso asimétrico de los datos generados sin una visión de reutilización.
 
 Desde Biodiversidata entendimos que para comenzar a cambiar el escenario de escasez de datos abiertos era necesario empezar por crear una red de personas dispuestas a compartir sus datos y conocimientos, simplificarles el proceso de limpieza y estandarización los datos y dar crédito en forma de autoría en conjunto de datos y artículos científicos.
 
 La apertura a la recepción de datos se hizo a través de convocatorias masivas y correos individuales a expertos y expertas identificadas de antemano. Se les solicitó  En total se contactaron unas 65 personas, de las cuales 53 respondieron positivamente y 14 finalmente compartieron datos (21.5% de las contactadas en primera instancia). Biodiversidata, sus objetivos y el plan a corto y largo plazo fueron finalmente presentados en la Facultad de Ciencias de la Universidad de la República en diciembre de 2018 en el marco del Primer Encuentro de Integrantes de Biodiversidata.
 
-![Afiche que se circuló para la convocatoria](https://pbs.twimg.com/media/EC_TW5LW4AMZNcN?format=jpg&name=large){:standalone .has-text-centered}
+![Afiche que se circuló para la convocatoria](https://pbs.twimg.com/media/EC_TW5LW4AMZNcN?format=jpg&name=large){:standalone .has-text-centered}{:target="_blank"}
 
 
 ### 2. Recopilar datos primarios de biodiversidad de fuentes heterogéneas, limpiarlos y estandarizarlos
@@ -59,16 +59,16 @@ Finalmente, se generaron las primeras dos bases abiertas de datos primarios de b
  Compartimos datos que nunca antes habían sido disponibilizados y logramos también estandarizar datos de la literatura para su reutilización. Ambas bases de datos fueron subidas al repositorio global Zenodo y contaron, además, con sus respectivos Data Papers publicados en Biodiversity Data Journal. Los registros proporcionados por integrantes de Biodiversidata fueron además disponibilizados en GBIF.  
  <br>
 
-[Data paper tetrápodos](https://doi.org/10.3897/BDJ.7.e36226){: .button .is-primary}
-[Datos tetrápodos](https://doi.org/10.5281/zenodo.3685897){: .button}  
+[Data paper tetrápodos](https://doi.org/10.3897/BDJ.7.e36226){: .button .is-primary}{:target="_blank"}
+[Datos tetrápodos](https://doi.org/10.5281/zenodo.3685897){: .button}{:target="_blank"}  
 
-[Data paper vasculares](https://doi.org/10.3897/BDJ.8.e56850){: .button .is-primary}
-[Datos plantas vasculares](https://doi.org/10.5281/zenodo.3954406){: .button}  
+[Data paper vasculares](https://doi.org/10.3897/BDJ.8.e56850){: .button .is-primary}{:target="_blank"}
+[Datos plantas vasculares](https://doi.org/10.5281/zenodo.3954406){: .button}{:target="_blank"}  
 
 
 ### 4. Desarrollar investigación científica sobre la distribución de especies de vertebrados tetrápodos y plantas vasculares en el Uruguay haciendo uso de los datos recopilados
 
-A partir de las bases de datos generadas, publicamos el primer estudio que hace uso de los datos ([Grattarola et al. 2020](https://doi.org/10.1038/s41598-020-79074-8)). El objetivo de este trabajo fue entender cómo se distribuye la biodiversidad en el territorio de Uruguay a través del cálculo de múltiples métricas (riqueza de especies, índices de endemismo y cantidad de especies amenazadas) y evaluar si hay congruencia espacial entre estas medidas. También se evaluó cuán eficaces son los actuales esfuerzos de conservación para proteger las áreas donde se acumula la mayor diversidad (también llamados hotspost de biodiversidad).  
+A partir de las bases de datos generadas, publicamos el primer estudio que hace uso de los datos ([Grattarola et al. 2020](https://doi.org/10.1038/s41598-020-79074-8){:target="_blank"}). El objetivo de este trabajo fue entender cómo se distribuye la biodiversidad en el territorio de Uruguay a través del cálculo de múltiples métricas (riqueza de especies, índices de endemismo y cantidad de especies amenazadas) y evaluar si hay congruencia espacial entre estas medidas. También se evaluó cuán eficaces son los actuales esfuerzos de conservación para proteger las áreas donde se acumula la mayor diversidad (también llamados hotspost de biodiversidad).  
 
 Un hallazgo clave fue revelar que un fuerte sesgo de muestreo ha afectado históricamente la definición de los patrones de diversidad en todos los grupos taxonómicos (anfibios, aves, reptiles y mamíferos), y que no es posible saber de manera inequívoca si los patrones de la diversidad biológica que observamos son reales o fabricados por esfuerzos de muestreo heterogéneos. En particular, si las áreas. Este estudio puso en relevancia la crítica situación de déficit de conocimiento en que se encuentra el Uruguay y, al mismo tiempo, planteó una primera aproximación para afrontar esta cuestión a través de proponer áreas prioritarias para futuro esfuerzos de muestreo.
 

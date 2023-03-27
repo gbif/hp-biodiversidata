@@ -52,4 +52,10 @@ Grattarola, Florencia. (2022). **Biodiversidata: el Consorcio de Datos de Biodiv
 
 Grattarola, Florencia. (2022). **Activismo a través de medios digitales**. *IV Jornada de Ciudadanía Digital, Agesic y Plan Ceibal*. Online. [[video](https://youtu.be/NNA46QEZVQI){:target="_blank"}]  
 
-Grattarola, Florencia. (2021). **Ciencia abierta y cultura libre en Uruguay**. *Foro Abierto de Ciencias (Latinoamérica y Caribe)*. Online. [[video](https://youtu.be/W6i6y87p2IM){:target="_blank"}] [[presentación](https://flograttarola.com/talk/ciencia-abierta-y-cultura-libre-en-uruguay/Charla_Foro_CILAC_2021.pdf){:target="_blank"}]  
+Grattarola, Florencia. (2021). **Ciencia abierta y cultura libre en Uruguay**. *Foro Abierto de Ciencias (Latinoamérica y Caribe)*. Online. [[video](https://youtu.be/W6i6y87p2IM){:target="_blank"}] [[presentación](https://flograttarola.com/talk/ciencia-abierta-y-cultura-libre-en-uruguay/Charla_Foro_CILAC_2021.pdf){:target="_blank"}]
+
+## Informes
+
+Claudia Cohanoff, Daniel Prieto, Florencia Grattarola, Juan Maldini, Natalia Gras, Patricia Díaz Charquero y Silvana Ravía. (2022). **Ciencia abierta en el MERCOSUR: situación y recomendaciones**. *Grupo de trabajo convocado por la Dirección Nacional de Innovación Ciencia y Tecnología del Ministerio de Educación y Cultura (DICYT) Uruguay*. [[documento](https://www.gub.uy/ministerio-educacion-cultura/sites/ministerio-educacion-cultura/files/documentos/noticias/Ciencia_Abierta_MERCOSUR-DICYT-MEC_20220920.pdf){:target="_blank"}]
+
+Grattarola, Florencia. (2019). Informe Anual de Biodiversidata. [[documento](/){:target="_blank"}]

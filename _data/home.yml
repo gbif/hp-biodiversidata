@@ -6,6 +6,12 @@ text:
   hasWhiteText: false
   overlayColor: "#ffffff55"
 
+novedades:
+  title: Novedades
+  description: |      # required
+  hasWhiteText: false
+  overlayColor: "#ffffff55"
+
 
 # Preguntas en home
 splitPregunta1:

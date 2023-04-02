@@ -31,7 +31,7 @@ composition:
 #  - type: features
 #    data: home.naturalistauy
 #  - type: floatingText
-#    data: home.overlay.novedadesText
+#    data: home.novedades
 #  - type: latestPosts
 #    inlineData: ""
 ---

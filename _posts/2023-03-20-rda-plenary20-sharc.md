@@ -1,5 +1,5 @@
 ---
-title: "Recomendaciones sobre la mejor manera de reconocer las actividades de Ciencia Abierta"
+title: "Recomendaciones sobre la mejor manera de reconocer las actividades de ciencia abierta"
 preTitle: "23 de marzo, 2023"
 date: 2023-03-23
 categories: ["Evento", "RDA"]

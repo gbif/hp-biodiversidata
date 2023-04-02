@@ -8,6 +8,8 @@
     href: /acerca-de/quienes-somos
   - text: Qué datos reunimos
     href: /acerca-de/que-datos-reunimos
+  - text: Ciencia abierta
+    href: /acerca-de/ciencia-abierta
   - text: NaturalistaUY
     href: /acerca-de/naturalistauy
   # - text: Código de Investigación Responsable
@@ -39,8 +41,6 @@
   # - text: Publicaciones
   #   href: /recursos/publicaciones
   # - text: "---"
-  - text: Ciencia abierta
-    href: /recursos/ciencia-abierta
   - text: Formación
     href: /recursos/formacion
   - text: Código

@@ -2,13 +2,11 @@
 layout: heroImage # try to remoce this line (add # in the beginning of the line to make it a comment) - then the layout will change, but the content remain the same
 title: Ciencia Abierta
 description: Herramientas y recomendaciones para la promoción de la Ciencia Abierta
-background: https://inaturalist-open-data.s3.amazonaws.com/photos/60508300/original.jpeg
 height: 50vh
-sideNavigation: sidenav.terms
-toc: true
 parallax: true
+background: https://inaturalist-open-data.s3.amazonaws.com/photos/180266868/original.jpg
 imageLicense: |
-  *Sporobolus montevidensis* observed in Uruguay by Florencia Grattarola licensed under [CC BY](http://creativecommons.org/licenses/by/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/2574126620)
+  *Lupinus multiflorus* observed in Uruguay by Andrés Acosta licensed under [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/3698255731)
 composition:
   - type: heroImage
   - type: pageMarkdown
@@ -17,6 +15,8 @@ composition:
 ---
 
 ## Cada trayectoria es única
+
+Biodiversidata fomenta la Ciencia Abierta, por ejemplo promoviendo la colaboración y haciendo que todos los productos derivados de la iniciativa sean abiertos (datos, código y artículos).
 
 Cada persona tiene una vivencia distinta en relación a la ciencia abierta. Sin embargo, hay un aspecto que es común a todas: la apertura del proceso de investigación y la divulgación de los resultados contribuyen a la accesibilidad, disponibilidad y reutilización del conocimiento científico para todos, fomentando la colaboración, creación y comunicación de la ciencia.
 
@@ -48,8 +48,10 @@ Estas son algunas referencias útiles para el manejo de datos, estándares y bue
 
   - Buscador de UNESCO: [Open Science Capacity Building Index](https://www.unesco.org/en/open-science/capacity-building-index){:target="_blank"}.
 
-
-## Nuestra infografía
+***
 
 ![Principios FAIR](https://live.staticflickr.com/65535/48079792568_ffaf68b1b8_o.png){:standalone .has-text-centered .width: 50 %, .height: 50 %}{:target="_blank"}
+
+***
+
 ![Datos abiertos](https://live.staticflickr.com/65535/48079763261_0edeb31aa8_o.png){:standalone .has-text-centered}{:target="_blank"}

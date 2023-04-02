@@ -32,6 +32,19 @@ article.feature {
 	border-radius: 10px 10px 10px 10px;
 }
 
+// Tabla de integrantes
+
+.integrantes table img {
+  width: 60px;
+  min-width: 60px; /* Selección del ancho y alto de las celdas*/
+  height: 150px;
+  min-height: 150px;
+}
+th.orga1, th.orga2, th.orga3, th.orga4 { /* Fijar el tamaño de las columnas, se puede fijar por individual cada una con un % diferente o en grupo*/
+  width: 25%;
+  border: 10px;
+}
+
 // Etiquetas para visualizar DOIs
 .myDoi {
 	display: inline-block;

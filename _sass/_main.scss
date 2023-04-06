@@ -32,6 +32,69 @@ article.feature {
 	border-radius: 10px 10px 10px 10px;
 }
 
+
+// TODAS LAS TABLAS EN EL CONTENIDO
+
+.table {
+    border-collapse: collapse;
+    margin: 5px 0;
+    font-size: 0.9em;
+    min-width: 400px;
+		empty-cells: hide;
+    //text-align: left;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.05);
+    border-radius: 10px 10px 0 0;
+    overflow: hidden;
+}
+.table thead tr {
+    background-color: #e0dede;
+		display:none;
+}
+.table th,
+.table thead td,
+.table thead th {
+    border-width: 0;
+    border: none;
+    font-weight: bold;
+    color: #ffffff;
+    padding: 12px 15px;
+}
+.table thead td a,
+.table thead th a {
+    color: #ffffff;
+}
+.table td,
+.table tbody td,
+.content table td,
+.feature-content table td {
+    border: none;
+    border-width: 0 0 0px;
+    padding: 7px 20px;
+}
+.table tbody tr {
+//*    border-bottom: 1px solid #dddddd;
+    border: none;
+}
+.table tbody tr:nth-of-type(even) {
+    background-color: #f9f9f9;
+}
+.table tbody tr:last-of-type {
+    border-bottom: 1px solid #e0dede;
+}
+.table tbody tr.active-row {
+    font-weight: bold;
+    color: #e0dede;
+}
+.content table thead th,
+.content table thead td {
+    color: #ffffff;
+}
+.content table td, .feature-content table td, .content table th, .feature-content table th {
+        padding: 20px 15px;
+}
+
+
+
 // Tabla de integrantes
 
 .integrantes table img {

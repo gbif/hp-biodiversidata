@@ -17,15 +17,16 @@ composition:
 ---
 
 
-### Coordinadora
+## Coordinadora
 
 |     |      |
 |-----|------|
 |<figure class="image is-128x128"><img style="padding-left: 0px; padding-bottom: 0px; padding-right: 0px; padding-top: 0px; float: right; text-align: center;" src="/assets/images/integrantes/florencia-grattarola.png"></figure> | **Florencia Grattarola** <br>&#x2022; Czech University of Life Sciences Prague (República Checa) <br>&#x2022; JULANA (Jugando en la Naturaleza) <br><br> <a dir="ltr" href="http://www.flograttarola.com" target="_blank" class="css-1qel8bw"><img src="/assets/images/social-media-icon/www.svg" width="30"></a> <a dir="ltr" href="http://orcid.org/0000-0001-8282-5732" target="_blank" class="css-1qel8bw"><img src="/assets/images/social-media-icon/orcid.svg" width="30"></a> <a dir="ltr" href="https://scholar.google.com/citations?user=9KCM81IAAAAJ&hl=es" target="_blank" class="css-1qel8bw"><img src="/assets/images/social-media-icon/google-scholar-square.svg" width="28"></a> <a dir="ltr" href="https://www.researchgate.net/profile/Florencia_Grattarola" target="_blank" class="css-1qel8bw"><img src="/assets/images/social-media-icon/researchgate-square.svg" width="28"></a> <a dir="ltr" href="http://www.github.com/bienflorencia" target="_blank" class="css-1qel8bw"><img src="/assets/images/social-media-icon/github.svg" width="30"></a> <a dir="ltr" href="http://www.twitter.com/flograttarola" target="_blank" class="css-1qel8bw"><img src="/assets/images/social-media-icon/twitter.svg" width="30"></a> <a dir="ltr" href="https://ecoevo.social/@flograttarola" target="_blank" class="css-1qel8bw"><img src="/assets/images/social-media-icon/mastodon.svg" width="28"></a> <a dir="ltr" href="https://www.naturalista.uy/users/flo_grattarola" target="_blank" class="css-1qel8bw"><img src="/assets/images/social-media-icon/naturalistauy.svg" width="32"></a> |
-|     |      |
 
 
-### Colaboradores
+
+
+## Colaboradores
 
 |     |      |
 |-----|------|
@@ -50,4 +51,3 @@ composition:
 |<figure class="image is-128x128"><img style="padding-left: 0px; padding-bottom: 0px; padding-right: 0px; padding-top: 0px; float: right; text-align: center;" src="/assets/images/integrantes/noelia-gobel.jpg"></figure>| **Noelia Gobel** <br>&#x2022; Museo Nacional deHistoria Natural (MNHN) <br><br> <a dir="ltr" href="http://orcid.org/0000-0002-7613-1897" target="_blank" class="css-1qel8bw"><img src="/assets/images/social-media-icon/orcid.svg" width="30"></a> <a dir="ltr" href="https://www.researchgate.net/profile/Noelia-Gobel" target="_blank" class="css-1qel8bw"><img src="/assets/images/social-media-icon/researchgate-square.svg" width="28"></a> <a dir="ltr" href="https://uy.linkedin.com/in/noelia-gobel-a54a971a6" target="_blank" class="css-1qel8bw"><img src="/assets/images/social-media-icon/linkedin.svg" width="28"></a> <a dir="ltr" href="https://www.naturalista.uy/users/noelia" target="_blank" class="css-1qel8bw"><img src="/assets/images/social-media-icon/naturalistauy.svg" width="32"></a> |
 |<figure class="image is-128x128"><img style="padding-left: 0px; padding-bottom: 0px; padding-right: 0px; padding-top: 0px; float: right; text-align: center;" src="/assets/images/integrantes/patricia-mai.jpg"></figure>| **Patricia Mai** <br>&#x2022; Centro Universitario Regional del Este, Maldonado (CURE) <br><br> <a dir="ltr" href="http://orcid.org/0000-0003-0311-2131" target="_blank" class="css-1qel8bw"><img src="/assets/images/social-media-icon/orcid.svg" width="30"></a> <a dir="ltr" href="https://www.researchgate.net/profile/Patricia-Mai-Morente" target="_blank" class="css-1qel8bw"><img src="/assets/images/social-media-icon/researchgate-square.svg" width="28"></a> |
 |<figure class="image is-128x128"><img style="padding-left: 0px; padding-bottom: 0px; padding-right: 0px; padding-top: 0px; float: right; text-align: center;" src="/assets/images/integrantes/raul-maneyro.jpg"></figure>| **Raúl Maneyro** <br>&#x2022; Facultad de Ciencias (UdelaR) <br><br> <a dir="ltr" href="http://orcid.org/0000-0003-3440-8701" target="_blank" class="css-1qel8bw"><img src="/assets/images/social-media-icon/orcid.svg" width="30"></a> <a dir="ltr" href="https://scholar.google.com/citations?user=5xEY_c4AAAAJ" target="_blank" class="css-1qel8bw"><img src="/assets/images/social-media-icon/google-scholar-square.svg" width="28"></a> <a dir="ltr" href="https://www.researchgate.net/profile/Raul-Maneyro" target="_blank" class="css-1qel8bw"><img src="/assets/images/social-media-icon/researchgate-square.svg" width="28"></a> <a dir="ltr" href="http://www.twitter.com/Raul_Maneyro" target="_blank" class="css-1qel8bw"><img src="/assets/images/social-media-icon/twitter.svg" width="30"></a> <a dir="ltr" href="https://www.naturalista.uy/users/ulra" target="_blank" class="css-1qel8bw"><img src="/assets/images/social-media-icon/naturalistauy.svg" width="32"></a>|
-|     |      |

@@ -17,45 +17,52 @@ composition:
 ---
 
 
-<div class="field">
-  <label class="label">Nombre</label>
-  <div class="control">
-    <input class="input" type="text" placeholder="Texto">
-  </div>
-</div>
+<form action="mailto:biodiversidata@gmail.com"
+  method="POST"
+  enctype="multipart/form-data"
+  name="EmailForm">
 
-<div class="field">
-  <label class="label">Mail</label>
-  <div class="control has-icons-left has-icons-right">
-    <input class="input" required type="email" placeholder="Correo electrónico">
-    <span class="icon is-small is-left">
-      <i class="fas fa-envelope"></i>
-    </span>
-    <span class="icon is-small is-right">
-      <i class="fas fa-exclamation-triangle"></i>
-    </span>
+  <div class="field">
+    <label class="label">Nombre</label>
+    <div class="control">
+      <input class="input" type="text" placeholder="Texto">
+    </div>
   </div>
-</div>
 
-<div class="field">
-  <label class="label">Asunto</label>
-  <div class="control">
-    <input class="input" type="text" placeholder="Texto">
+  <div class="field">
+    <label class="label">Mail</label>
+    <div class="control has-icons-left has-icons-right">
+      <input class="input" required type="email" placeholder="Correo electrónico">
+      <span class="icon is-small is-left">
+        <i class="fas fa-envelope"></i>
+      </span>
+      <span class="icon is-small is-right">
+        <i class="fas fa-exclamation-triangle"></i>
+      </span>
+    </div>
   </div>
-</div>
 
-<div class="field">
-  <label class="label">Mensaje</label>
-  <div class="control">
-    <textarea class="textarea" placeholder="Texto"></textarea>
+  <div class="field">
+    <label class="label">Asunto</label>
+    <div class="control">
+      <input class="input" type="text" placeholder="Texto">
+    </div>
   </div>
-</div>
 
-<div class="field is-grouped">
-  <div class="control">
-    <button class="button is-link">Enviar</button>
+  <div class="field">
+    <label class="label">Mensaje</label>
+    <div class="control">
+      <textarea class="textarea" placeholder="Texto"></textarea>
+    </div>
   </div>
-  <div class="control">
-    <button class="button is-link is-light">Cancel</button>
+
+  <div class="field is-grouped">
+    <div class="control">
+      <button class="button is-link">Enviar</button>
+    </div>
+    <div class="control">
+      <button class="button is-link is-light">Cancel</button>
+    </div>
   </div>
-</div>
+
+</form>

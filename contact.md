@@ -61,7 +61,7 @@ composition:
       <button class="button is-primary">Enviar</button>
     </div>
     <div class="control">
-      <button class="button is-link is-secondary">Cancel</button>
+      <button class="button is-secondary">Cancel</button>
     </div>
   </div>
 

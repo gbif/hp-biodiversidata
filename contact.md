@@ -34,10 +34,10 @@ composition:
     <div class="control has-icons-left has-icons-right">
       <input class="input" required type="email" placeholder="Correo electrónico">
       <span class="icon is-small is-left">
-        <i class="fas fa-envelope"></i>
+        <i class="fa fa-envelope"></i>
       </span>
       <span class="icon is-small is-right">
-        <i class="fas fa-exclamation-triangle"></i>
+        <i class="fa fa-exclamation-triangle"></i>
       </span>
     </div>
   </div>
@@ -58,10 +58,10 @@ composition:
 
   <div class="field is-grouped">
     <div class="control">
-      <button class="button is-link">Enviar</button>
+      <button class="button is-primary">Enviar</button>
     </div>
     <div class="control">
-      <button class="button is-link is-light">Cancel</button>
+      <button class="button is-link is-secondary">Cancel</button>
     </div>
   </div>
 

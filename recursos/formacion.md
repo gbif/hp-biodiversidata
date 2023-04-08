@@ -17,7 +17,7 @@ composition:
   - type: features
     data: formacion.cursos
   - type: markdown
-    data: formacion.markdownContent
+    data: formacion.text
 ---
 
 ## Recursos de formación y aprendizaje

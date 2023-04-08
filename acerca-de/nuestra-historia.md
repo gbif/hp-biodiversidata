@@ -31,9 +31,9 @@ Se tuvieron reuniones con integrantes de las colecciones de Facultad de Ciencias
 
 Para planificar estratégicamente la creación de Biodiversidata, se realizó un estudio que permitió conocer la percepción de quienes colectan y usan datos en Uruguay ([Grattarola & Pincheira-Donoso 2019](https://doi.org/10.26462/28.1.1){:target="_blank"}). A través de este estudio percibimos que en Uruguay no existe una cultura de compartir datos en forma abierta, que hay una preponderante falta de planificación en el manejo de datos y que esto representa una gran barrera para compartirlos. Además, también percibimos que existe una cultura arraigada sobre el uso de los datos generados sin una visión de reutilización.
 
-Desde Biodiversidata entendimos que para comenzar a cambiar el escenario de escasez de datos abiertos era necesario empezar por crear una red de personas dispuestas a compartir sus datos y conocimientos, simplificarles el proceso de limpieza y estandarización de los datos y darles crédito en forma de autoría en la publicación de conjuntos de datos y artículos científicos.
+Desde Biodiversidata entendimos que para comenzar a cambiar este escenario era necesario empezar por crear una red de personas dispuestas a compartir sus datos y conocimientos, simplificarles el proceso de limpieza y estandarización de los datos y darles crédito en forma de autoría en la publicación de conjuntos de datos y artículos científicos.
 
-La apertura a la recepción de datos se hizo a través de convocatorias masivas y correos individuales a expertos y expertas identificadas de antemano. En total se contactaron unas 65 personas, de las cuales 53 respondieron positivamente y 14 finalmente compartieron datos (21.5% de las contactadas en primera instancia). Biodiversidata, sus objetivos y el plan a corto y largo plazo fueron finalmente presentados en la Facultad de Ciencias de la Universidad de la República en diciembre de 2018 en el Primer Encuentro de Integrantes de Biodiversidata.
+La recepción de datos se hizo a través de convocatorias masivas y correos individuales a expertos y expertas identificadas de antemano. En total se contactaron unas 65 personas, de las cuales 53 respondieron positivamente y 14 finalmente compartieron datos (21.5% de las contactadas). Biodiversidata, sus objetivos y el plan a corto y largo plazo fueron finalmente presentados en la Facultad de Ciencias de la Universidad de la República en diciembre de 2018 en el Primer Encuentro de Integrantes de Biodiversidata.
 
 ![Afiche que se circuló para la convocatoria](https://pbs.twimg.com/media/EC_TW5LW4AMZNcN?format=jpg&name=large){:standalone .has-text-centered}{:target="_blank"}
 
@@ -42,9 +42,11 @@ La apertura a la recepción de datos se hizo a través de convocatorias masivas 
 
 Se reunieron datos primarios de biodiversidad – es decir, registros a nivel de especie, con información sobre la localización geográfica y fecha de colecta/observación – compartidos por integrantes de Biodiversidata, obtenidos de la literatura primaria y también a partir de bases de datos online.
 
-Los datos luego se harmonizaron taxonómicamente y se estandarizaron siguiendo el estándar *DarwinCore*. El código utilizado para limpiar y estandarizar los datos fue también puesto a disposición de manera abierta en un repositorio de GitHub (más detalles en [Recursos](/recursos/codigo/){:target="_blank"}).
+Los datos luego se harmonizaron taxonómicamente y se estandarizaron siguiendo el estándar *DarwinCore*. El código utilizado para limpiar y estandarizar los datos fue también puesto a disposición de manera abierta en un repositorio de GitHub (ver [Recursos](/recursos/codigo/){:target="_blank"}).
 
-Finalmente, se generaron las primeras dos bases abiertas de datos primarios de biodiversidad para el Uruguay, primero para vertebrados tetrápodos y luego para plantas vasculares. Reunimos un total de **69,380** registros de más de **600** especies de tetrápodos y **12,470** registros de más de **1,600** especies de plantas vasculares.
+Finalmente, se generaron las primeras dos bases abiertas de datos primarios de biodiversidad para el Uruguay, una de vertebrados tetrápodos y otra de plantas vasculares. Reunimos un total de **69,380** registros de más de **600** especies de tetrápodos y **12,470** registros de más de **1,600** especies de plantas vasculares.
+
+<br>
 
 |                                             | Tetrápodos | Plantas Vasculares |
 |---------------------------------------------|------------|--------------------|
@@ -62,17 +64,17 @@ Finalmente, se generaron las primeras dos bases abiertas de datos primarios de b
 [Data paper tetrápodos](https://doi.org/10.3897/BDJ.7.e36226){: .button .is-primary}{:target="_blank"}
 [Datos tetrápodos](https://doi.org/10.5281/zenodo.3685897){: .button}{:target="_blank"}  
 
-[Data paper vasculares](https://doi.org/10.3897/BDJ.8.e56850){: .button .is-primary}{:target="_blank"}
+[Data paper plantas vasculares](https://doi.org/10.3897/BDJ.8.e56850){: .button .is-primary}{:target="_blank"}
 [Datos plantas vasculares](https://doi.org/10.5281/zenodo.3954406){: .button}{:target="_blank"}  
 
 
 ### 4. Desarrollar investigación científica sobre la distribución de especies de vertebrados tetrápodos y plantas vasculares en el Uruguay haciendo uso de los datos recopilados
 
-A partir de las bases de datos generadas, publicamos el primer estudio que hace uso de los datos ([Grattarola et al. 2020](https://doi.org/10.1038/s41598-020-79074-8){:target="_blank"}). El objetivo de este trabajo fue entender cómo se distribuye la biodiversidad en el territorio de Uruguay a través del cálculo de múltiples métricas (riqueza de especies, índices de endemismo y cantidad de especies amenazadas) y evaluar si hay congruencia espacial entre estas medidas. También se evaluó cuán eficaces son los actuales esfuerzos de conservación para proteger las áreas donde se acumula la mayor diversidad (también llamados hotspost de biodiversidad).  
+A partir de las bases de datos generadas, publicamos el primer estudio que hizo uso de los datos ([Grattarola et al. 2020](https://doi.org/10.1038/s41598-020-79074-8){:target="_blank"}). El objetivo de este trabajo fue entender cómo se distribuye la biodiversidad en el territorio de Uruguay a través del cálculo de múltiples métricas (riqueza de especies, índices de endemismo y cantidad de especies amenazadas) y evaluar si había congruencia espacial entre estas medidas. También se evaluó cuán eficaces eran los esfuerzos de conservación en proteger las áreas donde se acumulaba la mayor diversidad (también llamados hotspost de biodiversidad).  
 
-Un hallazgo clave fue revelar que un fuerte sesgo de muestreo ha afectado históricamente la definición de los patrones de diversidad en todos los grupos taxonómicos (anfibios, aves, reptiles y mamíferos), y que no es posible saber de manera inequívoca si los patrones de la diversidad biológica que observamos son reales o fabricados por esfuerzos de muestreo heterogéneos. En particular, si las áreas. Este estudio puso en relevancia la crítica situación de déficit de conocimiento en que se encuentra el Uruguay y, al mismo tiempo, planteó una primera aproximación para afrontar esta cuestión a través de proponer áreas prioritarias para futuro esfuerzos de muestreo.
+Un hallazgo clave fue revelar que un fuerte sesgo de muestreo ha afectado históricamente la definición de los patrones de diversidad en todos los grupos taxonómicos (anfibios, aves, reptiles y mamíferos). Debido a esto, no fue posible saber de manera inequívoca si los patrones de la diversidad biológica observados eran reales o fabricados por esfuerzos de muestreo heterogéneos. Este estudio puso en relevancia la crítica situación de déficit de conocimiento en que se encuentra el Uruguay y, al mismo tiempo, planteó una primera aproximación para afrontar esta cuestión a través de proponer áreas prioritarias para futuro esfuerzos de muestreo.
 
-![Figura 4 de Grattarola et al. (2020): Áreas para la priorización del esfuerzo de muestreo a futuro. ](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-020-79074-8/MediaObjects/41598_2020_79074_Fig4_HTML.png?as=webp){:standalone .has-text-centered .size=10}
+![Figura 4 de Grattarola et al. (2020): Áreas para la priorización del esfuerzo de muestreo a futuro. ](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-020-79074-8/MediaObjects/41598_2020_79074_Fig4_HTML.png?as=webp){:standalone .has-text-centered}
 
 ## Segunda etapa
 
@@ -81,11 +83,17 @@ En una segunda etapa (años 2021 a 2022), el trabajo de Biodiversidata se concen
 
 ### 1. NaturalistaUY: la comunidad de iNaturalist para Uruguay
 
-[iNaturalist](https://www.inaturalist.org/){:target="_blank"} es una de las plataformas digitales globales de ciencia comunitaria más importantes del mundo y [NaturalistaUY](https://naturalista.uy){:target="_blank"} es nuestro portal nacional en Uruguay que fue oficialmente lanzado en diciembre del 2021.   
+La escacez de datos de biodiversidad en Uruguay no es sólo un problema para quienes hacen ciencia, también lo es para la ciudadanía en general. Viendo el potencial para la generación de datos y conocimientos que las iniciativas de ciencia comunitaria estaban teniendo en nuestra región, decidimos embarcarnos en generar nuestro sitio propio para Uruguay.
 
-NaturalistaUY permite a sus usuarios aportar observaciones de cualquier organismo vivo, o rastros del mismo, junto con metadatos espacio-temporales asociados (información sobre la localización y fecha del registro).
+Fue a través del fondo 'Citizen-science for species discovery' de la National Geographic Society, que creamos [NaturalistaUY](https://naturalista.uy){:target="_blank"}, el portal nacional de [iNaturalist](https://www.inaturalist.org/){:target="_blank"} en Uruguay. El sitio de [naturalista.uy](https://naturalista.uy){:target="_blank"} fue lanzado oficialmente en diciembre del 2021 como una iniciativa conjunta entre Biodiversidata y JULANA.
 
-La primera serie de eventos de ciencia comunitaria con NaturalistaUY tuvo como objetivo llevar esta herramienta a distintas partes del país para, por un lado, conocer más sobre las especies que habitan en la zona, y por otro, aportar una herramienta novedosa a grupos locales que puedan estar interesados en documentar su biodiversidad. Uruguay es uno de los países con menores niveles de disponibilidad de datos abiertos de biodiversidad (Grattarola et al., 2020) y por esto, los patrones de biodiversidad en el país siguen siendo poco conocidos. La información no solo es limitada para la investigación científica si no para las personas y grupos que habitan los territorios. A través de los eventos, nos planteamos aumentar la cantidad de registros en nuestro país pero, principalmente, difundir el uso de esta herramienta para que grupos locales la puedan usar para su propio beneficio, que puede ser tanto conocer su entorno como defender su territorio.
+![](/assets/images/logos/NaturalistaUY-Identity.png){:standalone .image .is-256x256}
+
+La segunda parte del proyecto, estuvo enfocada en desarrollar la primera serie de eventos de ciencia comunitaria con NaturalistaUY. El objetivo fue llevar esta herramienta a distintas partes del país para, por un lado, aumentar la cantidad de registros en nuestro país y conocer más sobre las especies que habitan en la zona, y por otro, aportar una herramienta novedosa a grupos locales que puedan estar interesados en documentar su biodiversidad. Los tres sitios elegidos para realizar los eventos fueron: Quinta del Horno (departamento de San José), Humedal la Curtiembre (Paysandú) y Bella Unión (Artigas).
+
+La elección de los tres sitios en donde se realizaron los eventos fue en parte determinada por nuestro trabajo ([Grattarola et al. 2020](https://doi.org/10.1038/s41598-020-79074-8)).
+
+<img src="https://static.inaturalist.org/wiki_page_attachments/3001-original.png" width="32%"> <img src="https://static.inaturalist.org/wiki_page_attachments/2999-original.png" width="32%"> <img src="https://static.inaturalist.org/wiki_page_attachments/3000-original.png" width="32%">
 
 
 ### 2. Ampliación del conocimiento sobre la calidad de los datos de biodiversidad y su publicación en la comunidad hispanohablante

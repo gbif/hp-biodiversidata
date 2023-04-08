@@ -66,16 +66,22 @@ cesp:
     href: recursos/formacion/cesp
     isPrimary: true
 
-markdownContent: |
-  # type: markdown
+text:
+  markdownContent: |
+    ## Infografías
 
-  See [`_data/compose/markdownBlock.yml`](https://github.com/gbif/jekyll-theme-algae/blob/master/_data/compose/markdownBlock.yml) for the content structure.
-  # Procris quippe mentior urbes ubi
-  Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-  flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-  pontum ut** avus quamquam de trabes vestemque cruorem tremor.
-  Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-  Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-  profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-  neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-  tollebat altius](http://virgineusque.net/est.html).
+    <div class="integrantes" style="white-space: nowrap;" markdown="block">
+
+    |   |   |
+    |---|---|
+    |<a href="https://www.flickr.com/photos/biodiversidata/48079792568/in/album-72157709124750472/" target="_blank"><img src="https://live.staticflickr.com/65535/48079792568_ffaf68b1b8_o.png">|<a href="https://www.flickr.com/photos/biodiversidata/48079763261/in/album-72157709124750472/" target="_blank"><img src="https://live.staticflickr.com/65535/48079763261_0edeb31aa8_o.png">|
+
+    </div>
+
+    <div class="integrantes" style="white-space: nowrap;" markdown="block">
+
+    |   |   |   |
+    |---|---|---|
+    |<a href="https://www.flickr.com/photos/biodiversidata/52799709709/in/dateposted-public/" target="_blank"><img src="https://live.staticflickr.com/65535/52799709709_348bd2572b_c.jpg"> | <a href="https://www.flickr.com/photos/biodiversidata/52799909473/in/dateposted-public/" target="_blank"><img src="https://live.staticflickr.com/65535/52799909473_74f40a4a1c_c.jpg">|<a href="https://www.flickr.com/photos/biodiversidata/52799709714/in/album-72157709124750472/" target="_blank"><img src="https://live.staticflickr.com/65535/52799709714_dee7202d52_c.jpg">
+
+    </div>

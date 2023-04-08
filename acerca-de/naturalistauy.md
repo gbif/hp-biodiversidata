@@ -17,7 +17,9 @@ composition:
 
 ## La plataforma de ciencia comunitaria del Uruguay
 
-[iNaturalist](https://www.inaturalist.org/){:target="_blank"} es una de las plataformas digitales globales de ciencia comunitaria más importantes del mundo y [NaturalistaUY](https://naturalista.uy){:target="_blank"} es nuestro portal nacional en Uruguay que fue oficialmente lanzado en diciembre del 2021. La creación de NaturalistaUY se da en el marco del trabajo de Biodiversidata con la premisa de que la información sobre biodiversidad no sólo es limitada para la investigación científica si no también para las personas y comunidades que habitan los territorios.  
+[iNaturalist](https://www.inaturalist.org/){:target="_blank"} es una de las plataformas digitales globales de ciencia comunitaria más importantes del mundo y [NaturalistaUY](https://naturalista.uy){:target="_blank"} es nuestro portal nacional en Uruguay que fue lanzado oficialmente en diciembre del 2021 en el Centro Cultural España de Montevideo ([mirá el video](https://www.youtube.com/live/4YIEEYCUf8Q?feature=share)).
+
+La creación de NaturalistaUY se da en el marco del trabajo de Biodiversidata con la premisa de que la información sobre biodiversidad no sólo es limitada para la investigación científica si no también para las personas y comunidades que habitan los territorios.  
 
 NaturalistaUY es impulsada en colaboración con [JULANA](https://julana.org), una asociación civil de educación ambiental que tiene entre sus objetivos visualizar las voces y los saberes de las comunidades impactadas por cambios ambientales, propiciando el debate, democratizando la información y buscando disminuir la brecha de desigualdad de poder desde el abordaje de la Justicia Ambiental.  
 

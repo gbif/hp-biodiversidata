@@ -131,53 +131,6 @@ codigo:
         href: https://github.com/bienflorencia/rBiodiversidata
         isPrimary: true
 
-cursos:
-  title: Otros cursos que recomendamos
-  # description: |
-  #  You could add addditional descriptive text here
-  features:
-    - title: Introducción a GBIF # required text
-      preTitle: GBIF # optional text
-      description: |    # optional but recommended
-        Este curso proporciona una introducción a GBIF, los datos disponibles en el portal de GBIF, el acceso a esos datos e información sobre cómo participar en GBIF y su comunidad de práctica.
-      # img required
-      background: https://docs.gbif.org/course-introduction-to-gbif/img/web/Microporus_xanthopus.jpg # required
-      href: https://docs.gbif.org/course-introduction-to-gbif/es/ # required
-      imageLicense: |
-        *Microporus xanthopus* observed in Malaysia by siburanlai licensed under [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/2550098325)
-      cta:
-      - text: Curso de GBIF
-        href: https://docs.gbif.org/course-introduction-to-gbif/es/
-        isPrimary: true
-
-    - title: Ciclo de formación virtual # required text
-      preTitle: SiB Colombia # optional text
-      description: |    # optional but recommended
-        A través de estos laboratorios obtendrá herramientas robustas para el manejo de sus datos sobre biodiversidad, asegurar su calidad y posterior publicación a través GBIF y OBIS
-      # img required
-      background: https://inaturalist-open-data.s3.amazonaws.com/photos/175970530/original.jpg # required
-      href: https://biodiversidad.co/formacion/laboratorios # required
-      imageLicense: |
-        *Tangara xanthocephala* observed in Colombia by desertnaturalist licensed under [CC BY](http://creativecommons.org/licenses/by/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/3455872065)
-      cta:
-      - text: Curso de SiB Colombia
-        href: https://biodiversidad.co/formacion/laboratorios
-        isPrimary: true
-
-    # - title: Cursos de formación # required text
-    #   preTitle: GBIF # optional text
-    #   description: |    # optional but recommended
-    #     La Secretaría de GBIF, en colaboración con su comunidad de formadores y mentores, desarrolla cursos de formación sobre movilización y uso de datos de biodiversidad, entre otros tópicos.
-    #   # img required
-    #   background: https://live.staticflickr.com/65535/48688053766_065a7fd209_k.jpg # required
-    #   href: https://www.gbif.org/es/training # required
-    #   imageLicense: |
-    #      Roberteau Tchoffo (BIOPAMA, left) and Elias Bizuru (National University of Rwanda, right) at the BID African regional meeting and nodes training, 3 Sept 2019, Yaounde, Cameroon. Photo by Mélianie Raymond. GBIF, licensed under [CC BY](https://creativecommons.org/licenses/by/2.0/).
-    #   cta:
-    #   - text: Accedé a más cursos
-    #     href: https://www.gbif.org/es/training
-    #     isPrimary: true
-
 listas:
   title: Listas de Especies
   # description: |

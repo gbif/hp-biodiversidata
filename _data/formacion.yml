@@ -1,0 +1,81 @@
+cursos:
+  title: Otros cursos que recomendamos
+  # description: |
+  #  You could add addditional descriptive text here
+  features:
+    - title: Introducción a GBIF # required text
+      preTitle: GBIF # optional text
+      description: |    # optional but recommended
+        Este curso proporciona una introducción a GBIF, los datos disponibles en el portal de GBIF, el acceso a esos datos e información sobre cómo participar en GBIF y su comunidad de práctica.
+      # img required
+      background: https://docs.gbif.org/course-introduction-to-gbif/img/web/Microporus_xanthopus.jpg # required
+      href: https://docs.gbif.org/course-introduction-to-gbif/es/ # required
+      imageLicense: |
+        *Microporus xanthopus* observed in Malaysia by siburanlai licensed under [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/2550098325)
+      cta:
+      - text: Curso de GBIF
+        href: https://docs.gbif.org/course-introduction-to-gbif/es/
+        isPrimary: true
+
+    - title: Ciclo de formación virtual # required text
+      preTitle: SiB Colombia # optional text
+      description: |    # optional but recommended
+        A través de estos laboratorios obtendrá herramientas robustas para el manejo de sus datos sobre biodiversidad, asegurar su calidad y posterior publicación a través GBIF y OBIS.
+      # img required
+      background: https://inaturalist-open-data.s3.amazonaws.com/photos/175970530/original.jpg # required
+      href: https://biodiversidad.co/formacion/laboratorios # required
+      imageLicense: |
+        *Tangara xanthocephala* observed in Colombia by desertnaturalist licensed under [CC BY](http://creativecommons.org/licenses/by/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/3455872065)
+      cta:
+      - text: Curso de SiB Colombia
+        href: https://biodiversidad.co/formacion/laboratorios
+        isPrimary: true
+
+naturalistauy:
+  reverse: false
+  height: 50vh
+  title: Taller de NaturalistaUY
+  preTitle: Biodiversidata y JULANA
+  description: |      # required
+    La GBS es un evento global en el cual personas de diferentes regiones del hemisferio sur se reúnen durante 3 días para registrar la biodiversidad que les rodea a través de la plataforma iNaturalist.
+  background: https://live.staticflickr.com/65535/52103597373_308a0c16b8_o.jpg
+  # href:
+  imageLicense: |
+    Encuentro de Ciencia Comunitaria con NaturalistaUY en Bella Unión by Biodiversidata licensed under [CC BY](https://creativecommons.org/licenses/by/2.0/) via [Flickr](https://www.flickr.com/photos/biodiversidata/52103597373/)
+  cta:
+  - text: Video
+    href: https://youtu.be/sPKhUy3CJQ0
+    isPrimary: true
+  - text: Presentación
+    href: https://docs.google.com/presentation/d/1acK6ZD41f8XMQQsUhKtop_vik_07187KQVtL8iUzPQQ/edit?usp=sharing
+    isPrimary: false
+
+cesp:
+  reverse: true
+  height: 50vh
+  title: Ampliando el conocimiento sobre la calidad y publicación de datos sobre biodiversidad en la comunidad hispano hablante
+  preTitle: CESP-GBIF
+  description: |      # required
+    El objetivo de este ciclo de formación fue aumentar la disponibilidad de datos de biodiversidad de alta calidad de la comunidad hispano hablante a través de la red GBIF.
+  background: https://inaturalist-open-data.s3.amazonaws.com/photos/178012312/original.jpeg
+  href: recursos/formacion/cesp
+  imageLicense: |
+    *Mimus saturninus* observed in Uruguay by Florencia Grattarola licensed under [CC BY](http://creativecommons.org/licenses/by/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/3466083961)
+  cta:
+  - text: Accedé al curso
+    href: recursos/formacion/cesp
+    isPrimary: true
+
+markdownContent: |
+  # type: markdown
+
+  See [`_data/compose/markdownBlock.yml`](https://github.com/gbif/jekyll-theme-algae/blob/master/_data/compose/markdownBlock.yml) for the content structure.
+  # Procris quippe mentior urbes ubi
+  Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
+  flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
+  pontum ut** avus quamquam de trabes vestemque cruorem tremor.
+  Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
+  Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
+  profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
+  neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
+  tollebat altius](http://virgineusque.net/est.html).

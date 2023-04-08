@@ -3,7 +3,7 @@
 #  href: /about
   menu:
   - text: Nuestra historia
-    href: /acerca-de/historia
+    href: /acerca-de/nuestra-historia
   - text: Quiénes somos
     href: /acerca-de/quienes-somos
   - text: Qué datos reunimos
@@ -47,5 +47,5 @@
     href: /recursos/codigo
   - text: Bases de datos
     href: /recursos/bases-de-datos
-  # - text: Reportes
-  #   href: /recursos/reportes
+#  - text: Infografías
+#    href: /recursos/infografias

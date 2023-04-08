@@ -10,6 +10,8 @@ parallax: true
 composition:
   - type: heroImage
   - type: pageMarkdown
+  - type: features
+    data: menu.gbif
 ---
 
 ## Los datos de Biodiversidata

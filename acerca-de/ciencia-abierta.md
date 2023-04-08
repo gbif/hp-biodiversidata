@@ -10,8 +10,6 @@ imageLicense: |
 composition:
   - type: heroImage
   - type: pageMarkdown
-#  - type: features
-#    data: menu.reportes
 ---
 
 ## Cada trayectoria es única
@@ -35,23 +33,22 @@ El proyecto [PARSEC](https://parsecproject.org){:target="_blank"}, generó una s
 
 Estas son algunas referencias útiles para el manejo de datos, estándares y buenas prácticas
 
+  - [Manual de Capacitación sobre Ciencia Abierta](https://open-science-training-handbook.github.io/Open-Science-Training-Handbook_ES//){:target="_blank"}. Bezjak et al. 2020.
   - [The FAIR cookbook](https://faircookbook.elixir-europe.org/content/home.html){:target="_blank"}. Rocca-Serra P, et al. 2022.
-  - [A guide to data management in ecology and evolution](https://www.britishecologicalsociety.org/wp-content/uploads/2017/06/BES-Data-Guide-2017_web.pdf){:target="_blank"}. British Ecological Society (BES). 2014.
-  - [Strategies and guidelines for scholarly publishing of biodiversity data](https://doi.org/10.3897/rio.3.e12431){:target="_blank"}. Penev et al. 2017. Research Ideas and Outcomes 3: e12431.
+  - [A guide to data management in ecology and evolution](https://www.britishecologicalsociety.org/wp-content/uploads/2017/06/BES-Data-Guide-2017_web.pdf){:target="_blank"}. BES. 2014.
+  - [Strategies and guidelines for scholarly publishing of biodiversity data](https://doi.org/10.3897/rio.3.e12431){:target="_blank"}. Penev et al. 2017.
   - [Preserve: protecting data for long-term use](https://doi.org/10.1007/978-3-319-59928-1_6){:target="_blank"}. Cook et al. 2018.
-  - [Darwin Core standard](https://www.tdwg.org/standards/dwc/){:target="_blank"}. Biodiversity Information Standards (TDWG). 2021.
+  - [Darwin Core standard](https://www.tdwg.org/standards/dwc/){:target="_blank"}. TDWG. 2021.
   - [How to develop a data management and sharing plan](https://www.dcc.ac.uk/guidance/how-guides/develop-data-plan){:target="_blank"}. Jones, S. 2011.
-  - [Quick guide to publishing data through GBIF.org](https://www.gbif.org/publishing-data){:target="_blank"}. Global Biodiversity Information Facility (GBIF). 2020.
+  - [Quick guide to publishing data through GBIF.org](https://www.gbif.org/publishing-data){:target="_blank"}. GBIF. 2020.
+  - [Open Science Capacity Building Index](https://www.unesco.org/en/open-science/capacity-building-index){:target="_blank"}. UNESCO. 2022.
 
+## Descargá y usá nuestra infografía
 
-### Accedé a más recursos
+<div class="integrantes" style="white-space: nowrap;" markdown="block">
 
-  - Buscador de UNESCO: [Open Science Capacity Building Index](https://www.unesco.org/en/open-science/capacity-building-index){:target="_blank"}.
+|   |   |
+|---|---|
+|<a href="https://www.flickr.com/photos/biodiversidata/48079792568/in/album-72157709124750472/" target="_blank"><img src="https://live.staticflickr.com/65535/48079792568_ffaf68b1b8_o.png">|<a href="https://www.flickr.com/photos/biodiversidata/48079763261/in/album-72157709124750472/" target="_blank"><img src="https://live.staticflickr.com/65535/48079763261_0edeb31aa8_o.png">|
 
-***
-
-![Principios FAIR](https://live.staticflickr.com/65535/48079792568_ffaf68b1b8_o.png){:standalone .has-text-centered .width: 50 %, .height: 50 %}{:target="_blank"}
-
-***
-
-![Datos abiertos](https://live.staticflickr.com/65535/48079763261_0edeb31aa8_o.png){:standalone .has-text-centered}{:target="_blank"}
+</div>

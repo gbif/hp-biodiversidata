@@ -1,7 +1,7 @@
 ---
 layout: heroImage # try to remoce this line (add # in the beginning of the line to make it a comment) - then the layout will change, but the content remain the same
 title: Código
-description: Nuestro respositorio `rBiodiversidata` en GitHub reúne todo el código usado para el proyecto. También, el modelo de metadatos que usamos, referencias a términos de DarwinCore y más.
+description: Nuestro respositorio en GitHub reúne todo el código usado para el proyecto. También, el modelo de metadatos que usamos, referencias a términos de DarwinCore y más.
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/60508300/original.jpeg
 height: 50vh
 parallax: true
@@ -16,7 +16,7 @@ composition:
 
 ## Código
 
-Nuestro trabajo tiene un fuerte componente de trabajo en R, que hacemos disponible con licencias abiertas a través de GitHub. Scripts para limpiar, procesar y controlar la calidad de los datos sobre biodiversidad:
+Nuestro trabajo tiene un fuerte componente de trabajo en R, que hacemos disponible con licencias abiertas a través de GitHub. Encontrá código para limpiar, procesar y controlar la calidad de los datos sobre biodiversidad:
 
 ### Vertebrados tetrápodos
 
@@ -36,7 +36,7 @@ Nuestro trabajo tiene un fuerte componente de trabajo en R, que hacemos disponib
 
 Para completar los metadatos del conjunto de datos hemos generado el siguiente documento de texto con sugerencias y campos pre-llenados:
 
-- [Modelo de metadatos](https://github.com/bienflorencia/rBiodiversidata/blob/master/Useful%20files/Modelo_Metadata.docx?raw=true){:target="_blank"}.
+- [Modelo de metadatos](https://github.com/bienflorencia/rBiodiversidata/blob/f93a6c97fa56c28d7645ee49ae491ef62fef8754/Useful%20files/Modelo_Metadata.md){:target="_blank"}.
 
 ## Referencias a términos del estándar DarwinCore
 

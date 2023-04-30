@@ -1,0 +1,17 @@
+gbif:
+  title: ¿Cómo contribuir con datos?
+  # description: |
+  #  You could add addditional descriptive text here
+  features:
+    - title: Publicación de datos en GBIF # required text
+      preTitle: # optional text
+      description: |    # optional but recommended
+        Desde Biodiversidata podemos ayudarte a publicar tus datos de investigación a través de GBIF. Si estás interesado/a en compartirlos ponete en contacto.
+      # img required
+      background: /assets/images/logos/2023-biodiversidata-ilustraciones--02.png # required
+      href: mailto:biodiversidata@gmail.com?subject=Compartir datos # required
+      imageLicense: |
+      cta:
+      - text: Contacto
+        href: mailto:biodiversidata@gmail.com?subject=Compartir datos
+        isPrimary: true

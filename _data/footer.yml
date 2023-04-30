@@ -6,7 +6,7 @@
    - name: Acerca de
      links:
      - text: Nuestra historia
-       href: /acerca-de/historia
+       href: /acerca-de/nuestra-historia
      - text: Quiénes somos
        href: /acerca-de/quienes-somos
      - text: Código de Investigación Responsable
@@ -22,10 +22,12 @@
 
    - name: Contacto
      description: | # Can be Markdown
-       * biodiversidata@gmail.com
-       * Uruguay
+     links:
+     - text: biodiversidata@gmail.com
+       href: 'mailto:biodiversidata@gmail.com?subject=Contacto Biodiversidata'
+     - text: Uruguay
+       href: '#nothing'
      connectIcons: true
-
 
    # EXAMPLE
    #- name: Group name

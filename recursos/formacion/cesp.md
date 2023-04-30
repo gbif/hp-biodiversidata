@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Proyecto CESP-GBIF
 ---
 
 # Ampliando el conocimiento sobre la calidad y publicación de datos sobre biodiversidad en la comunidad hispano hablante
@@ -34,4 +35,4 @@ Un total de seis charlas y cuatro talleres en español, sobre Calidad de datos, 
 
 ***
 
-[Página del curso](https://www.gbif.org/es/project/CESP2021-007/ampliando-el-conocimiento-sobre-la-calidad-y-publicacion-de-datos-sobre-biodiversidad-en-la-comunidad-hispano-hablante){: .button .is-primary .target="_blank"}
+[Página del curso](https://www.gbif.org/es/project/CESP2021-007/ampliando-el-conocimiento-sobre-la-calidad-y-publicacion-de-datos-sobre-biodiversidad-en-la-comunidad-hispano-hablante){: .button .is-primary target="_blank"}

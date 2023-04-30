@@ -1,7 +1,7 @@
 ---
 layout: heroImage # try to remoce this line (add # in the beginning of the line to make it a comment) - then the layout will change, but the content remain the same
 title: Formación
-description: Cursos y talleres facilitados por Biodiversidata sobre manejo y publicación de datos derivados de la investigación científica y la ciencia comunitaria
+description: Recursos generados por Biodiversidata y colaboradores sobre manejo y publicación de datos derivados de la investigación científica y sobre NaturalistaUY y ciencia comunitaria
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/60508300/original.jpeg
 height: 50vh
 parallax: true
@@ -20,6 +20,6 @@ composition:
     data: formacion.text
 ---
 
-## Recursos de formación y aprendizaje
+## Recursos
 
 Biodiversidata buscar fortalecer su comunidad a través de actividades de capacitación y recursos de aprendizaje que permiten a las personas manejar datos y usar la información sobre biodiversidad de manera efectiva.

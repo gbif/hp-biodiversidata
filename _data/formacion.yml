@@ -34,7 +34,7 @@ cursos:
 naturalistauy:
   reverse: false
   height: 50vh
-  title: Taller de NaturalistaUY
+  title: Taller de NaturalistaUY GBS
   preTitle: Biodiversidata y JULANA
   description: |      # required
     La GBS es un evento global en el cual personas de diferentes regiones del hemisferio sur se reúnen durante 3 días para registrar la biodiversidad que les rodea a través de la plataforma iNaturalist.
@@ -58,7 +58,7 @@ cesp:
   description: |      # required
     El objetivo de este ciclo de formación fue aumentar la disponibilidad de datos de biodiversidad de alta calidad de la comunidad hispano hablante a través de la red GBIF.
   background: https://inaturalist-open-data.s3.amazonaws.com/photos/178012312/original.jpeg
-  href: recursos/formacion/cesp
+  href: cesp
   imageLicense: |
     *Mimus saturninus* observed in Uruguay by Florencia Grattarola licensed under [CC BY](http://creativecommons.org/licenses/by/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/3466083961)
   cta:

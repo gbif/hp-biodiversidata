@@ -98,4 +98,11 @@ La elección de los tres sitios en donde se realizaron los eventos fue en parte 
 
 ### 2. Ampliación del conocimiento sobre la calidad de los datos de biodiversidad y su publicación en la comunidad hispanohablante
 
-Este proyecto tuvo como objetivo aumentar la disponibilidad de datos de biodiversidad de alta calidad de la comunidad hispanohablante a través de la red de GBIF, a través de una serie de entrenamiento (en español) sobre calidad, limpieza y publicación de datos.
+En Uruguay hasta el momento no existen cursos de formación en manejo y gestión de datos de biodiversidad ([Grattarola and Pincheira-Donoso, 2019](https://doi.org/10.3897/BISS.3.37715){:target="_blank"}). Evidenciando esta necesidad de capacitación de recursos humanos, nos sumamos al proyecto "Ampliando el conocimiento sobre la calidad y publicación de datos sobre biodiversidad en la comunidad hispano hablante".
+
+Este proyecto tuvo como objetivo aumentar la disponibilidad de datos de biodiversidad de alta calidad de la comunidad hispanohablante a través de la red de GBIF, por medio de una serie de formación (en español) sobre calidad, limpieza y publicación de datos. Fue co-organizado por GBIF Argentina, VertNet y Biodiversidata, y contó con la participación de GBIF Colombia y GBIF Costa Rica.
+
+Tanto las charlas como los talleres prácticos y todo el material generado para el curso están disponibles y se pueden acceder libremente.
+
+
+[Curso CESP-GIBF](/recursos/formacion/cesp/){: .button .is-primary}

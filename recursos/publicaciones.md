@@ -42,7 +42,7 @@ Grattarola, Florencia. (2018). **Biodiversidata: New initiative for Uruguay**. *
 Grattarola, Florencia, Hanna Shmagun, Laurence Mabile, Anne Cambon-Thomsen, and Christopher Erdmann. (2022)
 **How Open Science activities are perceived and recognised in Research and the Research career**. *International Data Week 2022, 19th Research Data Alliance (RDA) Plenary Meeting*. Online - Seoul, Korea. [[presentación](https://www.rd-alliance.org/system/files/documents/RDA%20P19%20SHARC%20ig%20session%20slides%20-%2020jun22.pdf){:target="_blank"}]  
 
-Grattarola, Florencia, and Daniel Pincheira-Donoso. (2019). **Biodiversity hotspots in Uruguay: real or fabricated?**. *British Ecological Society (BES) Annual Meeting*. Belfast, Northern Ireland. [[presentación](https://flograttarola.com/talk/biodiversity-hotspots-in-uruguay-real-or-fabricated/FGrattarola_BES2019_WEB.pdf){:target="_blank"}]  
+Grattarola, Florencia, and Daniel Pincheira-Donoso. (2019). **Biodiversity hotspots in Uruguay: real or fabricated?** *British Ecological Society (BES) Annual Meeting*. Belfast, Northern Ireland. [[presentación](https://flograttarola.com/talk/biodiversity-hotspots-in-uruguay-real-or-fabricated/FGrattarola_BES2019_WEB.pdf){:target="_blank"}]  
 
 Grattarola, Florencia. (2019). **Biodiversidata: A Collaborative Initiative Towards Open Data Availability in Uruguay**. *Biodiversity_Next Conference*. Leiden, The Nederland. [[presentación](https://flograttarola.com/talk/biodiversidata-a-collaborative-initiative-towards-open-data-availability-in-uruguay/Grattarola_and_Pincheira-Donoso_BiodNext_SS73.pdf){:target="_blank"}]  
 

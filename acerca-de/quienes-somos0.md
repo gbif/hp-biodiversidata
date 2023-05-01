@@ -1,6 +1,6 @@
 ---
 layout: heroImage
-lang-ref: quienes somos
+#lang-ref: quienes somos
 title: Quiénes somos
 description: Expertos y expertas que trabajan en instituciones nacionales e internacionales y estudian diversos grupos de biodiversidad en diferentes áreas de conocimiento
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/180266868/original.jpg

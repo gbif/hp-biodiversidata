@@ -83,7 +83,7 @@ En una segunda etapa (años 2021 a 2022), el trabajo de Biodiversidata se concen
 
 ### 1. NaturalistaUY: la comunidad de iNaturalist para Uruguay
 
-La escacez de datos de biodiversidad en Uruguay no es sólo un problema para quienes hacen ciencia, también lo es para la ciudadanía en general. Viendo el potencial para la generación de datos y conocimientos que las iniciativas de ciencia comunitaria estaban teniendo en nuestra región, decidimos embarcarnos en generar nuestro sitio propio para Uruguay.
+La escasez de datos de biodiversidad en Uruguay no es sólo un problema para quienes hacen ciencia, también lo es para la ciudadanía en general. Viendo el potencial para la generación de datos y conocimientos que las iniciativas de ciencia comunitaria estaban teniendo en nuestra región, decidimos embarcarnos en generar nuestro sitio propio para Uruguay.
 
 Fue a través del fondo 'Citizen-science for species discovery' de la National Geographic Society, que creamos [NaturalistaUY](https://naturalista.uy){:target="_blank"}, el portal nacional de [iNaturalist](https://www.inaturalist.org/){:target="_blank"} en Uruguay. El sitio de [naturalista.uy](https://naturalista.uy){:target="_blank"} fue lanzado oficialmente en diciembre del 2021 como una iniciativa conjunta entre Biodiversidata y JULANA.
 

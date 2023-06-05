@@ -2,7 +2,7 @@
 layout: heroImage # try to remoce this line (add # in the beginning of the line to make it a comment) - then the layout will change, but the content remain the same
 title: Formación
 description: Recursos generados por Biodiversidata y colaboradores sobre manejo y publicación de datos derivados de la investigación científica y sobre NaturalistaUY y ciencia comunitaria
-background: https://inaturalist-open-data.s3.amazonaws.com/photos/60508300/original.jpeg
+background: /assets/images/banners/60508300.jpeg
 height: 50vh
 parallax: true
 imageLicense: |

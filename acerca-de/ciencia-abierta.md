@@ -4,7 +4,7 @@ title: Ciencia Abierta
 description: Herramientas y recomendaciones para la promoción de la Ciencia Abierta
 height: 50vh
 parallax: true
-background: https://inaturalist-open-data.s3.amazonaws.com/photos/180266868/original.jpg
+background: /assets/images/banners/180266868.jpg
 imageLicense: |
   *Lupinus multiflorus* observed in Uruguay by Andrés Acosta licensed under [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/3698255731)
 composition:

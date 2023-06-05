@@ -4,7 +4,7 @@ toc: true
 lang-ref: acercade
 title: Nuestra historia
 description: Las etapas que nos llevaron a conformar el Consorcio de Datos de Biodiversidad del Uruguay, generar las primeras bases de datos abiertas para el país y desarrollar investigación sobre la distribución de la biodiversidad del Uruguay
-background: https://inaturalist-open-data.s3.amazonaws.com/photos/180266868/original.jpg
+background: /assets/images/banners/180266868.jpg
 imageLicense: |
   *Lupinus multiflorus* observed in Uruguay by Andrés Acosta licensed under [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/3698255731)
 height: 50vh

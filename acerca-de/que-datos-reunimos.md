@@ -2,7 +2,7 @@
 layout: heroImage
 title: Qué datos reunimos
 description: Datos primarios de biodiversidad de acceso abierto para todas y todos
-background: https://inaturalist-open-data.s3.amazonaws.com/photos/180266868/original.jpg
+background: /assets/images/banners/180266868.jpg
 imageLicense: |
   *Lupinus multiflorus* observed in Uruguay by Andrés Acosta licensed under [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/3698255731)
 height: 50vh

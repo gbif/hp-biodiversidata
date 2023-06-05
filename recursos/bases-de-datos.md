@@ -3,7 +3,7 @@ layout: heroImage # try to remoce this line (add # in the beginning of the line 
 title: Bases de datos
 #preTitle: 20 de junio 2019
 description: Nuestras bases de datos completas de registros de presencia de tetrápodos y plantas vasculares de Uruguay están disponibles en Zenodo
-background: https://inaturalist-open-data.s3.amazonaws.com/photos/60508300/original.jpeg
+background: /assets/images/banners/60508300.jpeg
 height: 50vh
 parallax: true
 imageLicense: |

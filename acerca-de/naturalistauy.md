@@ -2,7 +2,7 @@
 layout: heroImage
 title: NaturalistaUY
 description: El sitio de iNaturalist para Uruguay es una iniciativa conjunta entre Biodiversidata y la organización JULANA
-background: https://inaturalist-open-data.s3.amazonaws.com/photos/180287785/original.jpg
+background: /assets/images/banners/180287785.jpg
 imageLicense: |
   *Hydrochoerus hydrochaeris* observed in Bolivia by Luis Stevens licensed under [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/3698048756)
 height: 50vh
@@ -34,7 +34,7 @@ Tanto a Biodiversidata como a JULANA les preocupa e interesa promover el uso y l
 
 ## ¿Cómo funciona?
 
-NaturalistaUY permite a sus usuarios aportar observaciones de cualquier organismo vivo, o rastros del mismo, junto con metadatos espacio-temporales asociados (información sobre la localización y fecha del registro). Cuando una persona carga su registro, la plataforma le brinda una sugerencia automatizada sobre la posible identificación taxonómica del animal, planta u hongo que está siendo observado. Las identificaciones son luego verificadas por la comunidad de usuarios en NaturalistaUY llegando así a una "**ID de la comunidad**". Una observación luego se considera con "**Grado de Investigación**" cuando cumple con los criterios de calidad de los metadatos del sitio y tiene dos o más identificaciones sugeridas, más de dos tercios de las cuales coinciden a nivel de especie. Esta comunidad en línea que colabora con identificaciones y con la curaduría de los datos está compuesta de personas de Uruguay, la región y de todo el mundo. 
+NaturalistaUY permite a sus usuarios aportar observaciones de cualquier organismo vivo, o rastros del mismo, junto con metadatos espacio-temporales asociados (información sobre la localización y fecha del registro). Cuando una persona carga su registro, la plataforma le brinda una sugerencia automatizada sobre la posible identificación taxonómica del animal, planta u hongo que está siendo observado. Las identificaciones son luego verificadas por la comunidad de usuarios en NaturalistaUY llegando así a una "**ID de la comunidad**". Una observación luego se considera con "**Grado de Investigación**" cuando cumple con los criterios de calidad de los metadatos del sitio y tiene dos o más identificaciones sugeridas, más de dos tercios de las cuales coinciden a nivel de especie. Esta comunidad en línea que colabora con identificaciones y con la curaduría de los datos está compuesta de personas de Uruguay, la región y de todo el mundo.
 
 <br>
 <iframe width="800" height="450" src="https://www.youtube.com/embed/8ISqZk7m4yg?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

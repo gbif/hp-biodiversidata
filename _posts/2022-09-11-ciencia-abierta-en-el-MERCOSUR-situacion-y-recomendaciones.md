@@ -2,7 +2,7 @@
 title:  "Ciencia abierta en el MERCOSUR: situación y recomendaciones"
 preTitle: "6 de octubre, 2022"
 date: 2022-10-06
-categories: ["Evento", "Documento"]
+categories: ["Documento"]
 toc: true
 #lang-ref: eventos ciencia comunitaria
 background: https://live.staticflickr.com/4462/37238403024_9655654e43_o.jpg

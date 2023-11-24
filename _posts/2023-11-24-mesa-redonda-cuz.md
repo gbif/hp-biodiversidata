@@ -1,7 +1,7 @@
 ---
 title: "Mesa redonda: ​​Datos abiertos de biodiversidad en Uruguay"
 preTitle: "8 de diciembre, 2023"
-date: 2023-12-08
+date: 2023-11-24
 categories: ["Evento", "CUZ"]
 #lang-ref: eventos ciencia comunitaria
 background: /assets/images/posts/mesa_redonda_cuz_2023.png
@@ -20,12 +20,12 @@ Los nuevos desafíos que plantea el cambio global tornan urgente contar con dato
 
 ### Agenda:
 10:00 - 10:10	Introducción
-10:10 - 10:30 	Panorama de datos abiertos de biodiversidad en Uruguay
+10:10 - 10:30 Panorama de datos abiertos de biodiversidad en Uruguay
 10:30 - 10:50	Biodiversidata: el Consorcio de Datos de Biodiversidad y su nuevo portal
 10:50 - 11:00	Presentación de la dinámica a trabajar
 11:00 - 11:45	Trabajo en grupos
 11:45 - 12:15	Presentación de resultados
-12:15 - 12:30 	Cierre
+12:15 - 12:30 Cierre
 
 **Coordina**: Florencia Grattarola
 **Moderadores**: Enrique González, Franco Teixeira de Mello, Gabriel Laufer, Florencia Grattarola.

@@ -4,7 +4,7 @@ preTitle: "31 de agosto, 2019"
 date: 2019-08-31
 categories: ["Ciencia comunitaria", "Blog"]
 #lang-ref: inat y biodiversidata
-background: https://biodiversidata.org/es/post/inaturalist/featured.png
+background: /assets/images/posts/inat_biodiversidata.png
 imageLicense: |
   Imagen por [**Florencia Grattarola**](https://flograttarola.com)
 ---

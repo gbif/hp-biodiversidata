@@ -4,7 +4,7 @@ preTitle: "3 de setiembre, 2018"
 date: 2018-09-03
 categories: ["Blog"]
 #lang-ref: nota en ccuy
-background: https://biodiversidata.org/es/post/creacion/featured.jpg
+background: /assets/images/posts/biodiversidata_cuy.jpeg
 imageLicense: |
   Foto por [**Julana**](https://julana.org)
 ---

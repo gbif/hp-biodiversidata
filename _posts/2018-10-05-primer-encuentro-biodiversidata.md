@@ -4,7 +4,7 @@ preTitle: "5 de octubre, 2018"
 date: 2018-10-05
 categories: ["Evento"]
 #lang-ref: first meeting
-background: https://biodiversidata.org/es/post/primer-encuentro/featured.jpg
+background: /assets/images/posts/1er_encuentro_biodiversidata.jpg
 imageLicense: |
   Foto por [**Juan Grattarola**](https://www.instagram.com/crush.uruguay/)
 ---

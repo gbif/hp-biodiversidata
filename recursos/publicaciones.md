@@ -32,19 +32,26 @@ Grattarola, Florencia, and Daniel Pincheira-Donoso. (2019). Biodiversidata: A Co
 
 Grattarola, Florencia, and Daniel Pincheira-Donoso. (2019). Data-Sharing En Uruguay, La Visión de Los Colectores y Usuarios de Datos. *Boletín de la Sociedad Zoológica del Uruguay* 28(1): 1–14. <a class="myDoi" href="https://doi.org/10.26462/28.1.1" target="_blank"><span>DOI</span><span>10.26462/28.1.1</span></a> -->
 
-## Posters
+## Informes
 
-Grattarola, Florencia. (2018). **Biodiversidata: New initiative for Uruguay**. *11th Research Data Alliance (RDA) Plenary Meeting*, Berlin, Germany. [[poster](https://www.researchgate.net/publication/324363011_Biodiversidata_New_initiative_for_Uruguay){:target="_blank"}]
+Grattarola, Florencia, Gabriel Laufer, Lucía Rodríguez-Tricot, Enrique González, and Franco Teixeira de Mello. (2024). **Desafíos y barreras para la disponibilización de datos abiertos de biodiversidad en Uruguay**. *EcoEvorxiv*. [[preprint](https://doi.org/10.32942/X2RK6K){:target="_blank"}]
 
+Claudia Cohanoff, Daniel Prieto, Florencia Grattarola, Juan Maldini, Natalia Gras, Patricia Díaz Charquero y Silvana Ravía. (2022). **Ciencia abierta en el MERCOSUR: situación y recomendaciones**. *Grupo de trabajo convocado por la Dirección Nacional de Innovación Ciencia y Tecnología del Ministerio de Educación y Cultura (DICYT) Uruguay*. [[documento](https://www.gub.uy/ministerio-educacion-cultura/sites/ministerio-educacion-cultura/files/documentos/noticias/Ciencia_Abierta_MERCOSUR-DICYT-MEC_20220920.pdf){:target="_blank"}]
 
 ## Presentaciones
 
-Grattarola, Florencia, Hanna Shmagun, Laurence Mabile, Anne Cambon-Thomsen, and Christopher Erdmann. (2022)
-**How Open Science activities are perceived and recognised in Research and the Research career**. *International Data Week 2022, 19th Research Data Alliance (RDA) Plenary Meeting*. Online - Seoul, Korea. [[presentación](https://www.rd-alliance.org/system/files/documents/RDA%20P19%20SHARC%20ig%20session%20slides%20-%2020jun22.pdf){:target="_blank"}]  
+Grattarola, Florencia, Gabriel Laufer, Enrique González, and Franco Teixeira de Mello. (2023). **Mesa Redonda “Datos abiertos de biodiversidad en Uruguay”**. *VII Congreso Uruguayo de Zoología*. Montevideo, Uruguay. [[presentación](https://doi.org/10.6084/m9.figshare.25347700.v1){:target="_blank"}]  
+
+Grattarola, Florencia, Hanna Shmagun, Laurence Mabile, Anne Cambon-Thomsen, and Christopher Erdmann. (2022). **How Open Science activities are perceived and recognised in Research and the Research career**. *International Data Week 2022, 19th Research Data Alliance (RDA) Plenary Meeting*. Online - Seoul, Korea. [[presentación](https://www.rd-alliance.org/system/files/documents/RDA%20P19%20SHARC%20ig%20session%20slides%20-%2020jun22.pdf){:target="_blank"}]  
 
 Grattarola, Florencia, and Daniel Pincheira-Donoso. (2019). **Biodiversity hotspots in Uruguay: real or fabricated?** *British Ecological Society (BES) Annual Meeting*. Belfast, Northern Ireland. [[presentación](https://flograttarola.com/talk/biodiversity-hotspots-in-uruguay-real-or-fabricated/FGrattarola_BES2019_WEB.pdf){:target="_blank"}]  
 
 Grattarola, Florencia. (2019). **Biodiversidata: A Collaborative Initiative Towards Open Data Availability in Uruguay**. *Biodiversity_Next Conference*. Leiden, The Nederland. [[presentación](https://flograttarola.com/talk/biodiversidata-a-collaborative-initiative-towards-open-data-availability-in-uruguay/Grattarola_and_Pincheira-Donoso_BiodNext_SS73.pdf){:target="_blank"}]  
+
+## Posters
+
+Grattarola, Florencia. (2018). **Biodiversidata: New initiative for Uruguay**. *11th Research Data Alliance (RDA) Plenary Meeting*, Berlin, Germany. [[poster](https://www.researchgate.net/publication/324363011_Biodiversidata_New_initiative_for_Uruguay){:target="_blank"}]
+
 
 ## Charlas
 
@@ -54,8 +61,7 @@ Grattarola, Florencia. (2022). **Activismo a través de medios digitales**. *IV 
 
 Grattarola, Florencia. (2021). **Ciencia abierta y cultura libre en Uruguay**. *Foro Abierto de Ciencias (Latinoamérica y Caribe)*. Online. [[video](https://youtu.be/W6i6y87p2IM){:target="_blank"}] [[presentación](https://flograttarola.com/talk/ciencia-abierta-y-cultura-libre-en-uruguay/Charla_Foro_CILAC_2021.pdf){:target="_blank"}]
 
-## Informes
 
-Claudia Cohanoff, Daniel Prieto, Florencia Grattarola, Juan Maldini, Natalia Gras, Patricia Díaz Charquero y Silvana Ravía. (2022). **Ciencia abierta en el MERCOSUR: situación y recomendaciones**. *Grupo de trabajo convocado por la Dirección Nacional de Innovación Ciencia y Tecnología del Ministerio de Educación y Cultura (DICYT) Uruguay*. [[documento](https://www.gub.uy/ministerio-educacion-cultura/sites/ministerio-educacion-cultura/files/documentos/noticias/Ciencia_Abierta_MERCOSUR-DICYT-MEC_20220920.pdf){:target="_blank"}]
+## Blog posts
 
-Grattarola, Florencia. (2019). Informe Anual de Biodiversidata. [[documento](/){:target="_blank"}]
+Grattarola, Florencia. (2018). **Biodiversidata – Una propuesta de ciencia abierta en Uruguay**. *Creative Commons Uruguay*. [[post](https://www.creativecommons.uy/2018/09/03/biodiversidata-una-propuesta-de-ciencia-abierta-en-uruguay/){:target="_blank"}]  

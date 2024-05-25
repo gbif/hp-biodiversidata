@@ -1,6 +1,6 @@
 ---
 lang-ref: occurrence/search
 title: Buscar registros de presencia
-description: Todo write something here
+description: Datos de Biodiversidata
 layout: occurrence
 ---

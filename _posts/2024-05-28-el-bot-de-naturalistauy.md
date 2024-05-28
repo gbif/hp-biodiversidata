@@ -18,4 +18,4 @@ El [bot de NaturalistaUY](https://ecoevo.social/@Naturalista@bots.uy) está prog
 
 ***
 
-[Accedé al bot de NaturalistaUY](https://ecoevo.social/@Naturalista@bots.uy){: .button .is-primary} [Blog post](https://www.naturalista.uy/blog/94967-lo-esencial-es-invisible-a-los-ojos-pero-no-a-los-bots){: .button}{:target="_blank"} [Repositorio GitHub](https://www.naturalista.uy/blog/94967-lo-esencial-es-invisible-a-los-ojos-pero-no-a-los-bots){: .button}{:target="_blank"}
+[Accedé al bot de NaturalistaUY](https://ecoevo.social/@Naturalista@bots.uy){: .button .is-primary} [Blog post](https://www.naturalista.uy/blog/94967-lo-esencial-es-invisible-a-los-ojos-pero-no-a-los-bots){: .button}{:target="_blank"} [Repositorio GitHub](https://github.com/bienflorencia/naturalistauy_bot){: .button}{:target="_blank"}

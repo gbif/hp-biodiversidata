@@ -34,8 +34,6 @@ Grattarola, Florencia, and Daniel Pincheira-Donoso. (2019). Data-Sharing En Urug
 
 ## Informes
 
-Grattarola, Florencia, Gabriel Laufer, Lucía Rodríguez-Tricot, Enrique González, and Franco Teixeira de Mello. (2024). **Desafíos y barreras para la disponibilización de datos abiertos de biodiversidad en Uruguay**. *EcoEvorxiv*. [[preprint](https://doi.org/10.32942/X2RK6K){:target="_blank"}]
-
 Claudia Cohanoff, Daniel Prieto, Florencia Grattarola, Juan Maldini, Natalia Gras, Patricia Díaz Charquero y Silvana Ravía. (2022). **Ciencia abierta en el MERCOSUR: situación y recomendaciones**. *Grupo de trabajo convocado por la Dirección Nacional de Innovación Ciencia y Tecnología del Ministerio de Educación y Cultura (DICYT) Uruguay*. [[documento](https://www.gub.uy/ministerio-educacion-cultura/sites/ministerio-educacion-cultura/files/documentos/noticias/Ciencia_Abierta_MERCOSUR-DICYT-MEC_20220920.pdf){:target="_blank"}]
 
 ## Presentaciones

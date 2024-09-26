@@ -60,6 +60,15 @@ publicaciones:
   #     background: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-020-79074-8/MediaObjects/41598_2020_79074_Fig4_HTML.png?as=webp # required
   #     href: https://www.nature.com/articles/s41598-020-79074-8.pdf # required
   features:
+    - preTitle: Grattarola et al. (2024) # optional
+      title: Desafíos y barreras para la disponibilización de datos abiertos de biodiversidad en Uruguay # required
+      description: |      # required
+        <a class="myDoi" href="https://doi.org/10.25260/EA.24.34.3.0.2413" target="_blank"><span>DOI</span><span>10.25260/EA.24.34.3.0.2413</span></a> <br><br>
+        Reflexiones de la ​​Mesa Redonda “Datos abiertos de biodiversidad en Uruguay” realizada en Montevideo (Uruguay) en diciembre de 2023 en el marco del VII Congreso Uruguayo de Zoología. El objetivo principal de esta sesión fue identificar las barreras para la publicación de datos abiertos sobre biodiversidad en Uruguay. Aquí describimos las barreras que encontramos y proponemos ideas para superarlas.
+      # img required
+      background: /assets/images/logos/2023-biodiversidata-ilustraciones--13.png
+      href: https://ojs.ecologiaaustral.com.ar/index.php/Ecologia_Austral/article/view/2413/1516
+
     - preTitle: Grattarola et al. (2020) # optional
       title: Multiple forms of hotspots of tetrapod biodiversity and the challenges of open-access data scarcity # required
       description: |      # required

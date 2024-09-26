@@ -1,7 +1,7 @@
 ---
 title:  "Desafíos y barreras para la disponibilización de datos abiertos de biodiversidad en Uruguay"
 preTitle: "26 de setiembre, 2024"
-date: 2024-06-17
+date: 2024-09-26
 categories: ["Publicación", "Datos abiertos"]
 #lang-ref: dataset plantas gbif
 background: https://live.staticflickr.com/65535/53510249087_30f7356642_k.jpg
@@ -17,7 +17,6 @@ imageLicense: |
 
 
 <iframe width="640" height="385" src="https://www.youtube.com/embed/3hzSsP84u88?si=HNr90CVf1Y8bh5__" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 ***
 

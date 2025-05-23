@@ -6,7 +6,7 @@ categories: ["Charla", "NaturalistaUY"]
 #lang-ref: dataset plantas gbif
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/350556399/original.jpeg
 imageLicense: |
-  Photo in Bella Unión (uruguay) by Florencia Grattarola licensed under [CC BY](https://creativecommons.org/licenses/by/2.0/) via [Flickr](https://www.flickr.com/photos/biodiversidata/52102536322/in/album-72177720299309183/)
+  *Melanophryniscus montevidensis* observed in Uruguay by Leo Lagos licensed under [CC BY](http://creativecommons.org/licenses/by/4.0/) via [iNaturalist](https://www.gbif.org/occurrence/4522701835)
 ---
 
 ## Charla a investigadores de Uruguay sobre el uso de datos de ciencia ciudadana

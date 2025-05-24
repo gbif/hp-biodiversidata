@@ -1,7 +1,7 @@
 ---
-title:  "Ciencia, tecnología y sociedad: ¿para qué? y ¿con quiénes investigamos?"
+title:  "Ciencia, tecnología y sociedad, ¿para qué? y ¿con quiénes investigamos?"
 preTitle: "25 de abril, 2025"
-date: 2025-04-25
+date: 2025-04-26
 categories: ["Curso", "Ciencia abierta"]
 #lang-ref: dataset plantas gbif
 background: assets/images/posts/post_clase-fcs-ciencia-abierta.jpg

@@ -1,5 +1,5 @@
 ---
-title:  "Uso de datos de NaturalistaUY"
+title:  "Uso de datos de NaturalistaUY en la conservación"
 preTitle: "7 de marzo, 2025"
 date: 2025-03-07
 categories: ["Charla", "NaturalistaUY"]
@@ -11,7 +11,7 @@ imageLicense: |
 
 ## Charla a investigadores de Uruguay sobre el uso de datos de ciencia ciudadana
 
-Como parte del proceso de actualización de información sobre prioridades de conservación y la red física del Sistema Nacional de Áreas Protegidas (SNAP) de Uruguay, se realizó una charla dirigida a equipos de investigadores vinculados a este trabajo. La presentación tuvo como objetivo introducir la plataforma NaturalistaUY y mostrar cómo descargar datos generados por la ciencia ciudadana, así como explorar sus potenciales usos científicos.  
+Como parte del proceso de actualización de información sobre prioridades de conservación y la red física del Sistema Nacional de Áreas Protegidas (SNAP) de Uruguay, se realizó una charla dirigida a equipos de investigadores vinculados a este trabajo. La presentación estuvo a cargo de Florencia Grattarola y tuvo como objetivo introducir la plataforma NaturalistaUY y mostrar cómo descargar datos generados por la ciencia ciudadana, así como explorar sus potenciales usos científicos.  
 
 Esta actividad se enmarcó en el Convenio específico de cooperación técnica entre el Centro Universitario Regional del Este (Universidad de la República) y la Dirección Nacional de Biodiversidad y Servicios Ecosistémicos (DINABISE – Ministerio de Ambiente).
 

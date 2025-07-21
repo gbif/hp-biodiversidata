@@ -53,6 +53,8 @@ Grattarola, Florencia. (2018). **Biodiversidata: New initiative for Uruguay**. *
 
 ## Charlas
 
+Grattarola, Florencia. (2025). **Ciencia ciudadana como estrategia de ciencia abierta y participativa**. *IV Congreso Nacional de Biociencias del Uruguay*. Montevideo, Uruguay. [[presentación](https://biodiversidata.org/assets/pdf/CNB_2025_FGrattarola.pdf){:target="_blank"}]  
+
 Grattarola, Florencia. (2022). **Biodiversidata: el Consorcio de Datos de Biodiversidad del Uruguay**. *Jornada sobre Estrategia Latino Americana, Caribeña e Iberoamericana para la Información de Biodiversidad*. Sevilla, España. [[presentación](https://flograttarola.com/talk/biodiversidata-el-consorcio-de-datos-de-biodiversidad-del-uruguay/Biodiversidata_Sevilla.pdf){:target="_blank"}]  
 
 Grattarola, Florencia. (2022). **Activismo a través de medios digitales**. *IV Jornada de Ciudadanía Digital, Agesic y Plan Ceibal*. Online. [[video](https://youtu.be/NNA46QEZVQI){:target="_blank"}]  

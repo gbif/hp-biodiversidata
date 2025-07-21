@@ -2,7 +2,7 @@
 title:  "Apoyo a la publicación de datos de Bol-UY en GBIF"
 preTitle: "18 de julio, 2025"
 date: 2025-07-18
-categories: ["Datos Abiertos", "R", "Wikimedia Commons"]
+categories: ["Datos abiertos", "R", "Wikimedia Commons"]
 #lang-ref: dataset plantas gbif
 background: https://inaturalist-open-data.s3.amazonaws.com/photos/60042984/original.jpeg
 imageLicense: |

@@ -60,6 +60,15 @@ publicaciones:
   #     background: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-020-79074-8/MediaObjects/41598_2020_79074_Fig4_HTML.png?as=webp # required
   #     href: https://www.nature.com/articles/s41598-020-79074-8.pdf # required
   features:
+    - preTitle: Grattarola et al. (2025) # optional
+      title: "NaturalistaUY en Uruguay: un caso de ciencia comunitaria en América Latina desde una perspectiva crítica" # required
+      description: |      # required
+        <a class="myDoi" href="https://doi.org/10.5380/dma.v66i.95896" target="_blank"><span>DOI</span><span>10.5380/dma.v66i.95896</span></a> <br><br>
+        Frente al auge de iNaturalist en la región y al lanzamiento de NaturalistaUY en Uruguay, nos preguntamos si es posible utilizar esta plataforma para aprender y generar nuevos conocimientos que tengan como foco las realidades y necesidades de las comunidades locales. Este trabajo presenta una experiencia pionera en el país, que busca situar la recolección de datos y la generación de conocimiento en un contexto sociopolítico.
+      # img required
+      background: /assets/images/logos/2023-biodiversidata-ilustraciones--20.png
+      href: https://doi.org/10.5380/dma.v66i.95896
+
     - preTitle: Grattarola et al. (2024) # optional
       title: Desafíos y barreras para la disponibilización de datos abiertos de biodiversidad en Uruguay # required
       description: |      # required

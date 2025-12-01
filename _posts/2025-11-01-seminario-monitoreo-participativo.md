@@ -23,4 +23,4 @@ La experiencia presentada se da en el marco del proyecto "**NaturalistaUY: una c
 
 ***
 
-[Diapositivas](https://flograttarola.com/talk/naturalistauy-un-caso-de-ciencia-comunitaria-en-america-latina-desde-una-perspectiva-critica/EP_Monitoreo_Ambiental_Participativo_2025.pdf){: .button .is-primary}{:target="_blank"}
+[Diapositivas](/assets/pdf/EP_Monitoreo_Ambiental_Participativo_2025.pdf){: .button .is-primary}{:target="_blank"}

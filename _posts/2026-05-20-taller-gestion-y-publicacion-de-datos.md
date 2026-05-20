@@ -1,0 +1,43 @@
+---
+title:  "Gestión y publicación de datos de biodiversidad"
+preTitle: "20 de mayo, 2026"
+date: 2026-05-20
+categories: ["Curso", "Ciencia abierta"]
+#lang-ref: dataset plantas gbif
+background: https://live.staticflickr.com/4870/32347061968_dd201a218d_h.jpg
+imageLicense: |
+  Photo by Biodiversidata licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/2.0/deed.es) via [Flickr](https://flic.kr/p/Rhp9yY)
+---
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/biodiversidata/32347061968/in/album-72157674289614427" title="Jornada de integrantes de Biodiversidata"><img src="https://live.staticflickr.com/4870/32347061968_dd201a218d_h.jpg" width="1600" height="1063" alt="Jornada de integrantes de Biodiversidata"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+## Taller: Gestión y publicación de datos de biodiversidad
+
+Biodiversidata invita a personas de la comunidad científica de Uruguay al taller teórico-práctico de dos días “Gestión y publicación de datos de biodiversidad”. 
+
+Dirigido a estudiantes, investigadorxs y otrxs interesadxs en adquirir conocimientos sobre calidad, gestión y publicación de datos de biodiversidad en el marco de la Infraestructura Global de Información sobre Biodiversidad (GBIF).
+
+📅 **Fecha**: lunes 8 y martes 9 de junio, 2026
+🕤 **Horario**: 9:30 a 15:30 hs
+📍 **Lugar**: Centro Universitario Regional del Este (Universidad de la República), Maldonado
+
+💬 El taller contará con espacios de charlas, talleres prácticos y una mesa redonda.
+
+**Equipo docente**
+- Clara Baringo (SIBBr, Brasil) 🇧🇷
+- Ricardo Ortiz (Instituto Humboldt, Colombia) 🇨🇴
+- Ricardo Segovia (Instituto de Ecología y Biodiversidad, Chile) 🇨🇱
+- Florencia Grattarola (Biodiversidata; Czech University of Life Sciences Prague, República Checa) 🇺🇾🇨🇿
+- Lucía Rodríguez-Tricot (Biodiversidata; CURE-UdelaR; Instituto SARAS) 🇺🇾
+- Gabriel Laufer (Biodiversidata; Vida Silvestre Uruguay; MNHN) 🇺🇾
+
+
+✍️ **Inscripciones**: https://forms.gle/LXT3NYfTq4SC3iQL7 (abiertas hasta el 1 de junio) 
+👥 **Cupo**: 25 estudiantes
+📩 **Más información**: biodiversidata@gmail.com 
+
+Apoyan: Departamento de Ecología y Gestión Ambiental (CURE-UdelaR), Departamento de Modelización Estadística de Datos e Inteligencia Artificial (CURE-UdelaR) y Conservation Leadership Programme.
+
+***
+
+[Programa detallado](/recursos/formacion/taller_gestion_y_publicacion_de_datos){: .button .is-primary}{:target="_blank"}

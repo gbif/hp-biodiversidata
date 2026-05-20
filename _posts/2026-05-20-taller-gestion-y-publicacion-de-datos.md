@@ -8,7 +8,7 @@ background: assets/images/posts/imagen_taller_2026.png
 
 ---
 
-## Introducción a personas de la comunidad científica de Uruguay al conocimiento sobre la calidad, gestión y publicación de datos de biodiversidad
+## Introducción al conocimiento sobre la calidad, gestión y publicación de datos de biodiversidad en Uruguay
 
 Biodiversidata invita a personas de la comunidad científica de Uruguay al taller teórico-práctico de dos días “Gestión y publicación de datos de biodiversidad”. 
 

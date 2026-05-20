@@ -58,7 +58,7 @@ taller:
   description: |      # required
     El objetivo de este curso es brindar una introducción a personas de la comunidad científica de Uruguay al conocimiento sobre la calidad, gestión y publicación de datos de biodiversidad.
   background: /assets/images/posts/imagen_taller_2026.png
-  href: taller
+  href: taller_gestion_y_publicacion_de_datos
   imageLicense: |
     Tribe Arcana by Javier Gamboa. GBIF Secretariat (2024) via [Flickr](flic.kr/p/2rRtpkZ)
   cta:

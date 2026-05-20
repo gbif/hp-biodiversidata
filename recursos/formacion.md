@@ -11,6 +11,8 @@ composition:
   - type: heroImage
   - type: pageMarkdown
   - type: split
+    data: formacion.taller
+  - type: split
     data: formacion.cesp
   - type: split
     data: formacion.naturalistauy

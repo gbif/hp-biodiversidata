@@ -4,9 +4,8 @@ preTitle: "20 de mayo, 2026"
 date: 2026-05-20
 categories: ["Curso", "Ciencia abierta"]
 #lang-ref: dataset plantas gbif
-background: https://live.staticflickr.com/4870/32347061968_dd201a218d_h.jpg
-imageLicense: |
-  Photo by Biodiversidata licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/2.0/deed.es) via [Flickr](https://flic.kr/p/Rhp9yY)
+background: assets/images/posts/banner_taller_2026.png
+
 ---
 
 ## Taller: Gestión y publicación de datos de biodiversidad

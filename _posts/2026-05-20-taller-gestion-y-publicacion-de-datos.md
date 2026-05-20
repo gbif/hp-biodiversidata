@@ -15,9 +15,9 @@ Biodiversidata invita a personas de la comunidad científica de Uruguay al talle
 
 Dirigido a estudiantes, investigadorxs y otrxs interesadxs en adquirir conocimientos sobre calidad, gestión y publicación de datos de biodiversidad en el marco de la Infraestructura Global de Información sobre Biodiversidad (GBIF).
 
-📅 **Fecha**: lunes 8 y martes 9 de junio, 2026
-🕤 **Horario**: 9:30 a 15:30 hs
-📍 **Lugar**: Centro Universitario Regional del Este (Universidad de la República), Maldonado
+📅 **Fecha**: lunes 8 y martes 9 de junio, 2026  
+🕤 **Horario**: 9:30 a 15:30 hs   
+📍 **Lugar**: Centro Universitario Regional del Este (Universidad de la República), Maldonado  
 
 💬 El taller contará con espacios de charlas, talleres prácticos y una mesa redonda.
 
@@ -30,9 +30,9 @@ Dirigido a estudiantes, investigadorxs y otrxs interesadxs en adquirir conocimie
 - Gabriel Laufer (Biodiversidata; Vida Silvestre Uruguay; MNHN) 🇺🇾
 
 
-✍️ **Inscripciones**: https://forms.gle/LXT3NYfTq4SC3iQL7 (abiertas hasta el 1 de junio) 
-👥 **Cupo**: 25 estudiantes
-📩 **Más información**: biodiversidata@gmail.com 
+✍️ **Inscripciones**: [https://forms.gle/LXT3NYfTq4SC3iQL7](https://forms.gle/LXT3NYfTq4SC3iQL7){:target="_blank"} (abiertas hasta el 1 de junio).   
+👥 **Cupo**: 25 estudiantes   
+📩 **Más información**: [biodiversidata@gmail.com](mailto:biodiversidata@gmail.com){:target="_blank"}   
 
 Apoyan: Departamento de Ecología y Gestión Ambiental (CURE-UdelaR), Departamento de Modelización Estadística de Datos e Inteligencia Artificial (CURE-UdelaR) y Conservation Leadership Programme.
 

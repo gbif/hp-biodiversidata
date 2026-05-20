@@ -5,7 +5,7 @@ title: Taller
 
 # Gestión y publicación de datos de biodiversidad
 
-El objetivo de este taller brindar una aproximación a personas de la comunidad científica de Uruguay al conocimiento sobre la calidad, gestión y publicación de datos de biodiversidad en el marco de la Infraestructura Global de Información sobre Biodiversidad (GBIF).
+El objetivo de este taller brindar una introducción a personas de la comunidad científica de Uruguay al conocimiento sobre la calidad, gestión y publicación de datos de biodiversidad en el marco de la Infraestructura Global de Información sobre Biodiversidad (GBIF).
 
 
 ![](/assets/images/posts/banner_taller_2026.png)

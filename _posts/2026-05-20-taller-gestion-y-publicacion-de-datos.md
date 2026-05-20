@@ -4,7 +4,7 @@ preTitle: "20 de mayo, 2026"
 date: 2026-05-20
 categories: ["Curso", "Ciencia abierta"]
 #lang-ref: dataset plantas gbif
-background: assets/images/posts/banner_taller_2026.png
+background: assets/images/posts/imagen_taller_2026.png
 
 ---
 

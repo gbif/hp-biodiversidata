@@ -50,6 +50,22 @@ naturalistauy:
     href: https://docs.google.com/presentation/d/1acK6ZD41f8XMQQsUhKtop_vik_07187KQVtL8iUzPQQ/edit?usp=sharing
     isPrimary: false
 
+taller:
+  reverse: true
+  height: 50vh
+  title: Gestión y publicación de datos de biodiversidad
+  preTitle: Curso-taller
+  description: |      # required
+    El objetivo de este curso es brindar una introducción a personas de la comunidad científica de Uruguay al conocimiento sobre la calidad, gestión y publicación de datos de biodiversidad.
+  background: /assets/images/posts/banner_taller_2026.png
+  href: taller
+  imageLicense: |
+    Tribe Arcana by Javier Gamboa. GBIF Secretariat (2024) via [Flickr](flic.kr/p/2rRtpkZ)
+  cta:
+  - text: Accedé al curso
+    href: recursos/formacion/taller_gestion_y_publicacion_de_datos
+    isPrimary: true
+
 cesp:
   reverse: true
   height: 50vh

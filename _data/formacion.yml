@@ -62,7 +62,7 @@ taller:
   imageLicense: |
     Tribe Arcana by Javier Gamboa. GBIF Secretariat (2024) via [Flickr](flic.kr/p/2rRtpkZ)
   cta:
-  - text: Accedé al curso
+  - text: Más información
     href: recursos/formacion/taller_gestion_y_publicacion_de_datos
     isPrimary: true
 

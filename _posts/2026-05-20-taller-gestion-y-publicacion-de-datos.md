@@ -9,8 +9,6 @@ imageLicense: |
   Photo by Biodiversidata licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/2.0/deed.es) via [Flickr](https://flic.kr/p/Rhp9yY)
 ---
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/biodiversidata/32347061968/in/album-72157674289614427" title="Jornada de integrantes de Biodiversidata"><img src="https://live.staticflickr.com/4870/32347061968_dd201a218d_h.jpg" width="1600" height="1063" alt="Jornada de integrantes de Biodiversidata"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 ## Taller: Gestión y publicación de datos de biodiversidad
 
 Biodiversidata invita a personas de la comunidad científica de Uruguay al taller teórico-práctico de dos días “Gestión y publicación de datos de biodiversidad”. 

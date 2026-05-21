@@ -5,7 +5,8 @@ date: 2026-05-20
 categories: ["Curso", "Ciencia abierta"]
 #lang-ref: dataset plantas gbif
 background: assets/images/posts/imagen_taller_2026.png
-
+imageLicense: |
+  Tribe Arcana by Javier Gamboa. GBIF Secretariat (2024). Licensed under [CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0) via [Flickr](flic.kr/p/2rRtpkZ)
 ---
 
 ## Introducción al conocimiento sobre la calidad, gestión y publicación de datos de biodiversidad en Uruguay

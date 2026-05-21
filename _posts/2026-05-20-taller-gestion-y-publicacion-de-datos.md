@@ -28,12 +28,11 @@ Dirigido a estudiantes, investigadorxs y otrxs interesadxs en adquirir conocimie
 - Lucía Rodríguez-Tricot (Biodiversidata; CURE-UdelaR; Instituto SARAS) 🇺🇾
 - Gabriel Laufer (Biodiversidata; Vida Silvestre Uruguay; MNHN) 🇺🇾
 
-
 ✍️ **Inscripciones**: [https://forms.gle/LXT3NYfTq4SC3iQL7](https://forms.gle/LXT3NYfTq4SC3iQL7){:target="_blank"} (abiertas hasta el 1 de junio).   
 👥 **Cupo**: 25 estudiantes   
 📩 **Más información**: [biodiversidata@gmail.com](mailto:biodiversidata@gmail.com){:target="_blank"}   
 
-Apoyan: Departamento de Ecología y Gestión Ambiental (CURE-UdelaR), Departamento de Modelización Estadística de Datos e Inteligencia Artificial (CURE-UdelaR) y Conservation Leadership Programme.
+**Apoyan**: Departamento de Ecología y Gestión Ambiental (CURE-UdelaR), Departamento de Modelización Estadística de Datos e Inteligencia Artificial (CURE-UdelaR) y Conservation Leadership Programme.
 
 ***
 

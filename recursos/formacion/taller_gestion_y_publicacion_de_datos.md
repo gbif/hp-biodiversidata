@@ -22,7 +22,7 @@ Se realizará el lunes 8 y martes 9 de junio, 2026 en el Centro Universitario Re
 
 Contará con espacios teóricos, talleres prácticos, una charla y una mesa redonda.
 
-[¡Programa en construcción!](){: .button target="_blank"}
+[¡Programa en construcción!](){: .button}
 
 #### Instancias teóricas (Clara Baringo y Ricardo Ortiz)
 

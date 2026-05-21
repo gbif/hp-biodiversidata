@@ -24,7 +24,7 @@ Contará con espacios teóricos, talleres prácticos, una charla y una mesa redo
 
 [¡Programa en construcción!](){: .button}
 
-[¡Programa en construcción!]{: .notification .is-primary }
+¡Programa en construcción! {: .notification .is-primary }
 
 #### Instancias teóricas (Clara Baringo y Ricardo Ortiz)
 

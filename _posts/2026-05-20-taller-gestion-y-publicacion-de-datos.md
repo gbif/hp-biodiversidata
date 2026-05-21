@@ -6,14 +6,14 @@ categories: ["Curso", "Ciencia abierta"]
 #lang-ref: dataset plantas gbif
 background: assets/images/posts/imagen_taller_2026.png
 imageLicense: |
-  Tribe Arcana by Javier Gamboa. GBIF Secretariat (2024). Licensed under [CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0) via [Flickr](flic.kr/p/2rRtpkZ)
+  Tribe Arcana by Javier Gamboa. GBIF Secretariat (2024). Licensed under [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0) via [Flickr](flic.kr/p/2rRtpkZ)
 ---
 
 ## Introducción al conocimiento sobre la calidad, gestión y publicación de datos de biodiversidad en Uruguay
 
-Biodiversidata invita a personas de la comunidad científica de Uruguay al taller teórico-práctico de dos días “Gestión y publicación de datos de biodiversidad”. 
+Biodiversidata invita a quienes trabajan con datos de biodiversidad en Uruguay al taller teórico-práctico de dos días: “**Gestión y publicación de datos de biodiversidad**”. 
 
-Dirigido a estudiantes, investigadorxs y otrxs interesadxs en adquirir conocimientos sobre calidad, gestión y publicación de datos de biodiversidad en el marco de la Infraestructura Global de Información sobre Biodiversidad (GBIF).
+Dirigido a estudiantes, investigadorxs, técnicxs y otrxs interesadxs en adquirir conocimientos sobre calidad, gestión y publicación de datos de biodiversidad en el marco de la Infraestructura Global de Información sobre Biodiversidad (GBIF).
 
 📅 **Fecha**: lunes 8 y martes 9 de junio, 2026  
 🕤 **Horario**: 9:30 a 15:30 hs   
@@ -22,12 +22,12 @@ Dirigido a estudiantes, investigadorxs y otrxs interesadxs en adquirir conocimie
 💬 El taller contará con espacios de charlas, talleres prácticos y una mesa redonda.
 
 **Equipo docente**
-- Clara Baringo (SIBBr, Brasil) 🇧🇷
-- Ricardo Ortiz (Instituto Humboldt, Colombia) 🇨🇴
-- Ricardo Segovia (Instituto de Ecología y Biodiversidad, Chile) 🇨🇱
+- Clara Baringo (Sistema de Informação sobre a Biodiversidade Brasileira-SIBBr, Brasil) 🇧🇷
+- Ricardo Ortiz (Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Colombia) 🇨🇴
+- Ricardo Segovia (Instituto de Ecología y Biodiversidad-IEB, Chile) 🇨🇱
 - Florencia Grattarola (Biodiversidata; Czech University of Life Sciences Prague, República Checa) 🇺🇾🇨🇿
-- Lucía Rodríguez-Tricot (Biodiversidata; CURE-UdelaR; Instituto SARAS) 🇺🇾
-- Gabriel Laufer (Biodiversidata; Vida Silvestre Uruguay; MNHN) 🇺🇾
+- Lucía Rodríguez-Tricot (Biodiversidata; Centro Universitario Regional Este-CURE-UdelaR; Instituto SARAS) 🇺🇾
+- Gabriel Laufer (Biodiversidata; Vida Silvestre Uruguay; Museo Nacional de Historia Natural) 🇺🇾
 
 ✍️ **Inscripciones**: [https://forms.gle/LXT3NYfTq4SC3iQL7](https://forms.gle/LXT3NYfTq4SC3iQL7){:target="_blank"} (abiertas hasta el 1 de junio).   
 👥 **Cupo**: 25 estudiantes   
@@ -37,4 +37,4 @@ Dirigido a estudiantes, investigadorxs y otrxs interesadxs en adquirir conocimie
 
 ***
 
-[Programa detallado](/recursos/formacion/taller_gestion_y_publicacion_de_datos){: .button .is-primary}{:target="_blank"}
+[Inscripciones](https://forms.gle/LXT3NYfTq4SC3iQL7){: .button .is-primary}{:target="_blank"} [Programa detallado](/recursos/formacion/taller_gestion_y_publicacion_de_datos){: .button}{:target="_blank"}

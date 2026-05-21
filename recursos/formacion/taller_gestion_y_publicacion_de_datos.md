@@ -5,6 +5,13 @@ title: Taller
 
 # Gestión y publicación de datos de biodiversidad
 
+<br>
+[¡En construcción!](){: .notification .is-danger}  
+<br>
+
+![](/assets/images/posts/afiche_taller_2026.png)
+
+
 El objetivo de este taller brindar una introducción a personas de la comunidad científica de Uruguay al conocimiento sobre la calidad, gestión y publicación de datos de biodiversidad en el marco de la Infraestructura Global de Información sobre Biodiversidad (GBIF).
 
 Se realizará el lunes 8 y martes 9 de junio, 2026 en el Centro Universitario Regional del Este (Universidad de la República), Maldonado.
@@ -18,15 +25,9 @@ Se realizará el lunes 8 y martes 9 de junio, 2026 en el Centro Universitario Re
 - Lucía Rodríguez-Tricot (Biodiversidata; CURE-UdelaR; Instituto SARAS) 
 - Gabriel Laufer (Biodiversidata; Vida Silvestre Uruguay; MNHN) 
 
-### Curso-taller
+### Programa
 
-Contará con espacios teóricos, talleres prácticos, una charla y una mesa redonda.
-
-[¡Programa en construcción!](){: .button}  
-
-[¡Programa en construcción!]{: .notification .is-primary}  
-
-¡Programa en construcción!{: .notification .is-primary}  
+Contará con espacios teóricos, talleres prácticos, una charla y una mesa redonda.  
 
 #### Instancias teóricas (Clara Baringo y Ricardo Ortiz)
 
@@ -46,6 +47,11 @@ Contará con espacios teóricos, talleres prácticos, una charla y una mesa redo
 #### Mesa redonda (Integrantes de Biodiversidata, MEDIA y DEGA)
 
 - Situación en Uruguay: dificultades locales para la apertura de datos. 
+    - Florencia Grattarola (Biodiversidata)
+    - Lucía Rodríguez-Tricot (Biodiversidata)
+    - Gabriel Laufer (Biodiversidata)
+    - Gabriela Vélez-Rubio (MEDIA, CURE-UdelaR)
+    - Franco Teixeira de Mello (DEGA, CURE-UdelaR)
 
 ---
 

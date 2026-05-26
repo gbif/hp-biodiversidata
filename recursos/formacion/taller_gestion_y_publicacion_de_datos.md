@@ -5,40 +5,41 @@ title: Taller
 
 # Gestión y publicación de datos de biodiversidad
 
-<br>
-[¡En construcción!](){: .notification .is-danger}  
-<br>
-
-![](/assets/images/posts/afiche_taller_2026.png)
-
-
-El objetivo de este taller brindar una introducción a personas de la comunidad científica de Uruguay al conocimiento sobre la calidad, gestión y publicación de datos de biodiversidad en el marco de la Infraestructura Global de Información sobre Biodiversidad (GBIF).
+El objetivo de este taller brindar una introducción a personas de Uruguay al conocimiento sobre la calidad, gestión y publicación de datos de biodiversidad en el marco de la Infraestructura Global de Información sobre Biodiversidad (GBIF).
 
 Se realizará el lunes 8 y martes 9 de junio, 2026 en el Centro Universitario Regional del Este (Universidad de la República), Maldonado.
 
 ### Equipo docente
 
-- Clara Baringo (SIBBr, Brasil) 
-- Ricardo Ortiz (Instituto Humboldt, Colombia)
-- Ricardo Segovia (Instituto de Ecología y Biodiversidad, Chile)
-- Florencia Grattarola (Biodiversidata; Czech University of Life Sciences Prague, República Checa)
-- Lucía Rodríguez-Tricot (Biodiversidata; CURE-UdelaR; Instituto SARAS) 
-- Gabriel Laufer (Biodiversidata; Vida Silvestre Uruguay; MNHN) 
+- Clara Baringo (Sistema de Informação sobre a Biodiversidade Brasileira-SIBBr, Brasil)   
+- Ricardo Ortiz (Sistema de Información sobre Biodiversidad de Colombia-SiB, Colombia)   
+- Ricardo Segovia (Instituto de Ecología y Biodiversidad-IEB, Chile)   
+- Florencia Grattarola (Biodiversidata; Czech University of Life Sciences Prague, República Checa)   
+- Lucía Rodríguez-Tricot (Biodiversidata; Centro Universitario Regional Este CURE-UdelaR; Instituto SARAS)   
+- Gabriel Laufer (Biodiversidata; Vida Silvestre Uruguay; Museo Nacional de Historia Natural)   
 
 ### Programa
+
+<br>
+[**¡En construcción!**](){: .notification}  
+<br>
 
 Contará con espacios teóricos, talleres prácticos, una charla y una mesa redonda.  
 
 #### Instancias teóricas (Clara Baringo y Ricardo Ortiz)
 
 - Importancia de datos abiertos (Principios FAIR y CARE, GBIF).  
-- Estándares de datos (Darwin Core - Darwin Core Archive).  
+- Beneficios de la publicación de datos.  
+- Estándares de datos (Darwin Core - Darwin Core Archive) y tipos de datos.  
+- Recomendaciones generales de calidad de datos.  
+- Data papers 
 
 #### Actividades prácticas (Clara Baringo y Ricardo Ortiz)
 
-- Herramientas de publicación (IPT, metadatos, data papers).  
-- Templates y calidad de datos.  
-- Publicación de datos mediante el IPT de GBIF.   
+- Estructuración de datos en datos en Darwin Core.
+- Exploración rápida de herramientas de calidad (nombres científicos, fechas y coordenadas)
+- Herramientas de publicación (IPT).  
+- Uso de datos.  
 
 #### Charla (Ricardo Segovia)
 
@@ -60,3 +61,5 @@ Contará con espacios teóricos, talleres prácticos, una charla y una mesa redo
 ***
 
 [Inscripciones](https://forms.gle/LXT3NYfTq4SC3iQL7){: .button .is-primary target="_blank"}
+
+![](/assets/images/posts/afiche_taller_2026.png)

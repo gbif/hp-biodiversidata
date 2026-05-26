@@ -23,7 +23,7 @@ Dirigido a estudiantes, investigadorxs, técnicxs y otrxs interesadxs en adquiri
 
 **Equipo docente**
 - Clara Baringo (Sistema de Informação sobre a Biodiversidade Brasileira-SIBBr, Brasil) 🇧🇷
-- Ricardo Ortiz (Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Colombia) 🇨🇴
+- Ricardo Ortiz (Sistema de Información sobre Biodiversidad de Colombia-SiB, Colombia) 🇨🇴
 - Ricardo Segovia (Instituto de Ecología y Biodiversidad-IEB, Chile) 🇨🇱
 - Florencia Grattarola (Biodiversidata; Czech University of Life Sciences Prague, República Checa) 🇺🇾🇨🇿
 - Lucía Rodríguez-Tricot (Biodiversidata; Centro Universitario Regional Este-CURE-UdelaR; Instituto SARAS) 🇺🇾

@@ -7,8 +7,6 @@ title: Taller
 
 El objetivo de este taller fue brindar una introducción a personas de Uruguay al conocimiento sobre la calidad, gestión y publicación de datos de biodiversidad en el marco de la Infraestructura Global de Información sobre Biodiversidad (GBIF).
 
-<a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/biodiversidata/albums/72177720334627033" title="Gestión y publicación de datos de biodiversidad"><img src="https://live.staticflickr.com/65535/55385477260_af9c4cf241_b.jpg" width="1600" height="1200" alt="Gestión y publicación de datos de biodiversidad"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 ### Equipo docente
 
 - **Clara Baringo** (Sistema de Informação sobre a Biodiversidade Brasileira-SIBBr, Brasil)   
@@ -216,6 +214,8 @@ El objetivo de este taller fue brindar una introducción a personas de Uruguay a
   </tbody>
 </table>
 
+
+<iframe width="800" height="400" src="https://www.youtube.com/embed/mI29oQuRvcw?si=wFdtuDgDTbEXDgWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

@@ -5,8 +5,9 @@ title: Taller
 
 ![](/assets/images/posts/banner_taller_2026.png)
 
-El objetivo de este taller brindar una introducción a personas de Uruguay al conocimiento sobre la calidad, gestión y publicación de datos de biodiversidad en el marco de la Infraestructura Global de Información sobre Biodiversidad (GBIF).
+El objetivo de este taller fue brindar una introducción a personas de Uruguay al conocimiento sobre la calidad, gestión y publicación de datos de biodiversidad en el marco de la Infraestructura Global de Información sobre Biodiversidad (GBIF).
 
+<a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/biodiversidata/albums/72177720334627033" title="Gestión y publicación de datos de biodiversidad"><img src="https://live.staticflickr.com/65535/55385477260_af9c4cf241_b.jpg" width="1600" height="1200" alt="Gestión y publicación de datos de biodiversidad"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Equipo docente
 
@@ -18,11 +19,6 @@ El objetivo de este taller brindar una introducción a personas de Uruguay al co
 - **Gabriel Laufer** (Biodiversidata; Vida Silvestre Uruguay; Museo Nacional de Historia Natural)   
 
 ### Programa
-
-<br>
-[Todo el material del curso quedará disponible en esta página](){: .notification .is-primary}  
-<br>
-
 
 <style>
   .schedule-table {
@@ -89,7 +85,8 @@ El objetivo de este taller brindar una introducción a personas de Uruguay al co
     <tr>
       <td>09:30 - 09:40</td>
       <td>
-        Bienvenida y apertura del evento<br>
+        Bienvenida y apertura del evento
+        (<a href="/assets/pdf/Apertura_Taller_CURE_2026.pdf" target="_blank"><strong>presentación</strong></a>)<br>
         Presentación de Biodiversidata y del taller
       </td>
       <td class="col-type">Apertura</td>
@@ -99,9 +96,10 @@ El objetivo de este taller brindar una introducción a personas de Uruguay al co
       <td>09:40 - 10:25</td>
       <td>
         Importancia de datos abiertos FAIR y CARE
+        (<a href="/assets/pdf/01_Intro_GBIF__Taller_CURE_2026.pdf" target="_blank"><strong>presentación</strong></a>)
         <ul>
           <li>¿Qué es GBIF?</li>
-          <li>GBIF Uruguay y SiBUY</li>
+          <li>GBIF Uruguay y SiBUY (<a href="/assets/pdf/SIBUy_Ministerio_de_Ambiente_Taller_CURE_2026.pdf" target="_blank"><strong>presentación</strong></a>)</li>
           <li>Beneficios de la publicación de datos</li>
           <li>Visibilidad de las organizaciones</li>
         </ul>
@@ -116,6 +114,7 @@ El objetivo de este taller brindar una introducción a personas de Uruguay al co
       <td>10:30 - 11:30</td>
       <td>
         Estándares de datos y tipos de datos
+        (<a href="/assets/pdf/02_Tipos de datos_Estandares _Taller CURE 2026.pdf" target="_blank"><strong>presentación</strong></a>)
         <ul>
           <li>Darwin Core (DwC) y el formato de empaquetamiento de datos DwC-Archive.</li>
           <li>Otros estándares y extensiones emergentes</li>
@@ -126,7 +125,8 @@ El objetivo de este taller brindar una introducción a personas de Uruguay al co
     </tr>
     <tr>
       <td>11:30 - 12:00</td>
-      <td>Recomendaciones generales de calidad de datos</td>
+      <td>Recomendaciones generales de calidad de datos
+      (<a href="/assets/pdf/03_Calidad Datos_Taller CURE 2026.pdf" target="_blank"><strong>presentación</strong></a>)</td>
       <td class="col-type">Teórico</td>
       <td>Ricardo Ortiz,<br>Clara Baringo,<br>Ricardo Segovia</td>
     </tr>
@@ -135,7 +135,9 @@ El objetivo de este taller brindar una introducción a personas de Uruguay al co
     </tr>
     <tr>
       <td>13:00 - 14:15</td>
-      <td>Ejercicio práctico: estructuración de datos en datos en Darwin Core.</td>
+      <td>Ejercicio práctico: estructuración de datos en datos en Darwin Core
+      (<a href="https://drive.google.com/drive/folders/1-tk5-rdsl6BoNa9OTaLaoc9C6oCWcmaf?usp=share_link" target="_blank"><strong>materiales</strong></a>)
+      </td>
       <td class="col-type">Práctico</td>
       <td>Ricardo Ortiz,<br>Clara Baringo</td>
     </tr>
@@ -144,9 +146,9 @@ El objetivo de este taller brindar una introducción a personas de Uruguay al co
       <td>
         Exploración rápida de herramientas de calidad
         <ul>
-          <li>Species Match - GBIF</li>
-          <li>Date Converter - Canadensys</li>
-          <li>Coordinate Converter - Canadensys</li>
+          <li><a href="https://www.gbif.org/tools/species-lookup" target="_blank">Species matching</a> - GBIF</li>
+          <li><a href="https://data.canadensys.net/tools/dates" target="_blank">Date parsing</a> - Canadensys</li>
+          <li><a href="https://data.canadensys.net/tools/coordinates" target="_blank">Coordinate conversion</a> - Canadensys</li>
         </ul>
       </td>
       <td class="col-type">Práctico</td>
@@ -181,7 +183,7 @@ El objetivo de este taller brindar una introducción a personas de Uruguay al co
     <tr>
       <td>10:50 - 12:00</td>
       <td>
-        Uso de datos
+        Uso de datos (<a href="https://ricardosegovia.github.io/BIODATA_USO/tutorials/" target="_blank"><strong>sitio web</strong></a>)
         <ul>
           <li>Introducción básica a R</li>
           <li>Descarga y limpieza</li>
@@ -197,7 +199,8 @@ El objetivo de este taller brindar una introducción a personas de Uruguay al co
     <tr>
       <td>13:00 - 14:30</td>
       <td>Situación en Uruguay<br>
-      Exposición y discusión sobre experiencias y desafíos locales para la apertura de datos de biodiversidad</td>
+      Exposición y discusión sobre experiencias y desafíos locales para la apertura de datos de biodiversidad
+      (<a href="/assets/pdf/Mesa_redonda_Taller_CURE_2026.pdf" target="_blank"><strong>presentación</strong></a> | <a href="https://youtu.be/mI29oQuRvcw?si=wFdtuDgDTbEXDgWg" target="_blank"><strong>video</strong></a>)</td>
       <td class="col-type">Mesa redonda</td>
       <td>Florencia Grattarola (Biodiversidata),<br> Mariana Ríos (DINABISE, Ministerio de Medio Ambiente),<br> Gabriela Vélez-Rubio (FCien, MEDIA, CURE-UdelaR),<br> Franco Teixeira de Mello (DEGA, CURE-UdelaR)</td>
     </tr>
@@ -205,6 +208,7 @@ El objetivo de este taller brindar una introducción a personas de Uruguay al co
       <td>14:30 - 15:30</td>
       <td>
         Experiencia y aprendizajes del curso internacional "Gestión de Datos de Biodiversidad"
+        (<a href="/assets/pdf/Biodata_Taller_CURE_2026.pdf" target="_blank"><strong>presentación</strong></a>)
       </td>
       <td class="col-type">Charla</td>
       <td>Ricardo Segovia</td>
